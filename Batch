@@ -1,5 +1,11 @@
 [
   {
+    "batch_name": "BCECE (LE) Online Recorded Course",
+    "batch_id": "328441",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6OTI4MjgwMDksIm9yZ0lkIjo5MTgzLCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTYyMDUwMTIwNTciLCJuYW1lIjoiQXkgS2luZyIsImVtYWlsIjoiaGt1bWFyOTE4NjRAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJpcXZxbiIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJhZTg3ZmQ2NzVmMDVmODczY2MwODlhYTVjOGJmZmE5NSIsImlhdCI6MTczNTQwNDg2NiwiZXhwIjoxNzM2MDA5NjY2fQ.hcdlbxXiWz0Uvq3SlGz7SRMQZNije8zWO1TgpWXeWZ--hpxzpQzlJC3nmK7qO4Uc",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/iqvqn/f3fad5ba-c778-4d8a-924f-d51a1d915f3e.jpeg"
+  },
+  {
     "batch_name": "Electrical Engg. Sem-2 (2024)",
     "batch_id": "610083",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MzI5NjYzLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE5MDYwOTUyMjUxIiwibmFtZSI6IlVqandhbCIsImVtYWlsIjoidWFtYTkxOTlAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6ImFlODdmZDY3NWYwNWY4NzNjYzA4OWFhNWM4YmZmYTk1IiwiaWF0IjoxNzM1NDAyMDM2LCJleHAiOjE3MzYwMDY4MzZ9.UZFbhApEjpns_raWZQU7Ubi80om0lhu_jcW4P7XZyOnHQlsyUNtaplL6FSTxG4bb",
