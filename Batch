@@ -1,20 +1,8 @@
 [
   {
-    "batch_name": "3rd Sem Civil ( 2023-26 ) 🔴LIVE Lecture",
-    "batch_id": "521975",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI2ODgzMzgxLCJvcmdJZCI6NDQwMzEsIm9yZ0NvZGUiOiJveHFuZiIsIm9yZ05hbWUiOiJKUlMgTWFudHJhIiwibmFtZSI6Ik5hZ2Ftbmkga3VtYXIgcmF5IiwiZW1haWwiOiJuYWdhbWFuaWt1bWFycmF5N0BnbWFpbC5jb20iLCJtb2JpbGUiOiI5MTgyNTI4NjY1MTMiLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjJmZmU0ZmQ5MDllODZmMzgiLCJpYXQiOjE3MzU0Nzk1ODgsImV4cCI6MTczNjA4NDM4OH0.UbATI5NsCT326X_ka2VdhmlMgD1rN_nDGiIAEiRYL_Ul3Hyt652qNVrSm89Ycdqh",
-    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/oxqnf/073a8551-6d71-4a42-a16a-97ef0275846a.jpg"
-  },
-  {
-    "batch_name": "Electrical Sem-5 (New Syllabus)",
-    "batch_id": "521494",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI3Mjk3MjIxLCJvcmdJZCI6NzQzNjUwLCJvcmdDb2RlIjoiZWptcWZtIiwib3JnTmFtZSI6IkphaSBFbGVjdHJpY2FsIDUuMCIsIm5hbWUiOiJBbmtpdCBLdW1hciIsImVtYWlsIjpudWxsLCJtb2JpbGUiOiI5MTg3MDkzNTU0MDciLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjJmZmU0ZmQ5MDllODZmMzgiLCJpYXQiOjE3MzU0Nzk3ODgsImV4cCI6MTczNjA4NDU4OH0.IZyULOQlD6U9rGhfSaGZ6ladlyLGyQbDaAnYimdOp2cwNzNdvnyCdbw-f-f_on-8",
-    "batch_banner": "https://ali-cdn-wl-assets.classplus.co/production/single/poly/61e47afd-dca4-4e85-ba56-4434afcc4368.png"
-  },
-  {
     "batch_name": "BCECE (LE) Online Recorded Course",
     "batch_id": "328441",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6OTI4MjgwMDksIm9yZ0lkIjo5MTgzLCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTYyMDUwMTIwNTciLCJuYW1lIjoiQXkgS2luZyIsImVtYWlsIjoiaGt1bWFyOTE4NjRAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJpcXZxbiIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJhZTg3ZmQ2NzVmMDVmODczY2MwODlhYTVjOGJmZmE5NSIsImlhdCI6MTczNTQwNDg2NiwiZXhwIjoxNzM2MDA5NjY2fQ.hcdlbxXiWz0Uvq3SlGz7SRMQZNije8zWO1TgpWXeWZ--hpxzpQzlJC3nmK7qO4Uc",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6OTI4MjgwMDksIm9yZ0lkIjoiOTE4MyIsInR5cGUiOjEsIm1vYmlsZSI6IjkxNjIwNTAxMjA1NyIsIm5hbWUiOiJBeSBLaW5nIiwiZW1haWwiOiJoa3VtYXI5MTg2NEBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6ImlxdnFuIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6ImFlODdmZDY3NWYwMS43MzU3NjUwMDY5RTEyY2MwODlhYSIsImlhdCI6MTczNTc2NTAxMiwiZXhwIjoxNzM2MzY5ODEyfQ.N0BT6osnRrlhekXG8kkvIMJlBmsLV3MjqVS2zaP_xxpuFlJJsrlJuFCXegRtkuaD",
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/iqvqn/f3fad5ba-c778-4d8a-924f-d51a1d915f3e.jpeg"
   },
   {
@@ -30,6 +18,24 @@
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/pouiv/5c0c8f40-16e7-4038-8d37-94073898eebe.jpg"
   },
   {
+    "batch_name": "Live CTH class",
+    "batch_id": "476618",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI2MTQ3MTIwLCJvcmdJZCI6Mjg3NTc2LCJvcmdDb2RlIjoic3dmZmgiLCJvcmdOYW1lIjoiQ1RIIEVEVUNBVElPTiIsIm5hbWUiOiJSaXRpa2VzaCBTaW5naCIsImVtYWlsIjoicml0aWtlc2hrNzc5OEBnbWFpbC5jb20iLCJtb2JpbGUiOiI5MTg2NTE4MDEzNDgiLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjgwZjk5MGNhMDc3M2I0NTgiLCJpYXQiOjE3MzUzMDUwMDEsImV4cCI6MTczNTkwOTgwMX0.eunKiOwApRv9UuN1eJWytXgKe0C9riFCOMgEEg6J8ONNXZvza5nNypzxfmZGLWpw",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/swffh/3d47a9fc-83a9-461a-8eae-fadb158f3d31.jpg"
+  },
+  {
+    "batch_name": "3rd Sem Civil ( 2023-26 ) 🔴LIVE Lecture",
+    "batch_id": "521975",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI2ODgzMzgxLCJvcmdJZCI6NDQwMzEsIm9yZ0NvZGUiOiJveHFuZiIsIm9yZ05hbWUiOiJKUlMgTWFudHJhIiwibmFtZSI6Ik5hZ2Ftbmkga3VtYXIgcmF5IiwiZW1haWwiOiJuYWdhbWFuaWt1bWFycmF5N0BnbWFpbC5jb20iLCJtb2JpbGUiOiI5MTgyNTI4NjY1MTMiLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjJmZmU0ZmQ5MDllODZmMzgiLCJpYXQiOjE3MzU0Nzk1ODgsImV4cCI6MTczNjA4NDM4OH0.UbATI5NsCT326X_ka2VdhmlMgD1rN_nDGiIAEiRYL_Ul3Hyt652qNVrSm89Ycdqh",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/oxqnf/073a8551-6d71-4a42-a16a-97ef0275846a.jpg"
+  },
+  {
+    "batch_name": "Electrical Sem-5 (New Syllabus)",
+    "batch_id": "521494",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI3Mjk3MjIxLCJvcmdJZCI6NzQzNjUwLCJvcmdDb2RlIjoiZWptcWZtIiwib3JnTmFtZSI6IkphaSBFbGVjdHJpY2FsIDUuMCIsIm5hbWUiOiJBbmtpdCBLdW1hciIsImVtYWlsIjpudWxsLCJtb2JpbGUiOiI5MTg3MDkzNTU0MDciLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjJmZmU0ZmQ5MDllODZmMzgiLCJpYXQiOjE3MzU0Nzk3ODgsImV4cCI6MTczNjA4NDU4OH0.IZyULOQlD6U9rGhfSaGZ6ladlyLGyQbDaAnYimdOp2cwNzNdvnyCdbw-f-f_on-8",
+    "batch_banner": "https://ali-cdn-wl-assets.classplus.co/production/single/poly/61e47afd-dca4-4e85-ba56-4434afcc4368.png"
+  },
+  {
     "batch_name": "Electrical Sem-3 (Regular+LE)",
     "batch_id": "521488",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI4MTQwOTIwLCJvcmdJZCI6MzQ1OTMwLCJvcmdDb2RlIjoibnV1Z2IiLCJvcmdOYW1lIjoiSmFpIEVsZWN0cmljYWwgMy4wIiwibmFtZSI6IkFua2l0IiwiZW1haWwiOm51bGwsIm1vYmlsZSI6IjkxODI1MjM2NTY3NSIsInR5cGUiOjEsImlzRGl5Ijp0cnVlLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6ImVuIiwiY291bnRyeUNvZGUiOiJJTiIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJjb3VudHJ5SVNPIjoiOTEiLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiMmZmZTRmZDkwOWU4NmYzOCIsImlhdCI6MTczNTM2MjI1MiwiZXhwIjoxNzM1OTY3MDUyfQ.-97gfgA1cR7sFKpXCAFE5wmJycZnx6rzjbGYEbfntZ8v4v2d_H3Kp-dqlASvWi-S",
@@ -40,11 +46,5 @@
     "batch_id": "522176",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI2NDMzODIxLCJvcmdJZCI6NDQwMzEsIm9yZ0NvZGUiOiJveHFuZiIsIm9yZ05hbWUiOiJKUlMgTWFudHJhIiwibmFtZSI6Ik5hdXNoYWQgQWxhbSIsImVtYWlsIjoibmF1c2hhZGFsYW02NDEyN0BnbWFpbC5jb20iLCJtb2JpbGUiOiI5MTg3MDkzNTU0MDciLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjJmZmU0ZmQ5MDllODZmMzgiLCJpYXQiOjE3MzU0MDM2OTIsImV4cCI6MTczNjAwODQ5Mn0.a2EFQo45xj2drTDTI2Zw2E2Ck2bgFv9jpv3ayY9ZhZK4wV6IU_WcBAO1kFJeG3s3",
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/oxqnf/36339e47-794b-4297-bd05-5ff5ecbff130.jpg"
-  },
-  {
-    "batch_name": "Live CTH class",
-    "batch_id": "476618",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI2MTQ3MTIwLCJvcmdJZCI6Mjg3NTc2LCJvcmdDb2RlIjoic3dmZmgiLCJvcmdOYW1lIjoiQ1RIIEVEVUNBVElPTiIsIm5hbWUiOiJSaXRpa2VzaCBTaW5naCIsImVtYWlsIjoicml0aWtlc2hrNzc5OEBnbWFpbC5jb20iLCJtb2JpbGUiOiI5MTg2NTE4MDEzNDgiLCJ0eXBlIjoxLCJpc0RpeSI6dHJ1ZSwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiY291bnRyeUlTTyI6IjkxIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjgwZjk5MGNhMDc3M2I0NTgiLCJpYXQiOjE3MzUzMDUwMDEsImV4cCI6MTczNTkwOTgwMX0.eunKiOwApRv9UuN1eJWytXgKe0C9riFCOMgEEg6J8ONNXZvza5nNypzxfmZGLWpw",
-    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/swffh/3d47a9fc-83a9-461a-8eae-fadb158f3d31.jpg"
   }
 ]
