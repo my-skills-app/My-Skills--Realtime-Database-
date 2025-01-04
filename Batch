@@ -1,5 +1,11 @@
 [
   {
+    "batch_name": "Electrical Engg. Sem-4",
+    "batch_id": "609542",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5NzYzMDkxLCJvcmdJZCI6Nzg0MzA3LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTYyMDUwMTIwNTciLCJuYW1lIjoiQXJ5YW4gUmFqIiwiZW1haWwiOm51bGwsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwiY291bnRyeUlTTyI6IjkxIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImlzRGl5Ijp0cnVlLCJvcmdDb2RlIjoib3phdGp3IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzU4Mjg2NjksImV4cCI6MTczNjQzMzQ2OX0.KpVXM4WaSffzb6CWxmxkMlnirf6FamlnxCD-xoRwUZvBl6wfFrXD8ZBWUIUdRQwz",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/ozatjw/627eabeb-7f00-4014-ab5c-223a4c620596.png"
+  },
+  {
     "batch_name": "6th Semester Mechanical Engineering",
     "batch_id": "67054",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAzNjY5Njg0LCJvcmdJZCI6MTE1MjcsInR5cGUiOjEsIm1vYmlsZSI6IjkxOTMzNDM1MTAxNiIsIm5hbWUiOiJQcmluY2UgS3VtYXIiLCJlbWFpbCI6bnVsbCwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJ0eW5tcSIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiIzZjBhOWRkZjdiYjQ2MzE0IiwiaWF0IjoxNzM1ODI1MDMxLCJleHAiOjE3MzY0Mjk4MzF9.OFMTMvL7zBD87nZJiAwBN0x5JzF96UJLxhUDWLdoVY-i-SCPlUZys4tm5sXt0FE2",
@@ -16,12 +22,6 @@
     "batch_id": "610083",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MzI5NjYzLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE5MDYwOTUyMjUxIiwibmFtZSI6IlVqandhbCIsImVtYWlsIjoidWFtYTkxOTlAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzU0NTQ4NjksImV4cCI6MTczNjA1OTY2OX0.2GcXNTCcebWi6bcKGFkIfp73RRd2BVeQOgJ00Hz-H2a02fsSefI9uHn91oxLBBoj",
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/6ec6163c-197a-427c-98a8-8d321814e878.jpg"
-  },
-  {
-    "batch_name": "Electrical Engg. Sem-4",
-    "batch_id": "609542",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5NzYzMDkxLCJvcmdJZCI6Nzg0MzA3LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTYyMDUwMTIwNTciLCJuYW1lIjoiQXJ5YW4gUmFqIiwiZW1haWwiOm51bGwsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwiY291bnRyeUlTTyI6IjkxIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImlzRGl5Ijp0cnVlLCJvcmdDb2RlIjoib3phdGp3IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzU4Mjg2NjksImV4cCI6MTczNjQzMzQ2OX0.KpVXM4WaSffzb6CWxmxkMlnirf6FamlnxCD-xoRwUZvBl6wfFrXD8ZBWUIUdRQwz",
-    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/ozatjw/645a89ea-cf30-487f-be59-5f607260acb0.jpg"
   },
   {
     "batch_name": "NEW 5TH.SEMESTER MECHANICAL",
