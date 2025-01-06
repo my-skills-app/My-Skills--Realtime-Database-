@@ -1,5 +1,11 @@
 [
   {
+    "batch_name": "Civil Engg. Sem-2 (2024)/Rural/Construction",
+    "batch_id": "610047",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI5NzI3NzQyLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE4NjUxMTYwNjUwIiwibmFtZSI6IlNhdHlhbSBLdW1hciIsImVtYWlsIjoic2F0eWFta3VtYXI1ODIwMDhAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzYwOTgyMTksImV4cCI6MTczNjcwMzAxOX0.u0enthCbOCEKW8moEvD3r90pMqIwDUhVc1YtPAOo3oH7sfgKELNmqdUye0She5l6",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/9327ebed-b1ce-40cb-8c20-3be16716fdb7.jpeg"
+  },
+  {
     "batch_name": "6th Sem Civil II Session 2022 - 25 II JRS Mantra",
     "batch_id": "612184",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MTcwMjA3LCJvcmdJZCI6NDQwMzEsIm9yZ0NvZGUiOiJveHFuZiIsIm9yZ05hbWUiOiJKUlMgTWFudHJhIiwibmFtZSI6IkdwIEciLCJlbWFpbCI6bnVsbCwibW9iaWxlIjoiOTE5OTU1ODI3MTM5IiwidHlwZSI6MSwiaXNEaXkiOnRydWUsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImNvdW50cnlJU08iOiI5MSIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJkNDI2NDE2ZDg3NjhmYzliIiwiaWF0IjoxNzM1OTY1MjQzLCJleHAiOjE3MzY1NzAwNDN9.wA3FOMas1x4clk5h0cogxn42T9YTdXiqxaSPOdJuMRY1EThkwMeeV3XRbbjcg3im",
@@ -28,6 +34,12 @@
     "batch_id": "610083",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MzI5NjYzLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE5MDYwOTUyMjUxIiwibmFtZSI6IlVqandhbCIsImVtYWlsIjoidWFtYTkxOTlAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzU0NTQ4NjksImV4cCI6MTczNjA1OTY2OX0.2GcXNTCcebWi6bcKGFkIfp73RRd2BVeQOgJ00Hz-H2a02fsSefI9uHn91oxLBBoj",
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/6ec6163c-197a-427c-98a8-8d321814e878.jpg"
+  },
+  {
+    "batch_name": "Civil Engg. Sem-1 (2024)/Rural/Construction",
+    "batch_id": "26965",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTI5NzI3NzQyLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE4NjUxMTYwNjUwIiwibmFtZSI6IlNhdHlhbSBLdW1hciIsImVtYWlsIjoic2F0eWFta3VtYXI1ODIwMDhAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzYwOTgyMTksImV4cCI6MTczNjcwMzAxOX0.u0enthCbOCEKW8moEvD3r90pMqIwDUhVc1YtPAOo3oH7sfgKELNmqdUye0She5l6",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/4c1866c9-bde7-45d3-b6f8-79c4ca2c035b.jpeg"
   },
   {
     "batch_name": "NEW 5TH.SEMESTER MECHANICAL",
