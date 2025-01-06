@@ -1,5 +1,11 @@
 [
   {
+    "batch_name": "Electrical Engg. Sem-2 (2024)",
+    "batch_id": "610083",
+    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MzI5NjYzLCJvcmdJZCI6MjIxNiwib3JnQ29kZSI6InBvbHkiLCJvcmdOYW1lIjoiUG9seXRlY2huaWMgQWNhZGVteSIsIm5hbWUiOiJVamp3YWwiLCJlbWFpbCI6InVhbWE5MTk5QGdtYWlsLmNvbSIsIm1vYmlsZSI6IjkxOTA2MDk1MjI1MSIsInR5cGUiOjEsImlzRGl5Ijp0cnVlLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJjb3VudHJ5SVNPIjoiOTEiLCJpc0RpeVN1YmFkbWluIjowLCJmaW5nZXJwcmludElkIjoiM2YwYTlkZGY3YmI0NjMxNCIsImlhdCI6MTczNjE4MTY0MywiZXhwIjoxNzM2Nzg2NDQzfQ.VJKngIpkLUlSPtFQ1X0zCU4Dv6syo4tu_z0U5XqSama9r5rS160iiIacN4GHohI2",
+    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/6ec6163c-197a-427c-98a8-8d321814e878.jpg"
+  },
+  {
     "batch_name": "4th Sem Civil II Session 2023 - 26 II JRS Mantra",
     "batch_id": "612175",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAxNzkyNDI4LCJvcmdJZCI6NDQwMzEsIm9yZ0NvZGUiOiJveHFuZiIsIm9yZ05hbWUiOiJKUlMgTWFudHJhIiwibmFtZSI6Imt1bmRhbiBLdW1hciIsImVtYWlsIjoia2t2aGNnY2djZ3ZAZ21haWwuY29tIiwibW9iaWxlIjoiOTE3NTYyOTAwNzI5IiwidHlwZSI6MSwiaXNEaXkiOnRydWUsImlzSW50ZXJuYXRpb25hbCI6MCwiZGVmYXVsdExhbmd1YWdlIjoiRU4iLCJjb3VudHJ5Q29kZSI6IklOIiwidGltZXpvbmUiOiJHTVQrNTozMCIsImNvdW50cnlJU08iOiI5MSIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJjNDIxZTRlNDZiODBlNmQ3IiwiaWF0IjoxNzM2MTc0MjA2LCJleHAiOjE3MzY3NzkwMDZ9.zPZWD7_CYKDZOxty2Jj0RpRFVdts_TUD2t3HliJe13yk6GxrqLwyCyItjIzOTw_x",
@@ -34,12 +40,6 @@
     "batch_id": "328441",
     "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6OTI4MjgwMDksIm9yZ0lkIjoiOTE4MyIsInR5cGUiOjEsIm1vYmlsZSI6IjkxNjIwNTAxMjA1NyIsIm5hbWUiOiJBeSBLaW5nIiwiZW1haWwiOiJoa3VtYXI5MTg2NEBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6ImlxdnFuIiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6ImFlODdmZDY3NWYwMS43MzU3NjUwMDY5RTEyY2MwODlhYSIsImlhdCI6MTczNTc2NTAxMiwiZXhwIjoxNzM2MzY5ODEyfQ.N0BT6osnRrlhekXG8kkvIMJlBmsLV3MjqVS2zaP_xxpuFlJJsrlJuFCXegRtkuaD",
     "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/iqvqn/f3fad5ba-c778-4d8a-924f-d51a1d915f3e.jpeg"
-  },
-  {
-    "batch_name": "Electrical Engg. Sem-2 (2024)",
-    "batch_id": "610083",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTM5MzI5NjYzLCJvcmdJZCI6MjIxNiwidHlwZSI6MSwibW9iaWxlIjoiOTE5MDYwOTUyMjUxIiwibmFtZSI6IlVqandhbCIsImVtYWlsIjoidWFtYTkxOTlAZ21haWwuY29tIiwiaXNJbnRlcm5hdGlvbmFsIjowLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJjb3VudHJ5SVNPIjoiOTEiLCJ0aW1lem9uZSI6IkdNVCs1OjMwIiwiaXNEaXkiOnRydWUsIm9yZ0NvZGUiOiJwb2x5IiwiaXNEaXlTdWJhZG1pbiI6MCwiZmluZ2VycHJpbnRJZCI6IjNmMGE5ZGRmN2JiNDYzMTQiLCJpYXQiOjE3MzU0NTQ4NjksImV4cCI6MTczNjA1OTY2OX0.2GcXNTCcebWi6bcKGFkIfp73RRd2BVeQOgJ00Hz-H2a02fsSefI9uHn91oxLBBoj",
-    "batch_banner": "https://cdn-wl-assets.classplus.co/production/single/poly/6ec6163c-197a-427c-98a8-8d321814e878.jpg"
   },
   {
     "batch_name": "Civil Engg. Sem-1 (2024)/Rural/Construction",
