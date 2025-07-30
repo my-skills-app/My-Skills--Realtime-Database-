@@ -1,38 +1,29 @@
 {
-    "isPresent": "true",
-    "message": "🌟 स्वागत है, ज्ञान की यात्रा में! 🌟
-
-हमें खुशी है कि आपने हमारे एजुकेशन ऐप को चुना! यहाँ आपकी सीखने की राह आसान, मजेदार और प्रभावशाली बनेगी। चाहे आप किसी भी कक्षा में हों या किसी भी विषय की तैयारी कर रहे हों, हम आपके साथ हैं।  
-
-📚 **शुरू करें, खोजें, और सफलता की ओर बढ़ें!** 📚  
-
-किसी भी सहायता के लिए हमारे सपोर्ट टीम से संपर्क करें। हैप्पी लर्निंग!  
-
----  
-
-इसे आप अपने ऐप के थीम और टोन के अनुसार एडजस्ट कर सकते हैं। 😊",
-    "bt1": "https://t.me/maxstudy_official",
-    "appstatus": "false",
-    "appstatusv100": "true",
-    "register": "https://t.me/maxstudy_official",
-    "orgid": "9183",
-    "orgcode": "IQVQN",
-    "version": "12.14",
-    "player": "https://cp-nondrm.vercel.app/?url=",
-    "use-ad": "https://t.me/maxstudy_official",
-    "ad-server1": "http://linkcents.com/SyfN",
-    "ad-server2": "http://linkcents.com/SyfN",
-    "ad-server3": "https://www.google.com/",
-    "ditect": "https://www.google.com/",
-    "bt2": "https://t.me/maxstudy_official",
-    "bt3": "https://t.me/maxstudy_official",
-    "telegram": "https://t.me/maxstudy_official",
-    "youtube": "https://t.me/maxstudy_official",
-    "share": "https://t.me/maxstudy_official",
-    "Instagram": "https://t.me/maxstudy_official",
-    "help": "https://t.me/maxstudy_official",
-    "github": "https://github.com/my-skills-app/My-Skills--Realtime-Database-/blob/main/realtime%20database/Notes-pro.json",
-    "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE3MDYxMTcwLCJvcmdJZCI6Njk2MTE2LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTcyMDY0MjQ3MjAiLCJuYW1lIjoiTmF2aW4gIEt1bWFyIiwiZW1haWwiOiJuYXZpbmt1bWFyNzIwNjQyNEBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6Ind6anlxYyIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJhZTg3ZmQ2NzVmMDVmODczY2MwODlhYTVjOGJmZmE5NSIsImlhdCI6MTczNDU5NjQyMiwiZXhwIjoxNzM1MjAxMjIyfQ.7-Niu0la9qItmpQcsV3q67coUYwgoeVlG5CEjO8nfCKS2xqDo3Tkc0sqZr2mt7JS",
-   
-    "__v": 0
+  "isPresent": "true",
+  "status": "true",                         // ✅ added
+  "batchId": "BATCH123",                    // ✅ added
+  "message": "🌟 स्वागत है, ज्ञान की यात्रा में! 🌟\n\nहमें खुशी है कि आपने हमारे एजुकेशन ऐप को चुना! यहाँ आपकी सीखने की राह आसान, मजेदार और प्रभावशाली बनेगी। चाहे आप किसी भी कक्षा में हों या किसी भी विषय की तैयारी कर रहे हों, हम आपके साथ हैं।  \n\n📚 **शुरू करें, खोजें, और सफलता की ओर बढ़ें!** 📚  \n\nकिसी भी सहायता के लिए हमारे सपोर्ट टीम से संपर्क करें। हैप्पी लर्निंग!  \n\n---  \n\nइसे आप अपने ऐप के थीम और टोन के अनुसार एडजस्ट कर सकते हैं। 😊",
+  "bt1": "https://t.me/maxstudy_official",
+  "appstatus": "false",
+  "appstatusv100": "true",
+  "register": "https://t.me/maxstudy_official",
+  "orgid": "9183",
+  "orgcode": "IQVQN",
+  "version": "12.14",
+  "player": "https://cp-nondrm.vercel.app/?url=",
+  "use-ad": "https://t.me/maxstudy_official",
+  "ad-server1": "http://linkcents.com/SyfN",
+  "ad-server2": "http://linkcents.com/SyfN",
+  "ad-server3": "https://www.google.com/",
+  "ditect": "https://www.google.com/",
+  "bt2": "https://t.me/maxstudy_official",
+  "bt3": "https://t.me/maxstudy_official",
+  "telegram": "https://t.me/maxstudy_official",
+  "youtube": "https://t.me/maxstudy_official",
+  "share": "https://t.me/maxstudy_official",
+  "Instagram": "https://t.me/maxstudy_official",
+  "help": "https://t.me/maxstudy_official",
+  "github": "https://github.com/my-skills-app/My-Skills--Realtime-Database-/blob/main/realtime%20database/Notes-pro.json",
+  "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE3MDYxMTcwLCJvcmdJZCI6Njk2MTE2LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTcyMDY0MjQ3MjAiLCJuYW1lIjoiTmF2aW4gIEt1bWFyIiwiZW1haWwiOiJuYXZpbmt1bWFyNzIwNjQyNEBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6Ind6anlxYyIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJhZTg3ZmQ2NzVmMDVmODczY2MwODlhYTVjOGJmZmE5NSIsImlhdCI6MTczNDU5NjQyMiwiZXhwIjoxNzM1MjAxMjIyfQ.7-Niu0la9qItmpQcsV3q67coUYwgoeVlG5CEjO8nfCKS2xqDo3Tkc0sqZr2mt7JS",
+  "__v": 0
 }
