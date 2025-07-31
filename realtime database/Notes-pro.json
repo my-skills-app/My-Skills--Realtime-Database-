@@ -1,8 +1,8 @@
 {
   "isPresent": "true",
-  "status": "true",                         // ✅ added
-  "batchId": "BATCH123",                    // ✅ added
-  "message": "🌟 स्वागत है, ज्ञान की यात्रा में! 🌟\n\nहमें खुशी है कि आपने हमारे एजुकेशन ऐप को चुना! यहाँ आपकी सीखने की राह आसान, मजेदार और प्रभावशाली बनेगी। चाहे आप किसी भी कक्षा में हों या किसी भी विषय की तैयारी कर रहे हों, हम आपके साथ हैं।  \n\n📚 **शुरू करें, खोजें, और सफलता की ओर बढ़ें!** 📚  \n\nकिसी भी सहायता के लिए हमारे सपोर्ट टीम से संपर्क करें। हैप्पी लर्निंग!  \n\n---  \n\nइसे आप अपने ऐप के थीम और टोन के अनुसार एडजस्ट कर सकते हैं। 😊",
+  "status": "true",
+  "batchId": "BATCH123",
+  "message": "🌟 Welcome to a New Era of Learning! 🌟\n\nWe are truly delighted to welcome you to our learning platform — a space where knowledge meets innovation, and every learner finds their own path to growth and success.\n\nIn this ever-evolving world, education is not just about textbooks and tests — it's about empowering minds, building real-world skills, and nurturing the curiosity that drives progress. Whether you're a school student, preparing for competitive exams, exploring new subjects, or simply passionate about learning — you belong here.\n\n📘 Here’s what awaits you:\n\nStructured lessons designed to make even the most complex concepts easy to understand.\n\nSmart recommendations that adapt to your pace, level, and interests.\n\nPractice tests, challenges, and quizzes that sharpen your thinking and boost your confidence.\n\nDoubt support and community help so you're never learning alone.\n\n\nOur mission is to make learning a joyful, rewarding experience that’s accessible anytime, anywhere. With the right tools and guidance, we believe every learner has the potential to achieve greatness — and we’re here to support you every step of the way.\n\n✨ So take the first step, stay consistent, and trust the process.\nEvery click, every lesson, every question brings you closer to your goals.\n\nIf you need any assistance, our dedicated support team is always ready to help.\n\n🎓 Welcome once again — let’s learn, grow, and succeed together!\nYour journey to excellence starts now. 🚀\n",
   "bt1": "https://t.me/maxstudy_official",
   "appstatus": "false",
   "appstatusv100": "true",
@@ -23,7 +23,7 @@
   "share": "https://t.me/maxstudy_official",
   "Instagram": "https://t.me/maxstudy_official",
   "help": "https://t.me/maxstudy_official",
-  "github": "https://github.com/my-skills-app/My-Skills--Realtime-Database-/blob/main/realtime%20database/Notes-pro.json",
+  "github": "https://github.com/my-skills-app/My-Skills--Realtime-Database-/blob/main/realtime database/Notes-pro.json",
   "token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE3MDYxMTcwLCJvcmdJZCI6Njk2MTE2LCJ0eXBlIjoxLCJtb2JpbGUiOiI5MTcyMDY0MjQ3MjAiLCJuYW1lIjoiTmF2aW4gIEt1bWFyIiwiZW1haWwiOiJuYXZpbmt1bWFyNzIwNjQyNEBnbWFpbC5jb20iLCJpc0ludGVybmF0aW9uYWwiOjAsImRlZmF1bHRMYW5ndWFnZSI6IkVOIiwiY291bnRyeUNvZGUiOiJJTiIsImNvdW50cnlJU08iOiI5MSIsInRpbWV6b25lIjoiR01UKzU6MzAiLCJpc0RpeSI6dHJ1ZSwib3JnQ29kZSI6Ind6anlxYyIsImlzRGl5U3ViYWRtaW4iOjAsImZpbmdlcnByaW50SWQiOiJhZTg3ZmQ2NzVmMDVmODczY2MwODlhYTVjOGJmZmE5NSIsImlhdCI6MTczNDU5NjQyMiwiZXhwIjoxNzM1MjAxMjIyfQ.7-Niu0la9qItmpQcsV3q67coUYwgoeVlG5CEjO8nfCKS2xqDo3Tkc0sqZr2mt7JS",
   "__v": 0
 }
