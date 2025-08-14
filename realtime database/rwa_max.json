@@ -1,22 +1,35 @@
 {
   "status": "true",
-  "message": "🌟 Welcome to a New Era of Learning! 🌟",
-  "use-ad": "https://t.me/maxstudy_official",
+  "message": "📚 Welcome to RWA UG! 🎉
+Aapka safar ab shuru hota hai ek naye learning adventure par!
+Yahan aap paayenge knowledge, practice aur skills ka perfect combination — taaki aap apne goals ko aasaani se achieve kar saken.
+
+✨ Kya milega aapko yahan:
+
+Interactive lessons 📖
+
+Easy-to-use tools 🛠️
+
+Daily motivation 💡
+
+💬 Tip: Roz thoda seekhna, kal ko bahut aage le jaata hai!
+Chaliye, shuru karte hain aur apni learning journey ko unforgettable banate hain. 🚀",
+  "use-ad": "https://ugxrwa-d9c0e6d7f70b.herokuapp.com/rwa",
   "version": "12.14",
   "update_link": "http://linkcents.com/SyfN",
-  "webapp": "https://cp-nondrm.vercel.app/?url=",
-  "player": "https://cp-nondrm.vercel.app/?url=",
-  "main_api": "https://cp-nondrm.vercel.app/?url=",
+  "webapp": "https://ugxrwa-d9c0e6d7f70b.herokuapp.com/rwa",
+  "player": "https://appxplayer-9ede29b649ed.herokuapp.com/proxy/m3u8?url=",
+  "main_api": "https://ugxrwa-d9c0e6d7f70b.herokuapp.com",
   "video_ads": "http://linkcents.com/SyfN",
-  "ad-server1": "http://linkcents.com/SyfN",
-  "ad-server2": "http://linkcents.com/SyfN",
+  "ad-server1": "https://www.google.com/",
+  "ad-server2": "https://www.google.com/",
   "ad-server3": "https://www.google.com/",
   "ditect_home": "https://www.google.com/",
-  "telegram": "https://t.me/maxstudy_official",
-  "youtube": "https://t.me/maxstudy_official",
-  "Instagram": "https://t.me/maxstudy_official",
-  "discord": "https://t.me/maxstudy_official",
-  "whatsapp": "https://t.me/maxstudy_official",
-  "otherapps": "https://t.me/maxstudy_official",
-  "UG_token": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9"
+  "telegram": "https://t.me/UGCoder",
+  "youtube": "https://t.me/UGCoder",
+  "Instagram": "https://t.me/UGCoder",
+  "discord": "https://t.me/UGCoder",
+  "whatsapp": "https://t.me/UGCoder",
+  "otherapps": "https://ugxrwa-d9c0e6d7f70b.herokuapp.com/rwa",
+  "UG_token": "UGProeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlVHREVWRUxPUEVSIiwicm9sZSI6Im1hc3RlciIsImlhdCI6MTc1NDM0Mjk0NiwiZXhwIjoxNzU0MzQ2NTQ2fQ.HTgHazX7r1eldKtyV9YOHFkA1lMy7xs9krpKq7IfE7Y.=@UGDeveloper"
 }
