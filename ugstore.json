@@ -1,0 +1,7 @@
+{
+  "store": "https://raw.githubusercontent.com/my-skills-app/My-Skills--Realtime-Database-/refs/heads/main/ugstore",
+  "Telegram": "https://app.maxstudy.site/max-study-store/apps/tg.json",
+  "social": "https://app.maxstudy.site/max-study-store/apps/socal.json",
+  "status": "true",
+  "update_tg": "https://app.maxstudy.site/max-study-store/apps/socal.json"
+}
