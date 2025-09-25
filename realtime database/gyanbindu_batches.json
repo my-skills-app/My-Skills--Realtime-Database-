@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": "14",
+      "course_name": "BIOLOGY FOUNDATION BATCH",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-05-18-0.002122047600537691.png"
+    },
+    {
+      "id": "30",
+      "course_name": "RECORDED ANCIENT HISTORY FOUNDATION BATCH ",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2024-03-31-0.32998156274289725.jpg"
+    },
+    {
+      "id": "39",
+      "course_name": "BIOLOGY FOUNDATION BATCH 02",
+      "course_thumbnail": ""
+    },
+    {
+      "id": "48",
+      "course_name": "CHEMISTRY FOUNDATION 2nd BATCH",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-06-01-0.13865705561290298.jpg"
+    },
+    {
+      "id": "50",
+      "course_name": "MEDIEVEL HISTORY FOUNDATION RECORDED BATCH ",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2024-03-31-0.773205121864345.jpg"
+    },
+    {
+      "id": "68",
+      "course_name": "MODERN HISTORY RECORDED COURSE",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-01-13-0.30213295941837437.jpeg"
+    },
+    {
+      "id": "73",
+      "course_name": "BIOLOGY RECORDED FOUNDATION 3rd BATCH ",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-01-29-0.5660439819887215.jpg"
+    },
+    {
+      "id": "81",
+      "course_name": "MODERN HISTORY FOUNDATION 2nd BATCH",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2024-03-31-0.32280340255805995.jpeg"
+    },
+    {
+      "id": "95",
+      "course_name": "CHEMISTRY FOUNDATION 3rd BATCH",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-07-27-0.5183847959378503.jpeg"
+    },
+    {
+      "id": "117",
+      "course_name": "ANCIENT HISTORY FOUNDATION 2nd BATCH ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-01-10-0.9051864411155928.jpg"
+    }
+  ]
+}
