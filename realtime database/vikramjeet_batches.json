@@ -1,0 +1,95 @@
+{
+  "courses": [
+    {
+      "id": "230",
+      "userid": "167532",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzUzMiIsImVtYWlsIjoicmFqYXNoYXJhdmFuOThAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzQ0NzE1MTg5LCJ0ZW5hbnRUeXBlIjoidXNlciIsInRlbmFudE5hbWUiOiIiLCJ0ZW5hbnRJZCI6IiIsImRpc3Bvc2FibGUiOmZhbHNlfQ.oylbJaIyHWj24oNcyKRZjycEPBIrJ594CFjiXREW5yQ",
+      "course_name": "CHAMPIONS 20.0 Maths Special LIVE BATCH by ADITYA SIR (Arithmetic + Advance)( Pre + Mains) For all Exams Starts From 18th Dec. 2024",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-01-19-0.10336684739103541.jpeg"
+    },
+    {
+      "id": "10",
+      "userid": "167532",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzUzMiIsImVtYWlsIjoicmFqYXNoYXJhdmFuOThAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzQ0NzE1MTg5LCJ0ZW5hbnRUeXBlIjoidXNlciIsInRlbmFudE5hbWUiOiIiLCJ0ZW5hbnRJZCI6IiIsImRpc3Bvc2FibGUiOmZhbHNlfQ.oylbJaIyHWj24oNcyKRZjycEPBIrJ594CFjiXREW5yQ",
+      "course_name": "Maths Special VOD (RECORDED BATCH) by ADITYA SIR (Arithmetic + Advance) & ( Pre + Mains )  For all  EXAMS with UPDATED CONTENT.....",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-03-15-0.16312257705794897.png"
+    },
+    {
+      "id": "156",
+      "userid": "167532",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzUzMiIsImVtYWlsIjoicmFqYXNoYXJhdmFuOThAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzQ0NzE1MTg5LCJ0ZW5hbnRUeXBlIjoidXNlciIsInRlbmFudE5hbWUiOiIiLCJ0ZW5hbnRJZCI6IiIsImRpc3Bvc2FibGUiOmZhbHNlfQ.oylbJaIyHWj24oNcyKRZjycEPBIrJ594CFjiXREW5yQ",
+      "course_name": "REASONING Special VOD (RECORDED BATCH) by VIKRAMJEET SIR  ( Pre + Mains )  For all  EXAMS with UPDATED CONTENT NEW ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-01-19-0.9758740455119475.jpeg"
+    },
+    {
+      "id": "102",
+      "userid": "1265047",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNjUwNDciLCJlbWFpbCI6InJhanVyYW03NDg0OTM4NjIwQGdtYWlsLmNvbSIsInRpbWVzdGFtcCI6MTczNzg3ODI3MiwidGVuYW50VHlwZSI6InVzZXIiLCJ0ZW5hbnROYW1lIjoiIiwidGVuYW50SWQiOiIiLCJkaXNwb3NhYmxlIjpmYWxzZX0.Eq5XL0TOiCNBqnzn0oY36zFK-EvgcSgABWrXakck1WM",
+      "course_name": "Maths Special VOD + LIVE BATCH by ADITYA SIR (Arithmetic + Advance) & ( Pre + Mains )  For all  EXAMS with UPDATED CONTENT..",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-06-27-0.5700330583025317.jpeg"
+    },
+    {
+      "id": "66",
+      "userid": "240184",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0MDE4NCIsImVtYWlsIjoiYnJhamVuZHJhc2luZ2g3NzZAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzM3ODc4MzU3LCJ0ZW5hbnRUeXBlIjoidXNlciIsInRlbmFudE5hbWUiOiIiLCJ0ZW5hbnRJZCI6IiIsImRpc3Bvc2FibGUiOmZhbHNlfQ.YVFyfAmEqcfImOL3BTD_xOBxM-WnCFMc_srpxKKTfEc",
+      "course_name": "Maths Special VOD (RECORDED BATCH) by ADITYA SIR (Arithmetic + Advance) & ( Pre + Mains )  For all  EXAMS with UPDATED CONTENT.",
+      "course_thumbnail": "https://appx-wsb-gcp.akamai.net.in/paid_course3/2023-08-25-0.5460780877717326.png"
+    },
+    {
+      "id": "187",
+      "userid": "1123837",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjExMjM4MzciLCJlbWFpbCI6Im1yc2luZ2hzaW5naDkzN0BnbWFpbC5jb20iLCJ0aW1lc3RhbXAiOjE3Mzc4Nzg0NDEsInRlbmFudFR5cGUiOiJ1c2VyIiwidGVuYW50TmFtZSI6IiIsInRlbmFudElkIjoiIiwiZGlzcG9zYWJsZSI6ZmFsc2V9.2fstkzw-Obb-u5lTKmt7jGMfTUiwRcowhw_2RhbX4jI",
+      "course_name": "MATHS VOD 2.0 BATCH BY ADITYA RANJAN SIR (Arithmetic + Advance ) & (Pre + Mains ) for all exams with updated content.",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-01-19-0.6703116792915271.jpeg"
+    },
+    {
+      "id": "213",
+      "userid": "1830155",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MzAxNTUiLCJlbWFpbCI6Im1vaGFtbWFkd2FmaTIzOUBnbWFpbC5jb20iLCJ0aW1lc3RhbXAiOjE3MzAwMDY4NzJ9.hop7mC5Plr4g3_C0Jk7hyKdP2-CowmQrLyAeFogJgT4",
+      "course_name": "CHAMPIONS 18.0 Maths Special LIVE BATCH by ADITYA SIR (Arithmetic + Advance)( Pre + Mains) For all Exams Starts From 23th SEP. 2024",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-09-21-0.6422353150523805.jpeg"
+    },
+    {
+      "id": "161",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "CHAMPIONS 15.0 Maths Special LIVE BATCH by ADITYA SIR (Arithmetic + Advance)( Pre + Mains) For all Exams Starts From 18th MARCH. 2024",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-03-28-0.782364327627981.jpeg"
+    },
+    {
+      "id": "162",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "Reasoning Special LIVE By Vikramjeet Sir New Batch starts from 18th MARCH. 2024",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-03-28-0.3241556016579119.jpeg"
+    },
+    {
+      "id": "163",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "Rankers' 13.0 English Special LIVE Batch by PRASHANT SIR (Pre + Mains )  (Grammar + Vocabulary + Comprehension) for ALL EXAMS Starts 18th MARCH. 2024",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-03-28-0.19575394582625738.jpeg"
+    },
+    {
+      "id": "164",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "GS SPECIAL BATCH START FROM 18th MARCH. 2024 BY DEEPAK SIR,SUSHANT SHAMRA SIR, PUSHPENDRA SIR, RADHIKA MA'AM & AMIT SIR",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-04-10-0.4515157073334357.jpeg"
+    },
+    {
+      "id": "165",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "SCIENCE SPECIAL BATCH START FROM 18th MARCH. 2024 BY  PUSHPENDRA SIR AND RADHIKA MA'AM",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-03-28-0.7011342825051259.jpeg"
+    },
+    {
+      "id": "97",
+      "userid": "1242660",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEyNDI2NjAiLCJlbWFpbCI6ImFtYW5zaW5naDk1ODA1OTIxMjVAZ21haWwuY29tIiwidGltZXN0YW1wIjoxNzI5MTQzOTYwfQ.LfNedsaCj0vqBr0COaBR0wLgcbJTkn8BiYeOlWEVV4g",
+      "course_name": "COMPUTER Special VOD  Batch By LABH SINGH NAIN SIR .( UPDATED )",
+      "course_thumbnail": "https://appxcontent.kaxa.in/paid_course3/2024-09-24-0.9421839955388152.jpeg"
+    }
+  ]
+    }
