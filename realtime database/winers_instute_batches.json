@@ -1,0 +1,16 @@
+{
+    "status": 200,
+    "allcourses": [
+
+{
+        "id": "825",
+        "course_name": "Railway Foundation विजयरथ 4.0 Online Course (RF1125)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.5144863849198225.png"
+    },
+    {
+        "id": "827",
+        "course_name": "Banking Foundation Achievers 3.0 Online Course (BF1125)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.05800825635504492.png"
+    }
+      ]
+}
