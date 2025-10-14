@@ -1,8 +1,58 @@
 {
     "status": 200,
     "allcourses": [
+{
+        "id": "464",
+        "course_name": "MPTET Varg 3 चयन परीक्षा Online Course (TET3SE1224)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.15198055990523573.jpg"
+    }, 
+       
+  {
+        "id": "681",
+        "course_name": "MPTET Grade 3 चयन परीक्षा 2025 Online Practice Course (TET3PC0725)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.7921894301970226.jpg"
+    }, 
+  {
+        "id": "722",
+        "course_name": "Combo MPTET Varg 3 चयन परीक्षा (VOD+Practice+Test) Online Course (TETC0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.9918605191789565.jpg"
+    }, 
+
+        
+        
+     {
+        "id": "630",
+        "course_name": "Ultimate Calculation Mastery Course (2025)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4329896221366958.jpg"
+    }, 
+    {
+        "id": "748",
+        "course_name": "MP Police ASI/STENO/Subedar VOD Online Course With Book (MPASIWB0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.429003441290153.jpeg"
+    },    
+    {
+        "id": "735",
+        "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course With Book (MPCWB0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.14773346771069817.jpeg"
+    },
+        {
+        "id": "734",
+        "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course (MPC0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4749330829933347.jpg"
+    },
 
 
+        {
+        "id": "738",
+        "course_name": "MP Police Constable (कर्मवीर 5.0) Live MCQ Course (MPCP0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.07396859173689596.jpg"
+    },
+
+{
+        "id": "750",
+        "course_name": "EMRS 2025 Tier 1 Foundation Live and VOD Online Course (EMRS0925)",
+        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.18919321342938866.jpeg"
+    },
 {
         "id": "825",
         "course_name": "Railway Foundation विजयरथ 4.0 Online Course (RF1125)",
