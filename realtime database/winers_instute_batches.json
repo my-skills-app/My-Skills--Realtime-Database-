@@ -1,6 +1,13 @@
 {
     "status": 200,
     "allcourses": [
+
+{
+        "id": "594",
+        "course_name": "MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (CH1TET0425)",
+        "course_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/d0/34/99d03498-b287-7a33-e559-44364ba77ee8/AppIcon-winners_institute-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png"
+    }, 
+        
 {
         "id": "464",
         "course_name": "MPTET Varg 3 चयन परीक्षा Online Course (TET3SE1224)",
