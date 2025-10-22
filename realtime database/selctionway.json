@@ -1,1492 +1,1380 @@
-  {
-                "props": {
-                    "pageProps": {
-                        "pageSeoData": {
-                        },
-                        "faqs": [
-                        ],
-                        "seoTags": {
-                            "canonical_url": "https://www.selectionway.com/batches/live",
-                            "description": "Batches",
-                            "error_code": "0",
-                            "no_follow": "0",
-                            "no_index": "0",
-                            "page_tittle": "Batches",
-                            "redirection_url": "",
-                            "robots": "INDEX,FOLLOW",
-                            "seo_keywords": "Batches"
-                        },
-                        "pageDescription": [
-                        ],
-                        "subcategorisList": [
-                        ],
-                        "examSubcategorisList": [
-                        ],
-                        "customMenuList": [
-                            {
-                                "label": "Live Batches",
-                                "url": "/batches/live",
-                                "icon": "p-live-vid"
-                            },
-                            {
-                                "label": "Recorded Batches",
-                                "url": "/batches/recorded",
-                                "icon": "p-rec-vid"
-                            },
-                            {
-                                "label": "AI Test",
-                                "url": "/ai-test",
-                                "icon": "p-ai-test"
-                            },
-                            {
-                                "label": "Free Batches",
-                                "url": "/free-batches",
-                                "icon": "p-free-batch"
-                            },
-                            {
-                                "label": "Test Ranking",
-                                "url": "https://www.testranking.in",
-                                "target": "_blank",
-                                "icon": "p-testranking"
-                            }
-                        ],
-                        "sideBarcustomMenuList": [
-                            {
-                                "label": "Live Batches",
-                                "url": "/batches/live",
-                                "icon": "p-live-vid"
-                            },
-                            {
-                                "label": "Recorded Batches",
-                                "url": "/batches/recorded",
-                                "icon": "p-rec-vid"
-                            },
-                            {
-                                "label": "AI Test",
-                                "url": "/ai-test",
-                                "icon": "p-ai-test"
-                            },
-                            {
-                                "label": "Free Batches",
-                                "url": "/free-batches",
-                                "icon": "p-free-batch"
-                            },
-                            {
-                                "label": "Test Ranking",
-                                "url": "https://www.testranking.in",
-                                "target": "_blank",
-                                "icon": "p-testranking"
-                            }
-                        ],
-                        "allBatches": [
-                            {
-                                "status": "active",
-                                "priority": 1,
-                                "price": 9999,
-                                "discountPrice": 1499,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
-                                "bannerSquare": null,
-                                "title": "SSC Mains Batch",
-                                "description": [
-                                    "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                    "Live Classes + E-books",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 500,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "✨ Specially designed for Mains students",
-                                    "📘 Based on the latest exam pattern",
-                                    "🎯 100% Selection Guaranteed Content"
-                                ],
-                                "validity": "1 year",
-                                "timeTable": [
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "10:30AM-12:00PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f11"
-                                    },
-                                    {
-                                        "topic": "English",
-                                        "time": "04:30PM-05:30PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f12"
-                                    },
-                                    {
-                                        "topic": "Maths",
-                                        "time": "08:00PM-09:30PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f13"
-                                    },
-                                    {
-                                        "topic": "General Studies",
-                                        "time": "12:00PM-01:00PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f14"
-                                    }
-                                ],
-                                "createdAt": "2025-10-05T13:24:04.052Z",
-                                "updatedAt": "2025-10-15T12:43:42.347Z",
-                                "id": "68e27174dfde12332485c494",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dbcea268460072e2387b9b",
-                                    "name": "SelectionWay Team",
-                                    "designation": "Gagan sir \u0026 Team",
-                                    "bio": "SelectionWay",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
-                                    "socialLinks": [
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "10+ Years",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "SelectionWay"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": true,
-                                "slug": "ssc-mains-batch",
-                                "discountPercentage": "85.01",
-                                "tags": [
-                                    "500+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 2,
-                                "price": 2999,
-                                "discountPrice": 599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
-                                "bannerSquare": null,
-                                "title": "SSC MAINS MATHS BATCH",
-                                "description": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "Pdf Notes",
-                                    "100% Selection oriented content"
-                                ],
-                                "liveClassesCount": 80,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "100% Selection oriented content",
-                                    "🎯 Starting From: 13th October 2025"
-                                ],
-                                "timeTable": [
-                                    {
-                                        "topic": "Maths",
-                                        "time": "08:00PM-09:30PM(MON-FRI)",
-                                        "_id": "68ef9768d2cc753eb2d2cf9f"
-                                    }
-                                ],
-                                "createdAt": "2025-10-09T13:21:42.885Z",
-                                "updatedAt": "2025-10-15T12:45:28.411Z",
-                                "validity": "1 year",
-                                "id": "68e7b92dd191c00e5c8d713e",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "6864f6802a698face4d45ecd",
-                                    "name": "Gagan Pratap Sir",
-                                    "designation": "Teacher",
-                                    "bio": "Gagan Pratap Sir – 7+ years",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
-                                    "socialLinks": [
-                                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "7+ Years ",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "Maths Expert for SSC, Railway \u0026 State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "ssc-mains-maths-batch",
-                                "discountPercentage": "80.03",
-                                "tags": [
-                                    "80+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 3,
-                                "price": 2999,
-                                "discountPrice": 599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
-                                "bannerSquare": null,
-                                "title": "SSC MAINS ENGLISH BATCH",
-                                "description": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "100% Selection oriented content",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 100,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "100% Selection oriented content",
-                                    "Live Classes + Recorded",
-                                    "🎯 Starting From: 13th October 2025"
-                                ],
-                                "timeTable": [
-                                    {
-                                        "topic": "English",
-                                        "time": "4:00PM -05:30 PM(MON-FRI)",
-                                        "_id": "68ef973d0006a5a1fc936055"
-                                    }
-                                ],
-                                "createdAt": "2025-10-09T13:21:42.885Z",
-                                "updatedAt": "2025-10-15T12:44:45.113Z",
-                                "validity": "1 year",
-                                "id": "68e7b6e6aaf4383d1192dfb6",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc62a43a337ee935e57b3",
-                                    "name": "Aman Sir",
-                                    "designation": "English Teacher",
-                                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven\r\nselections\r\nTrusted by lakhs of students across India",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven selections\r\nTrusted by lakhs of students across India"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": true,
-                                "slug": "ssc-mains-english-batch",
-                                "discountPercentage": "80.03",
-                                "tags": [
-                                    "100+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 4,
-                                "price": 9999,
-                                "discountPrice": 1599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450413116-1760426500285-IMG_4795.png",
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759244906133-WhatsApp_Image_2025-09-30_at_8.37.56_PM.jpeg",
-                                "title": "Selection Batch",
-                                "description": [
-                                    "Useful For : SSC, Railways, Banking Exams",
-                                    "Live Classes + E-books",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 1000,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful for SSC, Railways, Banking and other state exams"
-                                ],
-                                "validity": "2 years ",
-                                "timeTable": [
-                                    {
-                                        "topic": "General Studies",
-                                        "time": "08:30AM -09:30AM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e568"
-                                    },
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "09:30AM - 10:30AM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e569"
-                                    },
-                                    {
-                                        "topic": "English",
-                                        "time": "11:00AM - 12:30PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56a"
-                                    },
-                                    {
-                                        "topic": "Maths",
-                                        "time": "12:30PM - 02:00PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56b"
-                                    },
-                                    {
-                                        "topic": "Science",
-                                        "time": "06:00PM - 07:00PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56c"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T13:07:15.555Z",
-                                "updatedAt": "2025-10-15T12:37:42.030Z",
-                                "id": "68dbd603f975d67976534e12",
-                                "short_description": "Useful for SSC, Railways, Banking and other state exams",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dbcea268460072e2387b9b",
-                                    "name": "SelectionWay Team",
-                                    "designation": "Gagan sir \u0026 Team",
-                                    "bio": "SelectionWay",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
-                                    "socialLinks": [
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "10+ Years",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "SelectionWay"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "selection-batch",
-                                "discountPercentage": "84.01",
-                                "tags": [
-                                    "1000+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years "
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 7,
-                                "price": 3999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450679425-1760426839758-IMG_4802.png",
-                                "title": "Maths Special",
-                                "description": [
-                                    "Zero to Hero Batch (Pre+Mains)",
-                                    "Live Lectures with Doubt Support",
-                                    "Validity: 2 Years",
-                                    "Pdf Notes \u0026 1000+ Tests",
-                                    "Conceptual Clarity",
-                                    "Result Oriented Approach"
-                                ],
-                                "liveClassesCount": 350,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "🏆 Useful For: SSC, Railway, Banking \u0026 State Exams",
-                                    "⏳ Validity: 2 Years",
-                                    "🎯 Starting From: 3rd October 2025",
-                                    "🎥 Includes: Live Classes + PDF Notes + 1000+ Tests",
-                                    "📘 Focus: Conceptual Clarity \u0026 Result-Oriented Approach"
-                                ],
-                                "createdAt": "2025-09-20T08:03:52.970Z",
-                                "updatedAt": "2025-10-15T12:39:07.010Z",
-                                "discountPrice": 999,
-                                "isTimeTable": true,
-                                "batchInfoPdfUrl": "https://hranker-node.s3.ap-south-1.amazonaws.com/pdfs/files/Adobe Scan 22 Sep 2025.pdf",
-                                "timeTable": [
-                                    {
-                                        "topic": "Maths",
-                                        "time": "12:30PM - 02:00PM(MON-FRI)",
-                                        "_id": "68ef95ebd3d74585a61538b5"
-                                    }
-                                ],
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396598592-Maths__Special_Live_Batch_Poster_Oct_Selection_Way.png",
-                                "validity": "2 years",
-                                "id": "68ce5fe8bb3c8f24bb3d4f77",
-                                "short_description": "For All Competitive Exams",
-                                "start_date": "2025-10-01",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "6864f6802a698face4d45ecd",
-                                    "name": "Gagan Pratap Sir",
-                                    "designation": "Teacher",
-                                    "bio": "Gagan Pratap Sir – 7+ years",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
-                                    "socialLinks": [
-                                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "7+ Years ",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "Maths Expert for SSC, Railway \u0026 State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "maths-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "350+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 8,
-                                "price": 3999,
-                                "discountPrice": 999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396438167-English_Special_Live_Batch_Poster_Sep_Selection_Way.png",
-                                "title": "English Special",
-                                "description": [
-                                    "One Stop Solution of English",
-                                    "Grammar+Vocab+RC+Practice",
-                                    "Basic to Advance",
-                                    "Pdfs + Tests"
-                                ],
-                                "liveClassesCount": 200,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Dedicated for - SSC \u0026 Defense Exams Useful For : Banking \u0026 other Exams",
-                                    "For All Other Competitive Exams"
-                                ],
-                                "validity": "2 years",
-                                "timeTable": [
-                                    {
-                                        "topic": "English",
-                                        "time": "11:00AM - 12:30PM(MON-FRI)",
-                                        "_id": "68ef95cdd2cc753eb2d2580f"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-15T12:38:37.739Z",
-                                "id": "68dbd51563a1698bf4194573",
-                                "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc62a43a337ee935e57b3",
-                                    "name": "Aman Sir",
-                                    "designation": "English Teacher",
-                                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven\r\nselections\r\nTrusted by lakhs of students across India",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven selections\r\nTrusted by lakhs of students across India"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "english-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "200+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 9,
-                                "price": 3999,
-                                "discountPrice": 999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
-                                "bannerSquare": null,
-                                "title": "Reasoning Special",
-                                "description": [
-                                    "Live Classes + E-books",
-                                    "Pdf Notes \u0026 1000 + Tests",
-                                    "From Basic to Top rank",
-                                    "Result Oriented Learning",
-                                    "Thought Process \u0026 Killer Arguments"
-                                ],
-                                "liveClassesCount": 200,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful For : SSC Exams, Railway Exams",
-                                    "For All Other Competitive Exams"
-                                ],
-                                "validity": "2 years",
-                                "timeTable": [
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "09:30AM - 10:30AM(MON-FRI)",
-                                        "_id": "68ef95bb8b84905b84f62c5d"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-15T12:38:19.311Z",
-                                "id": "68dbd66763a1698bf4194574",
-                                "short_description": "useful for SSC , DEFENCE, BANKING \u0026 OTHER STATE EXAMS",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc7f943a337ee935e7ffe",
-                                    "name": "Balram Sir",
-                                    "designation": "Reasoning Teacher",
-                                    "bio": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on\r\n YouTube \r\n Known for Quality \u0026 Exam-oriented\r\n Content",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/balramsir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on YouTube \r\n Known for Quality \u0026 Exam-oriented Content "
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "reasoning-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "200+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 10,
-                                "price": 3999,
-                                "discountPrice": 999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396954070-Reasoning_Special_Live_Batch_Poster_Sep_Selection_Way.png",
-                                "title": "GS Special",
-                                "description": [
-                                    "Live Classes ",
-                                    "Pdf Notes+ E-books",
-                                    "From Basic to top rank"
-                                ],
-                                "liveClassesCount": 100,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful For : Banking Exams",
-                                    "For All Other Competitive Exams"
-                                ],
-                                "validity": "2 years",
-                                "timeTable": [
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-16T18:27:37.528Z",
-                                "id": "68dbd69163a1698bf4194575",
-                                "short_description": "useful for SSC , DEFENCE, BANKING \u0026 OTHER STATE EXAMS",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dccabfb5383b2a5585c2ce",
-                                    "name": "Varun Sir",
-                                    "designation": "GS Teacher",
-                                    "bio": "9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies \u0026 Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality \u0026 Handpicked Content",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/varun_sir-removebg-preview.png",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+ years",
-                                    "reach": "Lakhs of Students",
-                                    "description": " 9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies \u0026 Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality \u0026 Handpicked Content\r\n"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "gs-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "100+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 11,
-                                "price": 999,
-                                "discountPrice": 399,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450625107-1760427363334-IMG_4806.png",
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396892216-Science_Special_Live_Batch_Poster_Sep_Selection_Way.png",
-                                "title": "Science Special",
-                                "description": [
-                                    "Live Classes + E-books",
-                                    "Pdf Notes \u0026 1000+ Tests",
-                                    "From Basic to Top Rank",
-                                    "Result Oriented Learning"
-                                ],
-                                "liveClassesCount": 100,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful For : Railway Exams , SSC Exams",
-                                    "For All State Exams"
-                                ],
-                                "validity": "1 years",
-                                "timeTable": [
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-16T18:27:19.838Z",
-                                "id": "68dbd32801d050d5b62e45cc",
-                                "short_description": "useful for railway group -d",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dccb72b666b0b6f37b6678",
-                                    "name": "Harish Sir",
-                                    "designation": "Science Teacher",
-                                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "7+ years",
-                                    "reach": "Lakhs of Students",
-                                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "science-special",
-                                "discountPercentage": "60.06",
-                                "tags": [
-                                    "100+ Classes",
-                                    "Already Started",
-                                    "Validity 1 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 14,
-                                "price": 999,
-                                "discountPrice": 99,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450468769-1760427350932-IMG_4805.png",
-                                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396831399-Railway_Group_D__Special_Live_Batch_Poster_Sep_Selection_Way.png",
-                                "title": "Raiway Group -D Science",
-                                "description": [
-                                    "Live Classes + E-books",
-                                    "Pdf Notes",
-                                    "40 Days Master Class",
-                                    "Complete Theory + MCQ"
-                                ],
-                                "liveClassesCount": 40,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful For : Railways Group - D 2025",
-                                    "For All Railways Exams 2026"
-                                ],
-                                "validity": "1 years",
-                                "timeTable": [
-                                    {
-                                        "topic": "Science",
-                                        "time": "10:00AM - 11:00AM(MON-FRI)",
-                                        "_id": "68f09780b7edd42fab743a1f"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-16T06:58:08.068Z",
-                                "id": "68dbdf3a63a1698bf4194576",
-                                "short_description": "Useful For : Railways Group - D 2025",
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dccb72b666b0b6f37b6678",
-                                    "name": "Harish Sir",
-                                    "designation": "Science Teacher",
-                                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "7+ years",
-                                    "reach": "Lakhs of Students",
-                                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!"
-                                },
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "raiway-group-d-science",
-                                "discountPercentage": "90.09",
-                                "tags": [
-                                    "40+ Classes",
-                                    "Already Started",
-                                    "Validity 1 years"
-                                ]
-                            }
-                        ],
-                        "liveBatches": [
-                            {
-                                "status": "active",
-                                "priority": 1,
-                                "price": 9999,
-                                "discountPrice": 1499,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "SSC Mains Batch",
-                                "description": [
-                                    "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                    "Live Classes + E-books",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 500,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "✨ Specially designed for Mains students",
-                                    "📘 Based on the latest exam pattern",
-                                    "🎯 100% Selection Guaranteed Content"
-                                ],
-                                "validity": "1 year",
-                                "timeTable": [
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "10:30AM-12:00PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f11"
-                                    },
-                                    {
-                                        "topic": "English",
-                                        "time": "04:30PM-05:30PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f12"
-                                    },
-                                    {
-                                        "topic": "Maths",
-                                        "time": "08:00PM-09:30PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f13"
-                                    },
-                                    {
-                                        "topic": "General Studies",
-                                        "time": "12:00PM-01:00PM(MON-FRI)",
-                                        "_id": "68ef96fe0006a5a1fc934f14"
-                                    }
-                                ],
-                                "createdAt": "2025-10-05T13:24:04.052Z",
-                                "updatedAt": "2025-10-15T12:43:42.347Z",
-                                "studentCount": 1417,
-                                "id": "68e27174dfde12332485c494",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "Railway Exams",
-                                    "id": "683def9b2f4523ef6c8b188a"
-                                },
-                                "category": {
-                                    "categoryName": "ssc coaching",
-                                    "id": "683ef3a4bec860b42070f0c2"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dbcea268460072e2387b9b",
-                                    "name": "SelectionWay Team",
-                                    "designation": "Gagan sir \u0026 Team",
-                                    "bio": "SelectionWay",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
-                                    "socialLinks": [
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "10+ Years",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "SelectionWay"
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": true,
-                                "slug": "ssc-mains-batch",
-                                "discountPercentage": "85.01",
-                                "tags": [
-                                    "500+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 2,
-                                "price": 2999,
-                                "discountPrice": 599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "SSC MAINS MATHS BATCH",
-                                "description": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "Pdf Notes",
-                                    "100% Selection oriented content"
-                                ],
-                                "liveClassesCount": 80,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "100% Selection oriented content",
-                                    "🎯 Starting From: 13th October 2025"
-                                ],
-                                "timeTable": [
-                                    {
-                                        "topic": "Maths",
-                                        "time": "08:00PM-09:30PM(MON-FRI)",
-                                        "_id": "68ef9768d2cc753eb2d2cf9f"
-                                    }
-                                ],
-                                "createdAt": "2025-10-09T13:21:42.885Z",
-                                "updatedAt": "2025-10-15T12:45:28.411Z",
-                                "validity": "1 year",
-                                "studentCount": 1945,
-                                "id": "68e7b92dd191c00e5c8d713e",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "Banking Exams",
-                                    "id": "683def9b2f4523ef6c8b1889"
-                                },
-                                "category": {
-                                    "categoryName": "UPSC Prelims",
-                                    "id": "683def9c2f4523ef6c8b1890"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "6864f6802a698face4d45ecd",
-                                    "name": "Gagan Pratap Sir",
-                                    "designation": "Teacher",
-                                    "bio": "Gagan Pratap Sir – 7+ years",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
-                                    "socialLinks": [
-                                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "7+ Years ",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "Maths Expert for SSC, Railway \u0026 State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "ssc-mains-maths-batch",
-                                "discountPercentage": "80.03",
-                                "tags": [
-                                    "80+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 3,
-                                "price": 2999,
-                                "discountPrice": 599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "SSC MAINS ENGLISH BATCH",
-                                "description": [
-                                    "Specially designed for MAINS students",
-                                    "Live Classes + Recorded",
-                                    "100% Selection oriented content",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 100,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "100% Selection oriented content",
-                                    "Live Classes + Recorded",
-                                    "🎯 Starting From: 13th October 2025"
-                                ],
-                                "timeTable": [
-                                    {
-                                        "topic": "English",
-                                        "time": "4:00PM -05:30 PM(MON-FRI)",
-                                        "_id": "68ef973d0006a5a1fc936055"
-                                    }
-                                ],
-                                "createdAt": "2025-10-09T13:21:42.885Z",
-                                "updatedAt": "2025-10-15T12:44:45.113Z",
-                                "validity": "1 year",
-                                "studentCount": 1156,
-                                "id": "68e7b6e6aaf4383d1192dfb6",
-                                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "Banking Exams",
-                                    "id": "683def9b2f4523ef6c8b1889"
-                                },
-                                "category": {
-                                    "categoryName": "UPSC Prelims",
-                                    "id": "683def9c2f4523ef6c8b1890"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc62a43a337ee935e57b3",
-                                    "name": "Aman Sir",
-                                    "designation": "English Teacher",
-                                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven\r\nselections\r\nTrusted by lakhs of students across India",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven selections\r\nTrusted by lakhs of students across India"
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": true,
-                                "slug": "ssc-mains-english-batch",
-                                "discountPercentage": "80.03",
-                                "tags": [
-                                    "100+ Classes",
-                                    "Already Started",
-                                    "Validity 1 year"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 4,
-                                "price": 9999,
-                                "discountPrice": 1599,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "Selection Batch",
-                                "description": [
-                                    "Useful For : SSC, Railways, Banking Exams",
-                                    "Live Classes + E-books",
-                                    "Pdf Notes"
-                                ],
-                                "liveClassesCount": 1000,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful for SSC, Railways, Banking and other state exams"
-                                ],
-                                "validity": "2 years ",
-                                "timeTable": [
-                                    {
-                                        "topic": "General Studies",
-                                        "time": "08:30AM -09:30AM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e568"
-                                    },
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "09:30AM - 10:30AM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e569"
-                                    },
-                                    {
-                                        "topic": "English",
-                                        "time": "11:00AM - 12:30PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56a"
-                                    },
-                                    {
-                                        "topic": "Maths",
-                                        "time": "12:30PM - 02:00PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56b"
-                                    },
-                                    {
-                                        "topic": "Science",
-                                        "time": "06:00PM - 07:00PM(MON-FRI)",
-                                        "_id": "68ef95960006a5a1fc92e56c"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T13:07:15.555Z",
-                                "updatedAt": "2025-10-15T12:37:42.030Z",
-                                "studentCount": 11703,
-                                "id": "68dbd603f975d67976534e12",
-                                "short_description": "Useful for SSC, Railways, Banking and other state exams",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450413116-1760426500285-IMG_4795.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "All Competitive Exams",
-                                    "id": "683def9b2f4523ef6c8b1887"
-                                },
-                                "category": {
-                                    "categoryName": "ssc coaching",
-                                    "id": "683ef3a4bec860b42070f0c2"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dbcea268460072e2387b9b",
-                                    "name": "SelectionWay Team",
-                                    "designation": "Gagan sir \u0026 Team",
-                                    "bio": "SelectionWay",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
-                                    "socialLinks": [
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "10+ Years",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "SelectionWay"
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "selection-batch",
-                                "discountPercentage": "84.01",
-                                "tags": [
-                                    "1000+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years "
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 7,
-                                "price": 3999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "Maths Special",
-                                "description": [
-                                    "Zero to Hero Batch (Pre+Mains)",
-                                    "Live Lectures with Doubt Support",
-                                    "Validity: 2 Years",
-                                    "Pdf Notes \u0026 1000+ Tests",
-                                    "Conceptual Clarity",
-                                    "Result Oriented Approach"
-                                ],
-                                "liveClassesCount": 350,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "🏆 Useful For: SSC, Railway, Banking \u0026 State Exams",
-                                    "⏳ Validity: 2 Years",
-                                    "🎯 Starting From: 3rd October 2025",
-                                    "🎥 Includes: Live Classes + PDF Notes + 1000+ Tests",
-                                    "📘 Focus: Conceptual Clarity \u0026 Result-Oriented Approach"
-                                ],
-                                "createdAt": "2025-09-20T08:03:52.970Z",
-                                "updatedAt": "2025-10-15T12:39:07.010Z",
-                                "discountPrice": 999,
-                                "isTimeTable": true,
-                                "batchInfoPdfUrl": "https://hranker-node.s3.ap-south-1.amazonaws.com/pdfs/files/Adobe Scan 22 Sep 2025.pdf",
-                                "timeTable": [
-                                    {
-                                        "topic": "Maths",
-                                        "time": "12:30PM - 02:00PM(MON-FRI)",
-                                        "_id": "68ef95ebd3d74585a61538b5"
-                                    }
-                                ],
-                                "validity": "2 years",
-                                "studentCount": 16268,
-                                "id": "68ce5fe8bb3c8f24bb3d4f77",
-                                "short_description": "For All Competitive Exams",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450679425-1760426839758-IMG_4802.png",
-                                "start_date": "2025-10-01",
-                                "mainCategory": {
-                                    "mainCategoryName": "All Competitive Exams",
-                                    "id": "683def9b2f4523ef6c8b1887"
-                                },
-                                "category": {
-                                    "categoryName": "SSC CGL English",
-                                    "id": "683def9c2f4523ef6c8b188f"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "6864f6802a698face4d45ecd",
-                                    "name": "Gagan Pratap Sir",
-                                    "designation": "Teacher",
-                                    "bio": "Gagan Pratap Sir – 7+ years",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
-                                    "socialLinks": [
-                                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
-                                    ],
-                                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-                                    "experience": "7+ Years ",
-                                    "reach": "50 Lakh+ Students",
-                                    "description": "Maths Expert for SSC, Railway \u0026 State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "maths-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "350+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 8,
-                                "price": 3999,
-                                "discountPrice": 999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "English Special",
-                                "description": [
-                                    "One Stop Solution of English",
-                                    "Grammar+Vocab+RC+Practice",
-                                    "Basic to Advance",
-                                    "Pdfs + Tests"
-                                ],
-                                "liveClassesCount": 200,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Dedicated for - SSC \u0026 Defense Exams Useful For : Banking \u0026 other Exams",
-                                    "For All Other Competitive Exams"
-                                ],
-                                "validity": "2 years",
-                                "timeTable": [
-                                    {
-                                        "topic": "English",
-                                        "time": "11:00AM - 12:30PM(MON-FRI)",
-                                        "_id": "68ef95cdd2cc753eb2d2580f"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-15T12:38:37.739Z",
-                                "studentCount": 2111,
-                                "id": "68dbd51563a1698bf4194573",
-                                "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "All Competitive Exams",
-                                    "id": "683def9b2f4523ef6c8b1887"
-                                },
-                                "category": {
-                                    "categoryName": "English",
-                                    "id": "68dcdb8f81f17e91ad775283"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc62a43a337ee935e57b3",
-                                    "name": "Aman Sir",
-                                    "designation": "English Teacher",
-                                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven\r\nselections\r\nTrusted by lakhs of students across India",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique \u0026 proven selections\r\nTrusted by lakhs of students across India"
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "english-special",
-                                "discountPercentage": "75.02",
-                                "tags": [
-                                    "200+ Classes",
-                                    "Already Started",
-                                    "Validity 2 years"
-                                ]
-                            },
-                            {
-                                "status": "active",
-                                "priority": 9,
-                                "price": 3999,
-                                "discountPrice": 999,
-                                "isLive": true,
-                                "isRecorded": false,
-                                "isFree": false,
-                                "title": "Reasoning Special",
-                                "description": [
-                                    "Live Classes + E-books",
-                                    "Pdf Notes \u0026 1000 + Tests",
-                                    "From Basic to Top rank",
-                                    "Result Oriented Learning",
-                                    "Thought Process \u0026 Killer Arguments"
-                                ],
-                                "liveClassesCount": 200,
-                                "recordedClassesCount": 0,
-                                "courseInfo": [
-                                ],
-                                "courseHighlights": [
-                                    "Useful For : SSC Exams, Railway Exams",
-                                    "For All Other Competitive Exams"
-                                ],
-                                "validity": "2 years",
-                                "timeTable": [
-                                    {
-                                        "topic": "Reasoning",
-                                        "time": "09:30AM - 10:30AM(MON-FRI)",
-                                        "_id": "68ef95bb8b84905b84f62c5d"
-                                    }
-                                ],
-                                "createdAt": "2025-09-30T12:55:04.846Z",
-                                "updatedAt": "2025-10-15T12:38:19.311Z",
-                                "studentCount": 118,
-                                "id": "68dbd66763a1698bf4194574",
-                                "short_description": "useful for SSC , DEFENCE, BANKING \u0026 OTHER STATE EXAMS",
-                                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
-                                "mainCategory": {
-                                    "mainCategoryName": "Railway Exams",
-                                    "id": "683def9b2f4523ef6c8b188a"
-                                },
-                                "category": {
-                                    "categoryName": "Railway Group D",
-                                    "id": "683def9c2f4523ef6c8b1893"
-                                },
-                                "facultyDetails": {
-                                    "_id": 0,
-                                    "id": "68dcc7f943a337ee935e7ffe",
-                                    "name": "Balram Sir",
-                                    "designation": "Reasoning Teacher",
-                                    "bio": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on\r\n YouTube \r\n Known for Quality \u0026 Exam-oriented\r\n Content",
-                                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/balramsir.jpg",
-                                    "socialLinks": [
-                                    ],
-                                    "experience": "10+years",
-                                    "reach": "Lakhs of Students",
-                                    "description": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on YouTube \r\n Known for Quality \u0026 Exam-oriented Content "
-                                },
-                                "demoVideos": null,
-                                "faq": null,
-                                "isPaid": false,
-                                "isBlinking": false,
-                                "slug": "reasoning-special",
-                                "discountPercentage": "75.02",
-                                "tags": ["200+ Classes",
-                                "Already Started",
-                                "Validity 2 years"
-                            ]
-                        },
-                        {
-                            "status": "active",
-                            "priority": 10,
-                            "price": 3999,
-                            "discountPrice": 999,
-                            "isLive": true,
-                            "isRecorded": false,
-                            "isFree": false,
-                            "title": "GS Special",
-                            "description": [
-                                "Live Classes ",
-                                "Pdf Notes+ E-books",
-                                "From Basic to top rank"
-                            ],
-                            "liveClassesCount": 100,
-                            "recordedClassesCount": 0,
-                            "courseInfo": [
-                            ],
-                            "courseHighlights": [
-                                "Useful For : Banking Exams",
-                                "For All Other Competitive Exams"
-                            ],
-                            "validity": "2 years",
-                            "timeTable": [
-                            ],
-                            "createdAt": "2025-09-30T12:55:04.846Z",
-                            "updatedAt": "2025-10-16T18:27:37.528Z",
-                            "studentCount": 238,
-                            "id": "68dbd69163a1698bf4194575",
-                            "short_description": "useful for SSC , DEFENCE, BANKING \u0026 OTHER STATE EXAMS",
-                            "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
-                            "mainCategory": {
-                                "mainCategoryName": "Railway Exams",
-                                "id": "683def9b2f4523ef6c8b188a"
-                            },
-                            "category": {
-                                "categoryName": "Railway Group D",
-                                "id": "683def9c2f4523ef6c8b1893"
-                            },
-                            "facultyDetails": {
-                                "_id": 0,
-                                "id": "68dccabfb5383b2a5585c2ce",
-                                "name": "Varun Sir",
-                                "designation": "GS Teacher",
-                                "bio": "9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies \u0026 Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality \u0026 Handpicked Content",
-                                "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/varun_sir-removebg-preview.png",
-                                "socialLinks": [
-                                ],
-                                "experience": "10+ years",
-                                "reach": "Lakhs of Students",
-                                "description": " 9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies \u0026 Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality \u0026 Handpicked Content\r\n"
-                            },
-                            "demoVideos": null,
-                            "faq": null,
-                            "isPaid": false,
-                            "isBlinking": false,
-                            "slug": "gs-special",
-                            "discountPercentage": "75.02",
-                            "tags": [
-                                "100+ Classes",
-                                "Already Started",
-                                "Validity 2 years"
-                            ]
-                        },
-                        {
-                            "status": "active",
-                            "priority": 11,
-                            "price": 999,
-                            "discountPrice": 399,
-                            "isLive": true,
-                            "isRecorded": false,
-                            "isFree": false,
-                            "title": "Science Special",
-                            "description": [
-                                "Live Classes + E-books",
-                                "Pdf Notes \u0026 1000+ Tests",
-                                "From Basic to Top Rank",
-                                "Result Oriented Learning"
-                            ],
-                            "liveClassesCount": 100,
-                            "recordedClassesCount": 0,
-                            "courseInfo": [
-                            ],
-                            "courseHighlights": [
-                                "Useful For : Railway Exams , SSC Exams",
-                                "For All State Exams"
-                            ],
-                            "validity": "1 years",
-                            "timeTable": [
-                            ],
-                            "createdAt": "2025-09-30T12:55:04.846Z",
-                            "updatedAt": "2025-10-16T18:27:19.838Z",
-                            "studentCount": 561,
-                            "id": "68dbd32801d050d5b62e45cc",
-                            "short_description": "useful for railway group -d",
-                            "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450625107-1760427363334-IMG_4806.png",
-                            "mainCategory": {
-                                "mainCategoryName": "Railway Exams",
-                                "id": "683def9b2f4523ef6c8b188a"
-                            },
-                            "category": {
-                                "categoryName": "Railway Group D",
-                                "id": "683def9c2f4523ef6c8b1893"
-                            },
-                            "facultyDetails": {
-                                "_id": 0,
-                                "id": "68dccb72b666b0b6f37b6678",
-                                "name": "Harish Sir",
-                                "designation": "Science Teacher",
-                                "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!",
-                                "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
-                                "socialLinks": [
-                                ],
-                                "experience": "7+ years",
-                                "reach": "Lakhs of Students",
-                                "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!"
-                            },
-                            "demoVideos": null,
-                            "faq": null,
-                            "isPaid": false,
-                            "isBlinking": false,
-                            "slug": "science-special",
-                            "discountPercentage": "60.06",
-                            "tags": [
-                                "100+ Classes",
-                                "Already Started",
-                                "Validity 1 years"
-                            ]
-                        },
-                        {
-                            "status": "active",
-                            "priority": 14,
-                            "price": 999,
-                            "discountPrice": 99,
-                            "isLive": true,
-                            "isRecorded": false,
-                            "isFree": false,
-                            "title": "Raiway Group -D Science",
-                            "description": [
-                                "Live Classes + E-books",
-                                "Pdf Notes",
-                                "40 Days Master Class",
-                                "Complete Theory + MCQ"
-                            ],
-                            "liveClassesCount": 40,
-                            "recordedClassesCount": 0,
-                            "courseInfo": [
-                            ],
-                            "courseHighlights": [
-                                "Useful For : Railways Group - D 2025",
-                                "For All Railways Exams 2026"
-                            ],
-                            "validity": "1 years",
-                            "timeTable": [
-                                {
-                                    "topic": "Science",
-                                    "time": "10:00AM - 11:00AM(MON-FRI)",
-                                    "_id": "68f09780b7edd42fab743a1f"
-                                }
-                            ],
-                            "createdAt": "2025-09-30T12:55:04.846Z",
-                            "updatedAt": "2025-10-16T06:58:08.068Z",
-                            "studentCount": 14498,
-                            "id": "68dbdf3a63a1698bf4194576",
-                            "short_description": "Useful For : Railways Group - D 2025",
-                            "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450468769-1760427350932-IMG_4805.png",
-                            "mainCategory": {
-                                "mainCategoryName": "Railway Exams",
-                                "id": "683def9b2f4523ef6c8b188a"
-                            },
-                            "category": {
-                                "categoryName": "Railway Group D",
-                                "id": "683def9c2f4523ef6c8b1893"
-                            },
-                            "facultyDetails": {
-                                "_id": 0,
-                                "id": "68dccb72b666b0b6f37b6678",
-                                "name": "Harish Sir",
-                                "designation": "Science Teacher",
-                                "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!",
-                                "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
-                                "socialLinks": [
-                                ],
-                                "experience": "7+ years",
-                                "reach": "Lakhs of Students",
-                                "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style \u0026 Marathon King of Science!"
-                            },
-                            "demoVideos": null,
-                            "faq": null,
-                            "isPaid": false,
-                            "isBlinking": false,
-                            "slug": "raiway-group-d-science",
-                            "discountPercentage": "90.09",
-                            "tags": [
-                                "40+ Classes",
-                                "Already Started",
-                                "Validity 1 years"
-                            ]
-                        }
-                    ],
-                    "recordedBatches": [
-                    ]
+{
+    "pageProps": {
+        "pageSeoData": {},
+        "faqs": [],
+        "seoTags": {
+            "canonical_url": "https://www.selectionway.com/batches/live",
+            "description": "Batches",
+            "error_code": "0",
+            "no_follow": "0",
+            "no_index": "0",
+            "page_tittle": "Batches",
+            "redirection_url": "",
+            "robots": "INDEX,FOLLOW",
+            "seo_keywords": "Batches"
+        },
+        "pageDescription": [],
+        "subcategorisList": [],
+        "examSubcategorisList": [],
+        "customMenuList": [
+            {
+                "label": "Live Batches",
+                "url": "/batches/live",
+                "icon": "p-live-vid"
+            },
+            {
+                "label": "Recorded Batches",
+                "url": "/batches/recorded",
+                "icon": "p-rec-vid"
+            },
+            {
+                "label": "AI Test",
+                "url": "/ai-test",
+                "icon": "p-ai-test"
+            },
+            {
+                "label": "Free Batches",
+                "url": "/free-batches",
+                "icon": "p-free-batch"
+            },
+            {
+                "label": "Test Ranking",
+                "url": "https://www.testranking.in",
+                "target": "_blank",
+                "icon": "p-testranking"
+            }
+        ],
+        "sideBarcustomMenuList": [
+            {
+                "label": "Live Batches",
+                "url": "/batches/live",
+                "icon": "p-live-vid"
+            },
+            {
+                "label": "Recorded Batches",
+                "url": "/batches/recorded",
+                "icon": "p-rec-vid"
+            },
+            {
+                "label": "AI Test",
+                "url": "/ai-test",
+                "icon": "p-ai-test"
+            },
+            {
+                "label": "Free Batches",
+                "url": "/free-batches",
+                "icon": "p-free-batch"
+            },
+            {
+                "label": "Test Ranking",
+                "url": "https://www.testranking.in",
+                "target": "_blank",
+                "icon": "p-testranking"
+            }
+        ],
+        "allBatches": [
+            {
+                "status": "active",
+                "priority": 1,
+                "price": 9999,
+                "discountPrice": 1499,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
+                "bannerSquare": null,
+                "title": "SSC Mains Batch",
+                "description": [
+                    "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                    "Live Classes + E-books",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 500,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "✨ Specially designed for Mains students",
+                    "📘 Based on the latest exam pattern",
+                    "🎯 100% Selection Guaranteed Content"
+                ],
+                "validity": "1 year",
+                "timeTable": [
+                    {
+                        "topic": "Reasoning",
+                        "time": "10:30AM-12:00PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f11"
+                    },
+                    {
+                        "topic": "English",
+                        "time": "04:30PM-05:30PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f12"
+                    },
+                    {
+                        "topic": "Maths",
+                        "time": "08:00PM-09:30PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f13"
+                    },
+                    {
+                        "topic": "General Studies",
+                        "time": "12:00PM-01:00PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f14"
+                    }
+                ],
+                "createdAt": "2025-10-05T13:24:04.052Z",
+                "updatedAt": "2025-10-15T12:43:42.347Z",
+                "id": "68e27174dfde12332485c494",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dbcea268460072e2387b9b",
+                    "name": "SelectionWay Team",
+                    "designation": "Gagan sir & Team",
+                    "bio": "SelectionWay",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
+                    "socialLinks": [],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "10+ Years",
+                    "reach": "50 Lakh+ Students",
+                    "description": "SelectionWay"
                 },
-                "__N_SSG": true
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-batch",
+                "discountPercentage": "85.01",
+                "tags": [
+                    "500+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
             },
-            "page": "/batches/[slug]",
-            "query": {
-                "slug": "live"
+            {
+                "status": "active",
+                "priority": 2,
+                "price": 2999,
+                "discountPrice": 599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
+                "bannerSquare": null,
+                "title": "SSC MAINS MATHS BATCH",
+                "description": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "Pdf Notes",
+                    "100% Selection oriented content"
+                ],
+                "liveClassesCount": 80,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "100% Selection oriented content",
+                    "🎯 Starting From: 13th October 2025"
+                ],
+                "timeTable": [
+                    {
+                        "topic": "Maths",
+                        "time": "08:00PM-09:30PM(MON-FRI)",
+                        "_id": "68ef9768d2cc753eb2d2cf9f"
+                    }
+                ],
+                "createdAt": "2025-10-09T13:21:42.885Z",
+                "updatedAt": "2025-10-15T12:45:28.411Z",
+                "validity": "1 year",
+                "id": "68e7b92dd191c00e5c8d713e",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "6864f6802a698face4d45ecd",
+                    "name": "Gagan Pratap Sir",
+                    "designation": "Teacher",
+                    "bio": "Gagan Pratap Sir – 7+ years",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
+                    "socialLinks": [
+                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "7+ Years ",
+                    "reach": "50 Lakh+ Students",
+                    "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-maths-batch",
+                "discountPercentage": "80.03",
+                "tags": [
+                    "80+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
             },
-            "buildId": "U5WRa9QiP5qvYCObkMlUG",
-            "isFallback": false,
-            "gsp": true,
-            "locale": "en-US",
-            "locales": [
-                "en-US"
-            ],
-            "defaultLocale": "en-US",
-            "scriptLoader": [
-            ]}
+            {
+                "status": "active",
+                "priority": 3,
+                "price": 2999,
+                "discountPrice": 599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
+                "bannerSquare": null,
+                "title": "SSC MAINS ENGLISH BATCH",
+                "description": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "100% Selection oriented content",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "100% Selection oriented content",
+                    "Live Classes + Recorded",
+                    "🎯 Starting From: 13th October 2025"
+                ],
+                "timeTable": [
+                    {
+                        "topic": "English",
+                        "time": "4:00PM -05:30 PM(MON-FRI)",
+                        "_id": "68ef973d0006a5a1fc936055"
+                    }
+                ],
+                "createdAt": "2025-10-09T13:21:42.885Z",
+                "updatedAt": "2025-10-15T12:44:45.113Z",
+                "validity": "1 year",
+                "id": "68e7b6e6aaf4383d1192dfb6",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc62a43a337ee935e57b3",
+                    "name": "Aman Sir",
+                    "designation": "English Teacher",
+                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-english-batch",
+                "discountPercentage": "80.03",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 4,
+                "price": 9999,
+                "discountPrice": 1599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760708317029-IMG_4791.png",
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759244906133-WhatsApp_Image_2025-09-30_at_8.37.56_PM.jpeg",
+                "title": "Selection Batch",
+                "description": [
+                    "Useful For : SSC, Railways, Banking Exams",
+                    "Live Classes + E-books",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 1000,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful for SSC, Railways, Banking and other state exams"
+                ],
+                "validity": "2 years ",
+                "timeTable": [],
+                "createdAt": "2025-09-30T13:07:15.555Z",
+                "updatedAt": "2025-10-17T13:38:37.111Z",
+                "id": "68dbd603f975d67976534e12",
+                "short_description": "Useful for SSC, Railways, Banking and other state exams",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dbcea268460072e2387b9b",
+                    "name": "SelectionWay Team",
+                    "designation": "Gagan sir & Team",
+                    "bio": "SelectionWay",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
+                    "socialLinks": [],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "10+ Years",
+                    "reach": "50 Lakh+ Students",
+                    "description": "SelectionWay"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "selection-batch",
+                "discountPercentage": "84.01",
+                "tags": [
+                    "1000+ Classes",
+                    "Already Started",
+                    "Validity 2 years "
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 7,
+                "price": 3999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450679425-1760426839758-IMG_4802.png",
+                "title": "Maths Special",
+                "description": [
+                    "Zero to Hero Batch (Pre+Mains)",
+                    "Live Lectures with Doubt Support",
+                    "Validity: 2 Years",
+                    "Pdf Notes & 1000+ Tests",
+                    "Conceptual Clarity",
+                    "Result Oriented Approach"
+                ],
+                "liveClassesCount": 350,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "🏆 Useful For: SSC, Railway, Banking & State Exams",
+                    "⏳ Validity: 2 Years",
+                    "🎯 Starting From: 3rd October 2025",
+                    "🎥 Includes: Live Classes + PDF Notes + 1000+ Tests",
+                    "📘 Focus: Conceptual Clarity & Result-Oriented Approach"
+                ],
+                "createdAt": "2025-09-20T08:03:52.970Z",
+                "updatedAt": "2025-10-15T12:39:07.010Z",
+                "discountPrice": 999,
+                "isTimeTable": true,
+                "batchInfoPdfUrl": "https://hranker-node.s3.ap-south-1.amazonaws.com/pdfs/files/Adobe Scan 22 Sep 2025.pdf",
+                "timeTable": [
+                    {
+                        "topic": "Maths",
+                        "time": "12:30PM - 02:00PM(MON-FRI)",
+                        "_id": "68ef95ebd3d74585a61538b5"
+                    }
+                ],
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396598592-Maths__Special_Live_Batch_Poster_Oct_Selection_Way.png",
+                "validity": "2 years",
+                "id": "68ce5fe8bb3c8f24bb3d4f77",
+                "short_description": "For All Competitive Exams",
+                "start_date": "2025-10-01",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "6864f6802a698face4d45ecd",
+                    "name": "Gagan Pratap Sir",
+                    "designation": "Teacher",
+                    "bio": "Gagan Pratap Sir – 7+ years",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
+                    "socialLinks": [
+                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "7+ Years ",
+                    "reach": "50 Lakh+ Students",
+                    "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "maths-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "350+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 8,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396438167-English_Special_Live_Batch_Poster_Sep_Selection_Way.png",
+                "title": "English Special",
+                "description": [
+                    "One Stop Solution of English",
+                    "Grammar+Vocab+RC+Practice",
+                    "Basic to Advance",
+                    "Pdfs + Tests"
+                ],
+                "liveClassesCount": 200,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Dedicated for - SSC & Defense Exams Useful For : Banking & other Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [
+                    {
+                        "topic": "English",
+                        "time": "11:00AM - 12:30PM(MON-FRI)",
+                        "_id": "68ef95cdd2cc753eb2d2580f"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-15T12:38:37.739Z",
+                "id": "68dbd51563a1698bf4194573",
+                "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc62a43a337ee935e57b3",
+                    "name": "Aman Sir",
+                    "designation": "English Teacher",
+                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "english-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "200+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 9,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
+                "bannerSquare": null,
+                "title": "Reasoning Special",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes & 1000 + Tests",
+                    "From Basic to Top rank",
+                    "Result Oriented Learning",
+                    "Thought Process & Killer Arguments"
+                ],
+                "liveClassesCount": 200,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : SSC Exams, Railway Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [
+                    {
+                        "topic": "Reasoning",
+                        "time": "09:30AM - 10:30AM(MON-FRI)",
+                        "_id": "68ef95bb8b84905b84f62c5d"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-15T12:38:19.311Z",
+                "id": "68dbd66763a1698bf4194574",
+                "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc7f943a337ee935e7ffe",
+                    "name": "Balram Sir",
+                    "designation": "Reasoning Teacher",
+                    "bio": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on\r\n YouTube \r\n Known for Quality & Exam-oriented\r\n Content",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/balramsir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on YouTube \r\n Known for Quality & Exam-oriented Content "
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "reasoning-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "200+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 10,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396954070-Reasoning_Special_Live_Batch_Poster_Sep_Selection_Way.png",
+                "title": "GS Special",
+                "description": [
+                    "Live Classes ",
+                    "Pdf Notes+ E-books",
+                    "From Basic to top rank"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Banking Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T18:27:37.528Z",
+                "id": "68dbd69163a1698bf4194575",
+                "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccabfb5383b2a5585c2ce",
+                    "name": "Varun Sir",
+                    "designation": "GS Teacher",
+                    "bio": "9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies & Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality & Handpicked Content",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/varun_sir-removebg-preview.png",
+                    "socialLinks": [],
+                    "experience": "10+ years",
+                    "reach": "Lakhs of Students",
+                    "description": " 9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies & Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality & Handpicked Content\r\n"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "gs-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 11,
+                "price": 999,
+                "discountPrice": 399,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450625107-1760427363334-IMG_4806.png",
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396892216-Science_Special_Live_Batch_Poster_Sep_Selection_Way.png",
+                "title": "Science Special",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes & 1000+ Tests",
+                    "From Basic to Top Rank",
+                    "Result Oriented Learning"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Railway Exams , SSC Exams",
+                    "For All State Exams"
+                ],
+                "validity": "1 years",
+                "timeTable": [],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T18:27:19.838Z",
+                "id": "68dbd32801d050d5b62e45cc",
+                "short_description": "useful for railway group -d",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccb72b666b0b6f37b6678",
+                    "name": "Harish Sir",
+                    "designation": "Science Teacher",
+                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
+                    "socialLinks": [],
+                    "experience": "7+ years",
+                    "reach": "Lakhs of Students",
+                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "science-special",
+                "discountPercentage": "60.06",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 1 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 14,
+                "price": 999,
+                "discountPrice": 99,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450468769-1760427350932-IMG_4805.png",
+                "bannerSquare": "https://hranker-node.s3.ap-south-1.amazonaws.com/classes/1759396831399-Railway_Group_D__Special_Live_Batch_Poster_Sep_Selection_Way.png",
+                "title": "Raiway Group -D Science",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes",
+                    "40 Days Master Class",
+                    "Complete Theory + MCQ"
+                ],
+                "liveClassesCount": 40,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Railways Group - D 2025",
+                    "For All Railways Exams 2026"
+                ],
+                "validity": "1 years",
+                "timeTable": [
+                    {
+                        "topic": "Science",
+                        "time": "10:00AM - 11:00AM(MON-FRI)",
+                        "_id": "68f09780b7edd42fab743a1f"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T06:58:08.068Z",
+                "id": "68dbdf3a63a1698bf4194576",
+                "short_description": "Useful For : Railways Group - D 2025",
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccb72b666b0b6f37b6678",
+                    "name": "Harish Sir",
+                    "designation": "Science Teacher",
+                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
+                    "socialLinks": [],
+                    "experience": "7+ years",
+                    "reach": "Lakhs of Students",
+                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!"
+                },
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "raiway-group-d-science",
+                "discountPercentage": "90.09",
+                "tags": [
+                    "40+ Classes",
+                    "Already Started",
+                    "Validity 1 years"
+                ]
+            }
+        ],
+        "liveBatches": [
+            {
+                "status": "active",
+                "priority": 1,
+                "price": 9999,
+                "discountPrice": 1499,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "SSC Mains Batch",
+                "description": [
+                    "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                    "Live Classes + E-books",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 500,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "✨ Specially designed for Mains students",
+                    "📘 Based on the latest exam pattern",
+                    "🎯 100% Selection Guaranteed Content"
+                ],
+                "validity": "1 year",
+                "timeTable": [
+                    {
+                        "topic": "Reasoning",
+                        "time": "10:30AM-12:00PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f11"
+                    },
+                    {
+                        "topic": "English",
+                        "time": "04:30PM-05:30PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f12"
+                    },
+                    {
+                        "topic": "Maths",
+                        "time": "08:00PM-09:30PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f13"
+                    },
+                    {
+                        "topic": "General Studies",
+                        "time": "12:00PM-01:00PM(MON-FRI)",
+                        "_id": "68ef96fe0006a5a1fc934f14"
+                    }
+                ],
+                "createdAt": "2025-10-05T13:24:04.052Z",
+                "updatedAt": "2025-10-15T12:43:42.347Z",
+                "studentCount": 1784,
+                "id": "68e27174dfde12332485c494",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
+                "mainCategory": {
+                    "mainCategoryName": "Railway Exams",
+                    "id": "683def9b2f4523ef6c8b188a"
+                },
+                "category": {
+                    "categoryName": "ssc coaching",
+                    "id": "683ef3a4bec860b42070f0c2"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dbcea268460072e2387b9b",
+                    "name": "SelectionWay Team",
+                    "designation": "Gagan sir & Team",
+                    "bio": "SelectionWay",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
+                    "socialLinks": [],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "10+ Years",
+                    "reach": "50 Lakh+ Students",
+                    "description": "SelectionWay"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-batch",
+                "discountPercentage": "85.01",
+                "tags": [
+                    "500+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 2,
+                "price": 2999,
+                "discountPrice": 599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "SSC MAINS MATHS BATCH",
+                "description": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "Pdf Notes",
+                    "100% Selection oriented content"
+                ],
+                "liveClassesCount": 80,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "100% Selection oriented content",
+                    "🎯 Starting From: 13th October 2025"
+                ],
+                "timeTable": [
+                    {
+                        "topic": "Maths",
+                        "time": "08:00PM-09:30PM(MON-FRI)",
+                        "_id": "68ef9768d2cc753eb2d2cf9f"
+                    }
+                ],
+                "createdAt": "2025-10-09T13:21:42.885Z",
+                "updatedAt": "2025-10-15T12:45:28.411Z",
+                "validity": "1 year",
+                "studentCount": 2861,
+                "id": "68e7b92dd191c00e5c8d713e",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
+                "mainCategory": {
+                    "mainCategoryName": "Banking Exams",
+                    "id": "683def9b2f4523ef6c8b1889"
+                },
+                "category": {
+                    "categoryName": "UPSC Prelims",
+                    "id": "683def9c2f4523ef6c8b1890"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "6864f6802a698face4d45ecd",
+                    "name": "Gagan Pratap Sir",
+                    "designation": "Teacher",
+                    "bio": "Gagan Pratap Sir – 7+ years",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
+                    "socialLinks": [
+                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "7+ Years ",
+                    "reach": "50 Lakh+ Students",
+                    "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-maths-batch",
+                "discountPercentage": "80.03",
+                "tags": [
+                    "80+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 3,
+                "price": 2999,
+                "discountPrice": 599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "SSC MAINS ENGLISH BATCH",
+                "description": [
+                    "Specially designed for MAINS students",
+                    "Live Classes + Recorded",
+                    "100% Selection oriented content",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "100% Selection oriented content",
+                    "Live Classes + Recorded",
+                    "🎯 Starting From: 13th October 2025"
+                ],
+                "timeTable": [
+                    {
+                        "topic": "English",
+                        "time": "4:00PM -05:30 PM(MON-FRI)",
+                        "_id": "68ef973d0006a5a1fc936055"
+                    }
+                ],
+                "createdAt": "2025-10-09T13:21:42.885Z",
+                "updatedAt": "2025-10-15T12:44:45.113Z",
+                "validity": "1 year",
+                "studentCount": 2025,
+                "id": "68e7b6e6aaf4383d1192dfb6",
+                "short_description": "Useful For SSC, CGL, CHSL,MAINS AND OTHER MAINS EXAMS",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
+                "mainCategory": {
+                    "mainCategoryName": "Banking Exams",
+                    "id": "683def9b2f4523ef6c8b1889"
+                },
+                "category": {
+                    "categoryName": "UPSC Prelims",
+                    "id": "683def9c2f4523ef6c8b1890"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc62a43a337ee935e57b3",
+                    "name": "Aman Sir",
+                    "designation": "English Teacher",
+                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "ssc-mains-english-batch",
+                "discountPercentage": "80.03",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 1 year"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 4,
+                "price": 9999,
+                "discountPrice": 1599,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "Selection Batch",
+                "description": [
+                    "Useful For : SSC, Railways, Banking Exams",
+                    "Live Classes + E-books",
+                    "Pdf Notes"
+                ],
+                "liveClassesCount": 1000,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful for SSC, Railways, Banking and other state exams"
+                ],
+                "validity": "2 years ",
+                "timeTable": [],
+                "createdAt": "2025-09-30T13:07:15.555Z",
+                "updatedAt": "2025-10-17T13:38:37.111Z",
+                "studentCount": 12638,
+                "id": "68dbd603f975d67976534e12",
+                "short_description": "Useful for SSC, Railways, Banking and other state exams",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760708317029-IMG_4791.png",
+                "mainCategory": {
+                    "mainCategoryName": "All Competitive Exams",
+                    "id": "683def9b2f4523ef6c8b1887"
+                },
+                "category": {
+                    "categoryName": "ssc coaching",
+                    "id": "683ef3a4bec860b42070f0c2"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dbcea268460072e2387b9b",
+                    "name": "SelectionWay Team",
+                    "designation": "Gagan sir & Team",
+                    "bio": "SelectionWay",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/MAINS BATCH.png",
+                    "socialLinks": [],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "10+ Years",
+                    "reach": "50 Lakh+ Students",
+                    "description": "SelectionWay"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "selection-batch",
+                "discountPercentage": "84.01",
+                "tags": [
+                    "1000+ Classes",
+                    "Already Started",
+                    "Validity 2 years "
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 7,
+                "price": 3999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "Maths Special",
+                "description": [
+                    "Zero to Hero Batch (Pre+Mains)",
+                    "Live Lectures with Doubt Support",
+                    "Validity: 2 Years",
+                    "Pdf Notes & 1000+ Tests",
+                    "Conceptual Clarity",
+                    "Result Oriented Approach"
+                ],
+                "liveClassesCount": 350,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "🏆 Useful For: SSC, Railway, Banking & State Exams",
+                    "⏳ Validity: 2 Years",
+                    "🎯 Starting From: 3rd October 2025",
+                    "🎥 Includes: Live Classes + PDF Notes + 1000+ Tests",
+                    "📘 Focus: Conceptual Clarity & Result-Oriented Approach"
+                ],
+                "createdAt": "2025-09-20T08:03:52.970Z",
+                "updatedAt": "2025-10-15T12:39:07.010Z",
+                "discountPrice": 999,
+                "isTimeTable": true,
+                "batchInfoPdfUrl": "https://hranker-node.s3.ap-south-1.amazonaws.com/pdfs/files/Adobe Scan 22 Sep 2025.pdf",
+                "timeTable": [
+                    {
+                        "topic": "Maths",
+                        "time": "12:30PM - 02:00PM(MON-FRI)",
+                        "_id": "68ef95ebd3d74585a61538b5"
+                    }
+                ],
+                "validity": "2 years",
+                "studentCount": 16556,
+                "id": "68ce5fe8bb3c8f24bb3d4f77",
+                "short_description": "For All Competitive Exams",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450679425-1760426839758-IMG_4802.png",
+                "start_date": "2025-10-01",
+                "mainCategory": {
+                    "mainCategoryName": "All Competitive Exams",
+                    "id": "683def9b2f4523ef6c8b1887"
+                },
+                "category": {
+                    "categoryName": "SSC CGL English",
+                    "id": "683def9c2f4523ef6c8b188f"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "6864f6802a698face4d45ecd",
+                    "name": "Gagan Pratap Sir",
+                    "designation": "Teacher",
+                    "bio": "Gagan Pratap Sir – 7+ years",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/1749563721890-Gagan-Pratap-Maths-Sir.jpg",
+                    "socialLinks": [
+                        "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+                    "experience": "7+ Years ",
+                    "reach": "50 Lakh+ Students",
+                    "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "maths-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "350+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 8,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "English Special",
+                "description": [
+                    "One Stop Solution of English",
+                    "Grammar+Vocab+RC+Practice",
+                    "Basic to Advance",
+                    "Pdfs + Tests"
+                ],
+                "liveClassesCount": 200,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Dedicated for - SSC & Defense Exams Useful For : Banking & other Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [
+                    {
+                        "topic": "English",
+                        "time": "11:00AM - 12:30PM(MON-FRI)",
+                        "_id": "68ef95cdd2cc753eb2d2580f"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-15T12:38:37.739Z",
+                "studentCount": 2382,
+                "id": "68dbd51563a1698bf4194573",
+                "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
+                "mainCategory": {
+                    "mainCategoryName": "All Competitive Exams",
+                    "id": "683def9b2f4523ef6c8b1887"
+                },
+                "category": {
+                    "categoryName": "English",
+                    "id": "68dcdb8f81f17e91ad775283"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc62a43a337ee935e57b3",
+                    "name": "Aman Sir",
+                    "designation": "English Teacher",
+                    "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/amansir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "english-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "200+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 9,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "Reasoning Special",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes & 1000 + Tests",
+                    "From Basic to Top rank",
+                    "Result Oriented Learning",
+                    "Thought Process & Killer Arguments"
+                ],
+                "liveClassesCount": 200,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : SSC Exams, Railway Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [
+                    {
+                        "topic": "Reasoning",
+                        "time": "09:30AM - 10:30AM(MON-FRI)",
+                        "_id": "68ef95bb8b84905b84f62c5d"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-15T12:38:19.311Z",
+                "studentCount": 129,
+                "id": "68dbd66763a1698bf4194574",
+                "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
+                "mainCategory": {
+                    "mainCategoryName": "Railway Exams",
+                    "id": "683def9b2f4523ef6c8b188a"
+                },
+                "category": {
+                    "categoryName": "Railway Group D",
+                    "id": "683def9c2f4523ef6c8b1893"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dcc7f943a337ee935e7ffe",
+                    "name": "Balram Sir",
+                    "designation": "Reasoning Teacher",
+                    "bio": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on\r\n YouTube \r\n Known for Quality & Exam-oriented\r\n Content",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/balramsir.jpg",
+                    "socialLinks": [],
+                    "experience": "10+years",
+                    "reach": "Lakhs of Students",
+                    "description": "Rank Producer of AIR-1 CHSL 2024 \r\n Countless Selections Every Year \r\n Most Hardworking Teacher on YouTube \r\n Known for Quality & Exam-oriented Content "
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "reasoning-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "200+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 10,
+                "price": 3999,
+                "discountPrice": 999,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "GS Special",
+                "description": [
+                    "Live Classes ",
+                    "Pdf Notes+ E-books",
+                    "From Basic to top rank"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Banking Exams",
+                    "For All Other Competitive Exams"
+                ],
+                "validity": "2 years",
+                "timeTable": [],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T18:27:37.528Z",
+                "studentCount": 259,
+                "id": "68dbd69163a1698bf4194575",
+                "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
+                "mainCategory": {
+                    "mainCategoryName": "Railway Exams",
+                    "id": "683def9b2f4523ef6c8b188a"
+                },
+                "category": {
+                    "categoryName": "Railway Group D",
+                    "id": "683def9c2f4523ef6c8b1893"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccabfb5383b2a5585c2ce",
+                    "name": "Varun Sir",
+                    "designation": "GS Teacher",
+                    "bio": "9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies & Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality & Handpicked Content",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/varun_sir-removebg-preview.png",
+                    "socialLinks": [],
+                    "experience": "10+ years",
+                    "reach": "Lakhs of Students",
+                    "description": " 9+ Years Experience in teaching GS for competitive exams\r\n Expert of General Studies & Current Affairs\r\n Proven Record of 8500+ Selections\r\n Quality & Handpicked Content\r\n"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "gs-special",
+                "discountPercentage": "75.02",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 2 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 11,
+                "price": 999,
+                "discountPrice": 399,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "Science Special",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes & 1000+ Tests",
+                    "From Basic to Top Rank",
+                    "Result Oriented Learning"
+                ],
+                "liveClassesCount": 100,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Railway Exams , SSC Exams",
+                    "For All State Exams"
+                ],
+                "validity": "1 years",
+                "timeTable": [],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T18:27:19.838Z",
+                "studentCount": 645,
+                "id": "68dbd32801d050d5b62e45cc",
+                "short_description": "useful for railway group -d",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450625107-1760427363334-IMG_4806.png",
+                "mainCategory": {
+                    "mainCategoryName": "Railway Exams",
+                    "id": "683def9b2f4523ef6c8b188a"
+                },
+                "category": {
+                    "categoryName": "Railway Group D",
+                    "id": "683def9c2f4523ef6c8b1893"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccb72b666b0b6f37b6678",
+                    "name": "Harish Sir",
+                    "designation": "Science Teacher",
+                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
+                    "socialLinks": [],
+                    "experience": "7+ years",
+                    "reach": "Lakhs of Students",
+                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "science-special",
+                "discountPercentage": "60.06",
+                "tags": [
+                    "100+ Classes",
+                    "Already Started",
+                    "Validity 1 years"
+                ]
+            },
+            {
+                "status": "active",
+                "priority": 14,
+                "price": 999,
+                "discountPrice": 99,
+                "isLive": true,
+                "isRecorded": false,
+                "isFree": false,
+                "title": "Raiway Group -D Science",
+                "description": [
+                    "Live Classes + E-books",
+                    "Pdf Notes",
+                    "40 Days Master Class",
+                    "Complete Theory + MCQ"
+                ],
+                "liveClassesCount": 40,
+                "recordedClassesCount": 0,
+                "courseInfo": [],
+                "courseHighlights": [
+                    "Useful For : Railways Group - D 2025",
+                    "For All Railways Exams 2026"
+                ],
+                "validity": "1 years",
+                "timeTable": [
+                    {
+                        "topic": "Science",
+                        "time": "10:00AM - 11:00AM(MON-FRI)",
+                        "_id": "68f09780b7edd42fab743a1f"
+                    }
+                ],
+                "createdAt": "2025-09-30T12:55:04.846Z",
+                "updatedAt": "2025-10-16T06:58:08.068Z",
+                "studentCount": 15183,
+                "id": "68dbdf3a63a1698bf4194576",
+                "short_description": "Useful For : Railways Group - D 2025",
+                "banner": "https://selectionway-server.s3.ap-south-1.amazonaws.com/courses/banners/1760450468769-1760427350932-IMG_4805.png",
+                "mainCategory": {
+                    "mainCategoryName": "Railway Exams",
+                    "id": "683def9b2f4523ef6c8b188a"
+                },
+                "category": {
+                    "categoryName": "Railway Group D",
+                    "id": "683def9c2f4523ef6c8b1893"
+                },
+                "facultyDetails": {
+                    "_id": 0,
+                    "id": "68dccb72b666b0b6f37b6678",
+                    "name": "Harish Sir",
+                    "designation": "Science Teacher",
+                    "bio": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science\r\n अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!",
+                    "imageUrl": "https://selectionway-server.s3.ap-south-1.amazonaws.com/faculty/Screenshot 2025-10-01 120340.png",
+                    "socialLinks": [],
+                    "experience": "7+ years",
+                    "reach": "Lakhs of Students",
+                    "description": "Science का ultimate solution – Best content\r\n + Best questions + Best teaching!\r\n Animation, effects और marathon से Science अब हो गई आसान!\r\n Railway exam म Science क tension Sir ने खत्म कर द!\r\n Top-notch content, Gajab teaching style & Marathon King of Science!"
+                },
+                "demoVideos": null,
+                "faq": null,
+                "isPaid": false,
+                "isBlinking": false,
+                "slug": "raiway-group-d-science",
+                "discountPercentage": "90.09",
+                "tags": [
+                    "40+ Classes",
+                    "Already Started",
+                    "Validity 1 years"
+                ]
+            }
+        ],
+        "recordedBatches": []
+    },
+    "__N_SSG": true
+}
