@@ -1,133 +1,205 @@
 {
-    "status": 200,
-    "allcourses": [
-
-
-
-
-        
-
-{
-        "id": "591",
-        "course_name": "Political Science MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (PS1TET0425)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.862395812739043.jpg"
-    },   
-        
-{
-        "id": "589",
-        "course_name": "Geography MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (G1TET0425)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.13943920045827096.jpg"
-    },         
-
-{
-        "id": "588",
-        "course_name": "Hindi MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (H1TET0425)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.8343169078381615.jpg"
-    },  
-        
-{
-        "id": "481",
-        "course_name": "English Foundation Live Online Course by Sanjana Mam (EF1224)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.28374500191612606.jpeg"
-    },  
-        
-{
-        "id": "480",
-        "course_name": "Science Foundation Live Online Course (SF1224)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.22053108021200007.jpg"
-    },         
-{
-        "id": "479",
-        "course_name": "Reasoning Foundation Live Online Course By Saurabh Sir (RFS1224)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.09781632610473256.jpg"
-    },               
-{
-        "id": "380",
-        "course_name": "Maths + Reasoning Foundation by Aditya Sir Combo Online Course (Batch Code-MR0324)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.5862854774323789.jpg"
-    }, 
-
-{
-        "id": "614",
-        "course_name": "MPPSC 2026 अधिकारी बैच (Pre+Mains+Interview) With Book Hindi Medium (H1PSCWB0525)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-12-0.7139378027182082.jpeg"
-    }, 
-
-
-{
-        "id": "467",
-        "course_name": "Maths Foundation Live & Recorded Combo Online Course (CMFLR1224)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-10-0.6293175716208438.jpeg"
-    }, 
-
-        
-{
-        "id": "594",
-        "course_name": "MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (CH1TET0425)",
-        "course_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/d0/34/99d03498-b287-7a33-e559-44364ba77ee8/AppIcon-winners_institute-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png"
-    }, 
-        
-{
-        "id": "464",
-        "course_name": "MPTET Varg 3 चयन परीक्षा Online Course (TET3SE1224)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.15198055990523573.jpg"
-    }, 
-       
-  {
-        "id": "681",
-        "course_name": "MPTET Grade 3 चयन परीक्षा 2025 Online Practice Course (TET3PC0725)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.7921894301970226.jpg"
-    }, 
-  {
-        "id": "722",
-        "course_name": "Combo MPTET Varg 3 चयन परीक्षा (VOD+Practice+Test) Online Course (TETC0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.9918605191789565.jpg"
-    }, 
-
-        
-        
-     {
-        "id": "630",
-        "course_name": "Ultimate Calculation Mastery Course (2025)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4329896221366958.jpg"
-    }, 
+  "status": 200,
+  "allcourses": [
     {
-        "id": "748",
-        "course_name": "MP Police ASI/STENO/Subedar VOD Online Course With Book (MPASIWB0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.429003441290153.jpeg"
-    },    
-    {
-        "id": "735",
-        "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course With Book (MPCWB0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.14773346771069817.jpeg"
-    },
-        {
-        "id": "734",
-        "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course (MPC0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4749330829933347.jpg"
-    },
-
-
-        {
-        "id": "738",
-        "course_name": "MP Police Constable (कर्मवीर 5.0) Live MCQ Course (MPCP0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.07396859173689596.jpg"
-    },
-
-{
-        "id": "750",
-        "course_name": "EMRS 2025 Tier 1 Foundation Live and VOD Online Course (EMRS0925)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.18919321342938866.jpeg"
-    },
-{
-        "id": "825",
-        "course_name": "Railway Foundation विजयरथ 4.0 Online Course (RF1125)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.5144863849198225.png"
+      "id": "598",
+      "course_name": "Economics MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (EC1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.19863236779633098.jpg"
     },
     {
-        "id": "827",
-        "course_name": "Banking Foundation Achievers 3.0 Online Course (BF1125)",
-        "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.05800825635504492.png"
+      "id": "597",
+      "course_name": "Economics MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (EC1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.5103615492180552.jpg"
+    },
+    {
+      "id": "596",
+      "course_name": "History MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (HI1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.6088203437516316.jpg"
+    },
+    {
+      "id": "595",
+      "course_name": "Sanskrit MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (SN1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.489199411685423.jpg"
+    },
+    {
+      "id": "594",
+      "course_name": "Chemistry MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (CH1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.999251949963226.jpg"
+    },
+    {
+      "id": "593",
+      "course_name": "Physics MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (P1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.15958086414048311.jpg"
+    },
+    {
+      "id": "592",
+      "course_name": "Maths MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (M1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.2168276404969015.jpg"
+    },
+    {
+      "id": "591",
+      "course_name": "Political Science MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (PS1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.5837539217439814.jpg"
+    },
+    {
+      "id": "590",
+      "course_name": "Commerce MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (C1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.5933680533800394.jpg"
+    },
+    {
+      "id": "589",
+      "course_name": "Geography MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (G1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.8368527363265751.jpg"
+    },
+    {
+      "id": "488",
+      "course_name": "Hindi MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (H1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.07262477616939733.jpg"
+    },
+    {
+      "id": "481",
+      "course_name": "English Foundation Online Course by Sanjana Mam (EF1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.7055908779493419.png"
+    },
+    {
+      "id": "480",
+      "course_name": "Science Foundation Live Online Course (SF1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.8180585938562106.png"
+    },
+    {
+      "id": "479",
+      "course_name": "Reasoning Foundation Live Online Course By Saurabh Sir (RFS1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.07592071360750541.png"
+    },
+    {
+      "id": "380",
+      "course_name": "Maths + Reasoning Foundation by Aditya Sir Combo Online Course (Batch Code-MR0324) ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.5663694651458773.png"
+    },
+    {
+      "id": "380",
+      "course_name": "MPPSC 2026 अधिकारी बैच (Pre+Mains+Interview) With Book Hindi Medium (H1PSCWB0525) ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.5663694651458773.png"
+    },
+    {
+      "id": "614",
+      "course_name": "MPPSC 2026 अधिकारी बैच (Pre+Mains+Interview) With Book Hindi Medium (H1PSCWB0525) ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-18-0.7362262987058726.jpg"
+    },
+    {
+      "id": "467",
+      "course_name": "Maths Foundation Live & Recorded Combo Online Course (CMFLR1224) ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.8758374752428589.jpeg"
+    },
+    {
+      "id": "182",
+      "course_name": "Reasoning Foundation Recorded Online Course By Aditya Sir (Code - RF0223) ",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.47037909828220337.jpeg"
+    },
+    {
+      "id": "591",
+      "course_name": "Political Science MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (PS1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.862395812739043.jpg"
+    },
+    {
+      "id": "589",
+      "course_name": "Geography MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (G1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.13943920045827096.jpg"
+    },
+    {
+      "id": "588",
+      "course_name": "Hindi MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (H1TET0425)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.8343169078381615.jpg"
+    },
+    {
+      "id": "481",
+      "course_name": "English Foundation Live Online Course by Sanjana Mam (EF1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.28374500191612606.jpeg"
+    },
+    {
+      "id": "480",
+      "course_name": "Science Foundation Live Online Course (SF1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.22053108021200007.jpg"
+    },
+    {
+      "id": "479",
+      "course_name": "Reasoning Foundation Live Online Course By Saurabh Sir (RFS1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.09781632610473256.jpg"
+    },
+    {
+      "id": "380",
+      "course_name": "Maths + Reasoning Foundation by Aditya Sir Combo Online Course (Batch Code-MR0324)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.5862854774323789.jpg"
+    },
+    {
+      "id": "614",
+      "course_name": "MPPSC 2026 अधिकारी बैच (Pre+Mains+Interview) With Book Hindi Medium (H1PSCWB0525)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-12-0.7139378027182082.jpeg"
+    },
+    {
+      "id": "467",
+      "course_name": "Maths Foundation Live & Recorded Combo Online Course (CMFLR1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-10-0.6293175716208438.jpeg"
+    },
+    {
+      "id": "594",
+      "course_name": "MPTET वर्ग 1 पात्रता परीक्षा 2025 Online Course (CH1TET0425)",
+      "course_thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/d0/34/99d03498-b287-7a33-e559-44364ba77ee8/AppIcon-winners_institute-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png"
+    },
+    {
+      "id": "464",
+      "course_name": "MPTET Varg 3 चयन परीक्षा Online Course (TET3SE1224)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.15198055990523573.jpg"
+    },
+    {
+      "id": "681",
+      "course_name": "MPTET Grade 3 चयन परीक्षा 2025 Online Practice Course (TET3PC0725)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.7921894301970226.jpg"
+    },
+    {
+      "id": "722",
+      "course_name": "Combo MPTET Varg 3 चयन परीक्षा (VOD+Practice+Test) Online Course (TETC0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.9918605191789565.jpg"
+    },
+    {
+      "id": "630",
+      "course_name": "Ultimate Calculation Mastery Course (2025)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4329896221366958.jpg"
+    },
+    {
+      "id": "748",
+      "course_name": "MP Police ASI/STENO/Subedar VOD Online Course With Book (MPASIWB0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.429003441290153.jpeg"
+    },
+    {
+      "id": "735",
+      "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course With Book (MPCWB0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-13-0.14773346771069817.jpeg"
+    },
+    {
+      "id": "734",
+      "course_name": "MP Police Constable (कर्मवीर 5.0) VOD+ Live MCQ Course (MPC0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.4749330829933347.jpg"
+    },
+    {
+      "id": "738",
+      "course_name": "MP Police Constable (कर्मवीर 5.0) Live MCQ Course (MPCP0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.07396859173689596.jpg"
+    },
+    {
+      "id": "750",
+      "course_name": "EMRS 2025 Tier 1 Foundation Live and VOD Online Course (EMRS0925)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.18919321342938866.jpeg"
+    },
+    {
+      "id": "825",
+      "course_name": "Railway Foundation विजयरथ 4.0 Online Course (RF1125)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-17-0.8684446565283274.jpeg"
+    },
+    {
+      "id": "827",
+      "course_name": "Banking Foundation Achievers 3.0 Online Course (BF1125)",
+      "course_thumbnail": "https://appx-content-v2.classx.co.in/paid_course3/2025-10-11-0.05800825635504492.png"
     }
-      ]
+  ]
 }
