@@ -1,5 +1,16 @@
 [
 
+  {
+    "id": 750,
+    "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग्राम 2026 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
+    "category_id": 4,
+    "start_at": "2025-07-28",
+    "end_at": "2027-07-28",
+    "image_large": "https://assets.khanglobalstudies.com/x/kgs/kgs-do/courses/medium/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp?w=640&d=kgs-v2.akamaized.net&q=100 1x, https://assets.khanglobalstudies.com/x/kgs/kgs-do/courses/medium/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp?w=1080&d=kgs-v2.akamaized.net&q=100 2x",
+    "image_thumb": "https://assets.khanglobalstudies.com/x/kgs/kgs-do/courses/medium/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp?w=640&d=kgs-v2.akamaized.net&q=100 1x, https://assets.khanglobalstudies.com/x/kgs/kgs-do/courses/medium/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp?w=1080&d=kgs-v2.akamaized.net&q=100 2x"
+  },
+
+ 
  {
     "id": 876,
     "title": "GS SPECIAL VISION 2.0 Foundation Batch 2025-26",
@@ -955,15 +966,7 @@
     "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/8efe2ccc-2430-4305-8636-5b0fbe6bb6a9.webp",
     "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/8efe2ccc-2430-4305-8636-5b0fbe6bb6a9.webp"
   },
-  {
-    "id": 750,
-    "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग्राम 2026 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
-    "category_id": 4,
-    "start_at": "2025-07-28",
-    "end_at": "2027-07-28",
-    "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp",
-    "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/55881dcb-65a4-4c76-b0b9-9ab6d9372933.webp"
-  },
+
   {
     "id": 749,
     "title": "CSAT (UPSC + UPPCS) Prayagraj Classroom Programme",
