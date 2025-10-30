@@ -1,5 +1,76 @@
 [
-
+  {
+        "id": 880,
+        "title": "RRB NTPC (CBT 01 & 02) Batch 2025",
+        "category_id": 2,
+        "start_at": "2025-11-11",
+        "end_at": "2026-11-11",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/bc59ae3f-ab98-45f8-9e8e-2cc958d7b7b6.jpeg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/bc59ae3f-ab98-45f8-9e8e-2cc958d7b7b6.jpeg"
+    },
+    {
+        "id": 879,
+        "title": "Maths Optional Bilingual (Recorded)",
+        "category_id": 3,
+        "start_at": "2025-10-16",
+        "end_at": "2026-10-16",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/1d82762a-3a70-41d9-ae8c-3a727accb2fd.png",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/1d82762a-3a70-41d9-ae8c-3a727accb2fd.png"
+    },
+    {
+        "id": 878,
+        "title": "BTSC JE Electrical Engineering Batch 2025-26",
+        "category_id": 2,
+        "start_at": "2025-11-03",
+        "end_at": "2026-11-03",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/d3319e1c-d7ed-40e2-a793-c61d91d411bb.jpg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/d3319e1c-d7ed-40e2-a793-c61d91d411bb.jpg"
+    },
+    {
+        "id": 877,
+        "title": "BTSC JE Civil Engineering Batch 2025-26",
+        "category_id": 2,
+        "start_at": "2025-11-03",
+        "end_at": "2026-11-03",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/0fa5984d-3eb9-43c9-81de-f44f6065ddee.jpg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/0fa5984d-3eb9-43c9-81de-f44f6065ddee.jpg"
+    },
+    {
+        "id": 876,
+        "title": "GS SPECIAL VISION 2.0 Foundation Batch 2025-26",
+        "category_id": 2,
+        "start_at": "2025-11-18",
+        "end_at": "2026-11-18",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/e69e20fa-9fe9-4274-b256-e041af57f5f1.jpg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/e69e20fa-9fe9-4274-b256-e041af57f5f1.jpg"
+    },
+    {
+        "id": 875,
+        "title": "UP SI Practice Batch 2025",
+        "category_id": 1,
+        "start_at": "2025-10-28",
+        "end_at": "2026-01-31",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/17eb874b-dc3f-4bd3-b4cf-d11e3155cd73.jpg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/17eb874b-dc3f-4bd3-b4cf-d11e3155cd73.jpg"
+    },
+    {
+        "id": 874,
+        "title": "MP SI Prelims Practice Batch 2025",
+        "category_id": 2,
+        "start_at": "2025-10-23",
+        "end_at": "2026-04-23",
+        "image_large": "https://kgs-v2.akamaized.net/kgs/kgs/courses/large/45cae55e-04bc-453e-9f21-277f62fa6c47.jpg",
+        "image_thumb": "https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/45cae55e-04bc-453e-9f21-277f62fa6c47.jpg"
+    },
+    {
+        "id": 873,
+        "title": "SSB Interview",
+        "category_id": 4,
+        "start_at": "2025-10-03",
+        "end_at": "2025-10-31",
+        "image_large": null,
+        "image_thumb": null
+    },
   {
     "id": 750,
     "title": "UPSC G.S (Prelims+Mains)फाउंडेशन प्रोग्राम 2026 हिंदी माध्यम (Offline Class) Mukherjee Nagar",
@@ -11,15 +82,7 @@
   },
 
  
- {
-    "id": 876,
-    "title": "GS SPECIAL VISION 2.0 Foundation Batch 2025-26",
-    "category_id": 2,
-    "start_at": "2025-11-10",
-    "end_at": "2027-05-10",
-    "image_large": "https://assets.khanglobalstudies.com/x/kgs/kgs/courses/medium/e69e20fa-9fe9-4274-b256-e041af57f5f1.jpg?w=640&d=kgs-v2.akamaized.net&q=100",
-    "image_thumb": "https://assets.khanglobalstudies.com/x/kgs/kgs/courses/medium/e69e20fa-9fe9-4274-b256-e041af57f5f1.jpg?w=640&d=kgs-v2.akamaized.net&q=100"
-  },
+
     
     {
     "id": 869,
