@@ -1,7 +1,15 @@
-[
+ [
 
 
-
+{
+        "id": 934,
+        "title": "UPPCS Mains Mentorship 2025 (Offline)",
+        "category_id": 2,
+        "start_at": "2025-11-11",
+        "end_at": "2026-11-11",
+        "image_large": "https://www.khanglobalstudies.com/_next/image?url=https%3A%2F%2Fkgs-v2.akamaized.net%2Fkgs%2Fkgs%2Fcourses%2Fmedium%2Fb3327155-5a81-4aa2-b74f-8dbf481f7927.jpg&w=1080&q=100",
+        "image_thumb": "https://www.khanglobalstudies.com/_next/image?url=https%3A%2F%2Fkgs-v2.akamaized.net%2Fkgs%2Fkgs%2Fcourses%2Fmedium%2Fb3327155-5a81-4aa2-b74f-8dbf481f7927.jpg&w=1080&q=100"
+    },
 
 {
         "id": 920,
