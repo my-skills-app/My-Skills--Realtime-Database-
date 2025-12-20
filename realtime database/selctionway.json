@@ -1,11 +1,9 @@
 {
   "pageProps": {
-    "pageSeoData": {
-
-    },
+    "pageSeoData": {},
     "faqs": [],
     "seoTags": {
-      "canonical_url": "https://www.selectionway.com/batches/live",
+      "canonical_url": "https://www.selectionway.com/batches/recorded",
       "description": "Batches",
       "error_code": "0",
       "no_follow": "0",
@@ -99,10 +97,31 @@
           "🎯 Starting From: 15 December 2025"
         ],
         "validity": "2",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "GS",
+            "time": "08:30 AM - 09:30AM",
+            "_id": "693ecd93ca7f78b8a7b480e0"
+          },
+          {
+            "topic": "Reasoning",
+            "time": "09:30 AM - 10:30AM",
+            "_id": "693ecd93ca7f78b8a7b480e1"
+          },
+          {
+            "topic": "English",
+            "time": "11:00 AM - 12:30PM",
+            "_id": "693ecd93ca7f78b8a7b480e2"
+          },
+          {
+            "topic": "Maths",
+            "time": "01:00PM - 02:30PM",
+            "_id": "693ecd93ca7f78b8a7b480e3"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:41.165Z",
-        "updatedAt": "2025-12-08T13:30:40.420Z",
+        "updatedAt": "2025-12-14T14:45:39.379Z",
         "id": "69367ea133d222e80e32c6ce",
         "short_description": "Useful for SSC, Railways, Banking and other state exams",
         "facultyDetails": {
@@ -142,67 +161,7 @@
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184686906-English_App_Banner_8_Dec_.png",
-        "bannerSquare": null,
-        "title": "English Special-3",
-        "description": [
-          "One Stop Solution of English",
-          "Grammar+Vocab+RC+Practice",
-          "Basic to Advance",
-          "Pdfs + Tests"
-        ],
-        "liveClassesCount": 200,
-        "recordedClassesCount": 0,
-        "courseInfo": [],
-        "courseHighlights": [
-          "Dedicated for - SSC & Defense Exams Useful For : Banking & other Exams",
-          "For All Other Competitive Exams",
-          "🎯 Starting From: 15 Dec 2025"
-        ],
-        "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
-        "createdAt": "2025-12-08T07:30:47.154Z",
-        "updatedAt": "2025-12-08T13:30:28.491Z",
-        "id": "69367ea733d222e80e32c6d9",
-        "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
-        "facultyDetails": {
-          "_id": 0,
-          "id": "68dcc62a43a337ee935e57b3",
-          "name": "Aman Sir",
-          "designation": "English Teacher",
-          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
-          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Aman Sir icons .png",
-          "socialLinks": [],
-          "experience": "10+years",
-          "reach": "Lakhs of Students",
-          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
-        },
-        "mainCategory": {
-          "mainCategoryName": "All Competitive Exams",
-          "id": "683def9b2f4523ef6c8b1887"
-        },
-        "faq": null,
-        "isPaid": false,
-        "isBlinking": false,
-        "slug": "english-special-3",
-        "discountPercentage": "66.69",
-        "tags": [
-          "200+ Classes",
-          "Already Started",
-          "Validity 2 years"
-        ],
-        "mainCategoryName": "All Competitive Exams"
-      },
-      {
-        "status": "active",
-        "priority": 2,
-        "price": 2999,
-        "discountPrice": 999,
-        "isLive": true,
-        "isRecorded": false,
-        "isFree": false,
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184791371-Maths_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351840245-Maths_App_Banner_8_Dec__(2).png",
         "bannerSquare": null,
         "title": "Maths Special-3",
         "description": [
@@ -225,10 +184,16 @@
           "📘 Focus: Conceptual Clarity & Result-Oriented Approach"
         ],
         "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "01:00PM - 02:30PM",
+            "_id": "693ecbb4ca7f78b8a7b42b6c"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:33.139Z",
-        "updatedAt": "2025-12-08T13:30:53.653Z",
+        "updatedAt": "2025-12-14T14:37:40.230Z",
         "id": "69367e9933d222e80e32c6c9",
         "short_description": "For All Competitive Exams",
         "facultyDetails": {
@@ -265,12 +230,78 @@
       {
         "status": "active",
         "priority": 3,
-        "price": 2998,
+        "price": 2999,
         "discountPrice": 999,
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184629922-Reasoning_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351433141-English_App_Banner_8_Dec__(2).png",
+        "bannerSquare": null,
+        "title": "English Special-3",
+        "description": [
+          "One Stop Solution of English",
+          "Grammar+Vocab+RC+Practice",
+          "Basic to Advance",
+          "Pdfs + Tests"
+        ],
+        "liveClassesCount": 200,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "Dedicated for - SSC & Defense Exams Useful For : Banking & other Exams",
+          "For All Other Competitive Exams",
+          "🎯 Starting From: 15 Dec 2025"
+        ],
+        "validity": "2 years",
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "11:00AM To 12:30PM",
+            "_id": "693ecb94ca7f78b8a7b41d2b"
+          }
+        ],
+        "createdAt": "2025-12-08T07:30:47.154Z",
+        "updatedAt": "2025-12-14T14:37:08.937Z",
+        "id": "69367ea733d222e80e32c6d9",
+        "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
+        "facultyDetails": {
+          "_id": 0,
+          "id": "68dcc62a43a337ee935e57b3",
+          "name": "Aman Sir",
+          "designation": "English Teacher",
+          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Aman Sir icons .png",
+          "socialLinks": [],
+          "experience": "10+years",
+          "reach": "Lakhs of Students",
+          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+        },
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "english-special-3",
+        "discountPercentage": "66.69",
+        "tags": [
+          "200+ Classes",
+          "Already Started",
+          "Validity 2 years"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 4,
+        "price": 2998,
+        "discountPrice": 399,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351419428-Reasoning_App_Banner_8_Dec__(2).png",
         "bannerSquare": null,
         "title": "Reasoning Special-3",
         "description": [
@@ -289,10 +320,16 @@
           "🎯 Starting From: 15 Dec 2025"
         ],
         "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "09:30 AM - 10:30AM",
+            "_id": "693ecbf3ca7f78b8a7b447e3"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:56.324Z",
-        "updatedAt": "2025-12-08T13:30:18.369Z",
+        "updatedAt": "2025-12-14T14:38:43.922Z",
         "id": "69367eb033d222e80e32c6de",
         "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
         "facultyDetails": {
@@ -315,7 +352,7 @@
         "isPaid": false,
         "isBlinking": false,
         "slug": "reasoning-special-3",
-        "discountPercentage": "66.68",
+        "discountPercentage": "86.69",
         "tags": [
           "200+ Classes",
           "Already Started",
@@ -325,13 +362,13 @@
       },
       {
         "status": "active",
-        "priority": 4,
+        "priority": 5,
         "price": 2999,
         "discountPrice": 999,
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184520717-GS_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351890565-GS_App_Banner_8_Dec__(2).png",
         "bannerSquare": null,
         "title": "GS Special-3",
         "description": [
@@ -352,11 +389,11 @@
           {
             "topic": "GS",
             "time": "8:30AM To 9:30AM (mon -fri)",
-            "_id": "6936d319d3220ee0f505bd8f"
+            "_id": "693ecc3cca7f78b8a7b45626"
           }
         ],
         "createdAt": "2025-12-08T07:19:30.987Z",
-        "updatedAt": "2025-12-08T13:31:05.887Z",
+        "updatedAt": "2025-12-14T14:39:56.275Z",
         "id": "69367c0233d222e80e32ab9a",
         "short_description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
         "facultyDetails": {
@@ -389,9 +426,72 @@
       },
       {
         "status": "active",
-        "priority": 4,
+        "priority": 6,
+        "price": 2499,
+        "discountPrice": 499,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765896887264-Lekhpal_Categary_poster_.png",
+        "bannerSquare": null,
+        "title": "UP Lekhpal Special Batch",
+        "description": [
+          "Live + recorded video lectures",
+          "Complete UP Lekhpal syllabus coverage",
+          "Basic to advanced level concept clarity",
+          "Exam-oriented teaching as per latest pattern"
+        ],
+        "liveClassesCount": 200,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "Basic to advanced level concept clarity",
+          "Expert faculty with govt exam experience",
+          "Beginner-friendly & repeater-friendly batch"
+        ],
+        "validity": "1 year",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-16T14:24:53.036Z",
+        "updatedAt": "2025-12-16T14:55:34.759Z",
+        "id": "69416bb56385517afa46f6fe",
+        "short_description": "Dedicated For UP Lekhpal",
+        "facultyDetails": {
+          "_id": 0,
+          "id": "6864f6802a698face4d45ecd",
+          "name": "Gagan Pratap Sir",
+          "designation": "Teacher",
+          "bio": "Gagan Pratap Sir – 7+ years",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/GP SIr icons .png",
+          "socialLinks": [
+            "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+          "experience": "7+ Years ",
+          "reach": "50 Lakh+ Students",
+          "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+        },
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "up-lekhpal-special-batch",
+        "discountPercentage": "80.03",
+        "tags": [
+          "200+ Classes",
+          "Already Started",
+          "Validity 1 year"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 6,
         "price": 3999,
-        "discountPrice": 799,
+        "discountPrice": 599,
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
@@ -414,10 +514,31 @@
           "📝 Topic-wise practice & PYQs"
         ],
         "validity": "1 year",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Reasoning",
+            "time": "08:30 AM to 09:30AM",
+            "_id": "69417fd36385517afade5bc6"
+          },
+          {
+            "topic": "GS",
+            "time": "10:00 AM to 11:00AM",
+            "_id": "69417fd36385517afade5bc7"
+          },
+          {
+            "topic": "Maths",
+            "time": "11:00 AM to 12:00 PM",
+            "_id": "69417fd36385517afade5bc8"
+          },
+          {
+            "topic": "Hindi",
+            "time": "12:00 PM to 01:00PM",
+            "_id": "69417fd36385517afade5bc9"
+          }
+        ],
         "createdAt": "2025-12-06T09:11:56.820Z",
-        "updatedAt": "2025-12-08T12:46:07.389Z",
+        "updatedAt": "2025-12-16T15:50:43.475Z",
         "id": "6933f35cdd258fd32320c55d",
         "short_description": "UP Police UPSI 2025 Complete Batch — अब तैयारी नहीं, Selection होगा!",
         "facultyDetails": {
@@ -443,7 +564,7 @@
         "isPaid": false,
         "isBlinking": false,
         "slug": "upsi-2025-दरोगा-बैच",
-        "discountPercentage": "80.02",
+        "discountPercentage": "85.02",
         "tags": [
           "250+ Classes",
           "Already Started",
@@ -454,84 +575,6 @@
       {
         "status": "active",
         "priority": 6,
-        "price": 3999,
-        "discountPrice": 499,
-        "isLive": true,
-        "isRecorded": false,
-        "isFree": false,
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1764923541882-SSC_GD_2026_Batch_App_Banner_DEC_.png",
-        "bannerSquare": null,
-        "title": "SSC GD Target Batch",
-        "description": [
-          "LIVE INTERACTIVE CLASSES",
-          "EXACT SSC GD LEVEL CONTENT",
-          "CONCEPT + PRACTICE + PYQ"
-        ],
-        "liveClassesCount": 250,
-        "recordedClassesCount": 0,
-        "courseInfo": [],
-        "courseHighlights": [
-          "TOPIC-WISE PDF & NOTES",
-          "RESULT-ORIENTED STRATEGY"
-        ],
-        "validity": "1 years",
-        "isTimeTable": true,
-        "timeTable": [
-          {
-            "topic": "Reasoning",
-            "time": "09:00AM - 10:00AM",
-            "_id": "6936c89bc4920665bdf8cd69"
-          },
-          {
-            "topic": "Maths",
-            "time": "11:00AM - 12:00PM",
-            "_id": "6936c89bc4920665bdf8cd6a"
-          },
-          {
-            "topic": "Hindi",
-            "time": "02:00PM - 03:00PM",
-            "_id": "6936c89bc4920665bdf8cd6b"
-          },
-          {
-            "topic": "GS",
-            "time": "04:00PM - 05:00PM",
-            "_id": "6936c89bc4920665bdf8cd6c"
-          }
-        ],
-        "createdAt": "2025-12-05T08:31:00.956Z",
-        "updatedAt": "2025-12-08T12:46:19.715Z",
-        "id": "69329844dd258fd3230f50d7",
-        "short_description": "Dedicated for SSC GD 2025–26 from basics to advanced",
-        "facultyDetails": {
-          "_id": 0,
-          "id": "69329a62dd258fd3232007fc",
-          "name": "SSC GD TEAM",
-          "designation": "SSC GD TEAM",
-          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Selectionway 1 (1).png",
-          "socialLinks": [],
-          "experience": "7+ years experience",
-          "reach": "30 Lakh+ Students",
-          "description": "Gagan sir and Team"
-        },
-        "mainCategory": {
-          "mainCategoryName": "All Competitive Exams",
-          "id": "683def9b2f4523ef6c8b1887"
-        },
-        "faq": null,
-        "isPaid": false,
-        "isBlinking": false,
-        "slug": "ssc-gd-target-batch",
-        "discountPercentage": "87.52",
-        "tags": [
-          "250+ Classes",
-          "Already Started",
-          "Validity 1 years"
-        ],
-        "mainCategoryName": "All Competitive Exams"
-      },
-      {
-        "status": "active",
-        "priority": 7,
         "price": 4999,
         "discountPrice": 999,
         "isLive": true,
@@ -562,31 +605,31 @@
           {
             "topic": "Reasoning",
             "time": "08:00AM - 9:00AM",
-            "_id": "693709d1d3220ee0f50665f9"
+            "_id": "694054956385517afa651ef0"
           },
           {
             "topic": "Biology",
             "time": "11:00AM - 12:30PM",
-            "_id": "693709d1d3220ee0f50665fa"
+            "_id": "694054956385517afa651ef1"
           },
           {
             "topic": "GS",
             "time": "02:00PM - 03:00PM",
-            "_id": "693709d1d3220ee0f50665fb"
+            "_id": "694054956385517afa651ef2"
           },
           {
             "topic": "Physics",
             "time": "05:00PM - 06:00PM",
-            "_id": "693709d1d3220ee0f50665fc"
+            "_id": "694054956385517afa651ef3"
           },
           {
             "topic": "Maths",
             "time": "06:00PM - 7:00PM",
-            "_id": "693709d1d3220ee0f50665fd"
+            "_id": "694054956385517afa651ef4"
           }
         ],
         "createdAt": "2025-11-21T11:08:06.055Z",
-        "updatedAt": "2025-12-08T17:24:33.239Z",
+        "updatedAt": "2025-12-15T18:33:57.321Z",
         "id": "69204816dd258fd323a45956",
         "short_description": "RRB NTPC, Group D, ALP, JE, Technician Grade I & III, RPF Constable & SI, RRB Section Controller, RRB Paramedical (Non-Tech)",
         "facultyDetails": {
@@ -618,6 +661,141 @@
       },
       {
         "status": "active",
+        "priority": 7,
+        "price": 1999,
+        "discountPrice": 199,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765452051272-UP_HomeGuard_Batch_App_Banner_11_oct.png",
+        "bannerSquare": null,
+        "title": "UP होमगार्ड Batch",
+        "description": [
+          "Daily live classes",
+          "Zero level से advance तक पूरा syllabus cover",
+          "Topic-wise notes और downloadable PDFs",
+          "PYQs + Expected Questions की लगातार practice"
+        ],
+        "liveClassesCount": 200,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "Daily live classes"
+        ],
+        "validity": "1 years",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-11T11:16:17.395Z",
+        "updatedAt": "2025-12-11T13:35:07.673Z",
+        "id": "693aa8016385517afa84329d",
+        "short_description": "Dedicated For UP होमगार्ड भर्ती 2026",
+        "facultyDetails": {
+          "_id": 0,
+          "id": "69204edcdd258fd323be982e",
+          "name": "Jeet Rana sir",
+          "designation": "GS faculty",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Jeet .png",
+          "socialLinks": [],
+          "experience": "3+ years",
+          "reach": "20+ lakhs student",
+          "description": "⭐ Jeet Rana Sir – GS / GK Expert (Railway & SSC Specialist)\r\n\r\n“The Most Active Teacher in Railway Exams” | Pattern Decoder | Content Master\r\n\r\nJeet Rana Sir पूरे India में अपने accurate analysis, deep GS understanding, और Railway-specific content के लिए जाने जाते हैं।\r\nRailway exams में आने वाले copy–paste questions को पहले ही predict कर देने की क्षमता ने इन्हें students का favourite बना दिया है।\r\n\r\n⸻\r\n\r\n⭐ Experience & Achievements\r\n • 5+ Years Teaching Experience\r\n • Railway + SSC के हजारों selections\r\n • Most trusted GS educator for Railway NTPC, Group-D, ALP & JE\r\n • हर exam का trend, pattern और expected question decode करने में महारत\r\n • Previous year + current pattern दोनों को merge करके best content तैयार करते हैं\r\n • पूरे India में लाखों students के mentor"
+        },
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "up-होमगार्ड-batch",
+        "discountPercentage": "90.05",
+        "tags": [
+          "200+ Classes",
+          "Already Started",
+          "Validity 1 years"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 7,
+        "price": 3999,
+        "discountPrice": 499,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1764923541882-SSC_GD_2026_Batch_App_Banner_DEC_.png",
+        "bannerSquare": null,
+        "title": "SSC GD Target Batch",
+        "description": [
+          "LIVE INTERACTIVE CLASSES",
+          "EXACT SSC GD LEVEL CONTENT",
+          "CONCEPT + PRACTICE + PYQ"
+        ],
+        "liveClassesCount": 250,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "TOPIC-WISE PDF & NOTES",
+          "RESULT-ORIENTED STRATEGY"
+        ],
+        "validity": "1 years",
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Reasoning",
+            "time": "09:00AM - 10:00AM",
+            "_id": "693922a76385517afa3f9d07"
+          },
+          {
+            "topic": "Maths",
+            "time": "11:00AM - 12:00PM",
+            "_id": "693922a76385517afa3f9d08"
+          },
+          {
+            "topic": "Hindi",
+            "time": "02:00PM - 03:00PM",
+            "_id": "693922a76385517afa3f9d09"
+          },
+          {
+            "topic": "GS",
+            "time": "04:00PM - 05:00PM",
+            "_id": "693922a76385517afa3f9d0a"
+          }
+        ],
+        "createdAt": "2025-12-05T08:31:00.956Z",
+        "updatedAt": "2025-12-10T07:35:03.445Z",
+        "id": "69329844dd258fd3230f50d7",
+        "short_description": "Dedicated for SSC GD 2025–26 from basics to advanced",
+        "facultyDetails": {
+          "_id": 0,
+          "id": "69329a62dd258fd3232007fc",
+          "name": "SSC GD TEAM",
+          "designation": "SSC GD TEAM",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Selectionway 1 (1).png",
+          "socialLinks": [],
+          "experience": "7+ years experience",
+          "reach": "30 Lakh+ Students",
+          "description": "Gagan sir and Team"
+        },
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "ssc-gd-target-batch",
+        "discountPercentage": "87.52",
+        "tags": [
+          "250+ Classes",
+          "Already Started",
+          "Validity 1 years"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
         "priority": 9,
         "price": 1999,
         "discountPrice": 298,
@@ -643,10 +821,16 @@
           "📝 Topic-wise Practice Sets + PYQs (UPSI Focused)"
         ],
         "validity": "1 year",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "10:00 AM to 11:00AM",
+            "_id": "693ca3ac6385517afab94edd"
+          }
+        ],
         "createdAt": "2025-12-06T09:23:36.506Z",
-        "updatedAt": "2025-12-08T12:46:43.037Z",
+        "updatedAt": "2025-12-12T23:22:20.653Z",
         "id": "6933f618dd258fd3232fcf33",
         "short_description": "UPSI 2025 के लिए Polity और मूलविधि का सबसे मजबूत बैच!",
         "facultyDetails": {
@@ -946,12 +1130,12 @@
           "id": "68dcc62a43a337ee935e57b3",
           "name": "Aman Sir",
           "designation": "English Teacher",
-          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
           "imageUrl": "https://selectionwayserver.hranker.com/faculty/Aman Sir icons .png",
           "socialLinks": [],
           "experience": "10+years",
           "reach": "Lakhs of Students",
-          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
         },
         "mainCategory": {
           "mainCategoryName": "All Competitive Exams",
@@ -971,7 +1155,69 @@
       },
       {
         "status": "active",
-        "priority": 19,
+        "priority": 60,
+        "price": 2999,
+        "discountPrice": 999,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765807543021-Railway_psycho_Banner_.png",
+        "bannerSquare": null,
+        "title": "NTPC PSYCHO BATCH",
+        "description": [
+          "LIVE + REC. CLASSES",
+          "Content Based on RDSO",
+          "Latest Exam Pattern",
+          "Study Material(Pdf)",
+          "Doubt Session"
+        ],
+        "liveClassesCount": 50,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "LIVE + REC. CLASSES",
+          "Content Based on RDSO",
+          "Latest Exam Pattern",
+          "Study Material(Pdf) and Doubt Session"
+        ],
+        "validity": "1 year",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-15T11:35:28.349Z",
+        "updatedAt": "2025-12-16T11:49:30.293Z",
+        "id": "693ff2801f7d472f7eeac163",
+        "short_description": "NTPC PSYCHO BATCH",
+        "facultyDetails": {
+          "_id": 0,
+          "id": "69204e4ddd258fd323bc52cf",
+          "name": "Deepak sir",
+          "designation": "Reasoning Faculty",
+          "bio": "“Reasoning की मशीन” | India’s Most Loved Railway Reasoning Mentor\r\n\r\nDeepak Sir रेलवे और SSC reasoning के सबसे trusted नामों में से एक हैं।\r\nइन्होंने लाखों छात्रों को शुरुआत से लेकर final selection तक guide किया है, और अपने latest-pattern based, smart, exam-oriented teaching style के लिए पूरे India में जाने जाते हैं।\r\n\r\nउनकी खासियत है—\r\nसभी topics को zero से आसान तरीके से समझाना + exam में आने वाले exact pattern पर practice करवाना।",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Deepak .png",
+          "socialLinks": [],
+          "experience": "8+ years",
+          "reach": "50 Lakh+ Students",
+          "description": "⭐ Experience & Achievements\r\n • 7+ Years Teaching Experience\r\n • Railway Exams के 1000+ selections का proven record\r\n • “Reasoning को सबसे आसान बनाना” इनकी पहचान\r\n • Thousands of students call him “Selection Machine”\r\n • Exact exam matching content देना—copy-paste level तक"
+        },
+        "mainCategory": {
+          "mainCategoryName": "Railway Exams",
+          "id": "683def9b2f4523ef6c8b188a"
+        },
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "ntpc-psycho-batch",
+        "discountPercentage": "66.69",
+        "tags": [
+          "50+ Classes",
+          "Already Started",
+          "Validity 1 year"
+        ],
+        "mainCategoryName": "Railway Exams"
+      },
+      {
+        "status": "active",
+        "priority": 190,
         "price": 999,
         "discountPrice": 99,
         "isLive": false,
@@ -996,7 +1242,7 @@
         "validity": "1 years",
         "timeTable": [],
         "createdAt": "2025-09-30T12:55:04.846Z",
-        "updatedAt": "2025-12-08T12:37:16.205Z",
+        "updatedAt": "2025-12-16T11:51:09.705Z",
         "isTimeTable": false,
         "id": "68dbdf3a63a1698bf4194576",
         "short_description": "Useful For : Railways Group - D 2025",
@@ -1052,10 +1298,31 @@
           "🎯 Starting From: 15 December 2025"
         ],
         "validity": "2",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "GS",
+            "time": "08:30 AM - 09:30AM",
+            "_id": "693ecd93ca7f78b8a7b480e0"
+          },
+          {
+            "topic": "Reasoning",
+            "time": "09:30 AM - 10:30AM",
+            "_id": "693ecd93ca7f78b8a7b480e1"
+          },
+          {
+            "topic": "English",
+            "time": "11:00 AM - 12:30PM",
+            "_id": "693ecd93ca7f78b8a7b480e2"
+          },
+          {
+            "topic": "Maths",
+            "time": "01:00PM - 02:30PM",
+            "_id": "693ecd93ca7f78b8a7b480e3"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:41.165Z",
-        "updatedAt": "2025-12-08T13:30:40.420Z",
+        "updatedAt": "2025-12-14T14:45:39.379Z",
         "studentCount": 5,
         "id": "69367ea133d222e80e32c6ce",
         "short_description": "Useful for SSC, Railways, Banking and other state exams",
@@ -1123,14 +1390,20 @@
           "📘 Focus: Conceptual Clarity & Result-Oriented Approach"
         ],
         "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "01:00PM - 02:30PM",
+            "_id": "693ecbb4ca7f78b8a7b42b6c"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:33.139Z",
-        "updatedAt": "2025-12-08T13:30:53.653Z",
+        "updatedAt": "2025-12-14T14:37:40.230Z",
         "studentCount": 5,
         "id": "69367e9933d222e80e32c6c9",
         "short_description": "For All Competitive Exams",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184791371-Maths_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351840245-Maths_App_Banner_8_Dec__(2).png",
         "mainCategory": {
           "mainCategoryName": "All Competitive Exams",
           "id": "683def9b2f4523ef6c8b1887"
@@ -1169,7 +1442,7 @@
       },
       {
         "status": "active",
-        "priority": 2,
+        "priority": 3,
         "price": 2999,
         "discountPrice": 999,
         "isLive": true,
@@ -1191,14 +1464,20 @@
           "🎯 Starting From: 15 Dec 2025"
         ],
         "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "11:00AM To 12:30PM",
+            "_id": "693ecb94ca7f78b8a7b41d2b"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:47.154Z",
-        "updatedAt": "2025-12-08T13:30:28.491Z",
+        "updatedAt": "2025-12-14T14:37:08.937Z",
         "studentCount": 5,
         "id": "69367ea733d222e80e32c6d9",
         "short_description": "Dedicated for SSC , DEFENCE and Useful for Banking and other exams",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184686906-English_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351433141-English_App_Banner_8_Dec__(2).png",
         "mainCategory": {
           "mainCategoryName": "All Competitive Exams",
           "id": "683def9b2f4523ef6c8b1887"
@@ -1212,12 +1491,12 @@
           "id": "68dcc62a43a337ee935e57b3",
           "name": "Aman Sir",
           "designation": "English Teacher",
-          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
           "imageUrl": "https://selectionwayserver.hranker.com/faculty/Aman Sir icons .png",
           "socialLinks": [],
           "experience": "10+years",
           "reach": "Lakhs of Students",
-          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
         },
         "demoVideos": null,
         "faq": null,
@@ -1234,9 +1513,9 @@
       },
       {
         "status": "active",
-        "priority": 3,
+        "priority": 4,
         "price": 2998,
-        "discountPrice": 999,
+        "discountPrice": 399,
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
@@ -1257,14 +1536,20 @@
           "🎯 Starting From: 15 Dec 2025"
         ],
         "validity": "2 years",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "09:30 AM - 10:30AM",
+            "_id": "693ecbf3ca7f78b8a7b447e3"
+          }
+        ],
         "createdAt": "2025-12-08T07:30:56.324Z",
-        "updatedAt": "2025-12-08T13:30:18.369Z",
+        "updatedAt": "2025-12-14T14:38:43.922Z",
         "studentCount": 5,
         "id": "69367eb033d222e80e32c6de",
         "short_description": "useful for SSC , DEFENCE, BANKING & OTHER STATE EXAMS",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184629922-Reasoning_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351419428-Reasoning_App_Banner_8_Dec__(2).png",
         "mainCategory": {
           "mainCategoryName": "All Competitive Exams",
           "id": "683def9b2f4523ef6c8b1887"
@@ -1290,7 +1575,7 @@
         "isPaid": false,
         "isBlinking": false,
         "slug": "reasoning-special-3",
-        "discountPercentage": "66.68",
+        "discountPercentage": "86.69",
         "tags": [
           "200+ Classes",
           "Already Started",
@@ -1300,76 +1585,7 @@
       },
       {
         "status": "active",
-        "priority": 4,
-        "price": 3999,
-        "discountPrice": 799,
-        "isLive": true,
-        "isRecorded": false,
-        "isFree": false,
-        "title": "UPSI 2025 दरोगा बैच",
-        "description": [
-          "सभी विषयों का पूरा कवरेज",
-          "Live क्लासेस",
-          "Daily क्लास PDF व नोट्स",
-          "Previous Year Questions का पूरा अभ्यास"
-        ],
-        "liveClassesCount": 250,
-        "recordedClassesCount": 0,
-        "courseInfo": [],
-        "courseHighlights": [
-          "🔥 Complete syllabus coverage (Hindi, Law, Maths, Reasoning)",
-          "🎯 Live + Recorded classes",
-          "📚 Daily PDF notes",
-          "📝 Topic-wise practice & PYQs"
-        ],
-        "validity": "1 year",
-        "isTimeTable": false,
-        "timeTable": [],
-        "createdAt": "2025-12-06T09:11:56.820Z",
-        "updatedAt": "2025-12-08T12:46:07.389Z",
-        "studentCount": 5,
-        "id": "6933f35cdd258fd32320c55d",
-        "short_description": "UP Police UPSI 2025 Complete Batch — अब तैयारी नहीं, Selection होगा!",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765014780000-1000201741.png",
-        "mainCategory": {
-          "mainCategoryName": "All Competitive Exams",
-          "id": "683def9b2f4523ef6c8b1887"
-        },
-        "category": {
-          "categoryName": "ssc coaching",
-          "id": "683ef3a4bec860b42070f0c2"
-        },
-        "facultyDetails": {
-          "_id": 0,
-          "id": "6864f6802a698face4d45ecd",
-          "name": "Gagan Pratap Sir",
-          "designation": "Teacher",
-          "bio": "Gagan Pratap Sir – 7+ years",
-          "imageUrl": "https://selectionwayserver.hranker.com/faculty/GP SIr icons .png",
-          "socialLinks": [
-            "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
-          ],
-          "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
-          "experience": "7+ Years ",
-          "reach": "50 Lakh+ Students",
-          "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
-        },
-        "demoVideos": null,
-        "faq": null,
-        "isPaid": false,
-        "isBlinking": false,
-        "slug": "upsi-2025-दरोगा-बैच",
-        "discountPercentage": "80.02",
-        "tags": [
-          "250+ Classes",
-          "Already Started",
-          "Validity 1 year"
-        ],
-        "mainCategoryName": "All Competitive Exams"
-      },
-      {
-        "status": "active",
-        "priority": 4,
+        "priority": 5,
         "price": 2999,
         "discountPrice": 999,
         "isLive": true,
@@ -1394,15 +1610,15 @@
           {
             "topic": "GS",
             "time": "8:30AM To 9:30AM (mon -fri)",
-            "_id": "6936d319d3220ee0f505bd8f"
+            "_id": "693ecc3cca7f78b8a7b45626"
           }
         ],
         "createdAt": "2025-12-08T07:19:30.987Z",
-        "updatedAt": "2025-12-08T13:31:05.887Z",
+        "updatedAt": "2025-12-14T14:39:56.275Z",
         "studentCount": 5,
         "id": "69367c0233d222e80e32ab9a",
         "short_description": "Helpful for SSC , DEFENCE , BANKING AND OTHER STATE EXAMS",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765184520717-GS_App_Banner_8_Dec_.png",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351890565-GS_App_Banner_8_Dec__(2).png",
         "mainCategory": {
           "mainCategoryName": "All Competitive Exams",
           "id": "683def9b2f4523ef6c8b1887"
@@ -1439,6 +1655,256 @@
       {
         "status": "active",
         "priority": 6,
+        "price": 4999,
+        "discountPrice": 999,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "title": "Railway Foundation Batch",
+        "description": [
+          "India’s First Complete Railway-Focused Preparation Program",
+          "Faculty: India’s No.1 Railway Teaching Team",
+          "Duration: 5–6 Months ",
+          "validity 2 years",
+          "Mode: Live + Notes + Tests",
+          "Price: Rs. 999 (Launch Offer)"
+        ],
+        "liveClassesCount": 500,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "⏳ Batch Duration: 5–6 Months | Validity: 2 Years",
+          "📚 Mode: Live Classes + Notes + Test Series",
+          "🚀 Designed with a Result-Oriented Strategy"
+        ],
+        "validity": "2 years",
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Reasoning",
+            "time": "08:00AM - 9:00AM",
+            "_id": "694054956385517afa651ef0"
+          },
+          {
+            "topic": "Biology",
+            "time": "11:00AM - 12:30PM",
+            "_id": "694054956385517afa651ef1"
+          },
+          {
+            "topic": "GS",
+            "time": "02:00PM - 03:00PM",
+            "_id": "694054956385517afa651ef2"
+          },
+          {
+            "topic": "Physics",
+            "time": "05:00PM - 06:00PM",
+            "_id": "694054956385517afa651ef3"
+          },
+          {
+            "topic": "Maths",
+            "time": "06:00PM - 7:00PM",
+            "_id": "694054956385517afa651ef4"
+          }
+        ],
+        "createdAt": "2025-11-21T11:08:06.055Z",
+        "updatedAt": "2025-12-15T18:33:57.321Z",
+        "studentCount": 5,
+        "id": "69204816dd258fd323a45956",
+        "short_description": "RRB NTPC, Group D, ALP, JE, Technician Grade I & III, RPF Constable & SI, RRB Section Controller, RRB Paramedical (Non-Tech)",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1763723573427-Railway_Foundation_Batch_App_Banner_11_oct.png",
+        "mainCategory": {
+          "mainCategoryName": "Railway Exams",
+          "id": "683def9b2f4523ef6c8b188a"
+        },
+        "category": {
+          "categoryName": "Railway",
+          "id": "69204b9239642e9188a54015"
+        },
+        "facultyDetails": {
+          "_id": 0,
+          "id": "69204f76dd258fd323c0fc3f",
+          "name": "Railway Team",
+          "designation": "Gagan sir and team",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Selectionway 1 (1).png",
+          "socialLinks": [],
+          "experience": "7+ years",
+          "reach": "20+ lakhs student",
+          "description": "  Gagan sir and team"
+        },
+        "demoVideos": null,
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "railway-foundation-batch",
+        "discountPercentage": "80.02",
+        "tags": [
+          "500+ Classes",
+          "Already Started",
+          "Validity 2 years"
+        ],
+        "mainCategoryName": "Railway Exams"
+      },
+      {
+        "status": "active",
+        "priority": 6,
+        "price": 3999,
+        "discountPrice": 599,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "title": "UPSI 2025 दरोगा बैच",
+        "description": [
+          "सभी विषयों का पूरा कवरेज",
+          "Live क्लासेस",
+          "Daily क्लास PDF व नोट्स",
+          "Previous Year Questions का पूरा अभ्यास"
+        ],
+        "liveClassesCount": 250,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "🔥 Complete syllabus coverage (Hindi, Law, Maths, Reasoning)",
+          "🎯 Live + Recorded classes",
+          "📚 Daily PDF notes",
+          "📝 Topic-wise practice & PYQs"
+        ],
+        "validity": "1 year",
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Reasoning",
+            "time": "08:30 AM to 09:30AM",
+            "_id": "69417fd36385517afade5bc6"
+          },
+          {
+            "topic": "GS",
+            "time": "10:00 AM to 11:00AM",
+            "_id": "69417fd36385517afade5bc7"
+          },
+          {
+            "topic": "Maths",
+            "time": "11:00 AM to 12:00 PM",
+            "_id": "69417fd36385517afade5bc8"
+          },
+          {
+            "topic": "Hindi",
+            "time": "12:00 PM to 01:00PM",
+            "_id": "69417fd36385517afade5bc9"
+          }
+        ],
+        "createdAt": "2025-12-06T09:11:56.820Z",
+        "updatedAt": "2025-12-16T15:50:43.475Z",
+        "studentCount": 5,
+        "id": "6933f35cdd258fd32320c55d",
+        "short_description": "UP Police UPSI 2025 Complete Batch — अब तैयारी नहीं, Selection होगा!",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765014780000-1000201741.png",
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "category": {
+          "categoryName": "ssc coaching",
+          "id": "683ef3a4bec860b42070f0c2"
+        },
+        "facultyDetails": {
+          "_id": 0,
+          "id": "6864f6802a698face4d45ecd",
+          "name": "Gagan Pratap Sir",
+          "designation": "Teacher",
+          "bio": "Gagan Pratap Sir – 7+ years",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/GP SIr icons .png",
+          "socialLinks": [
+            "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+          "experience": "7+ Years ",
+          "reach": "50 Lakh+ Students",
+          "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+        },
+        "demoVideos": null,
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "upsi-2025-दरोगा-बैच",
+        "discountPercentage": "85.02",
+        "tags": [
+          "250+ Classes",
+          "Already Started",
+          "Validity 1 year"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 6,
+        "price": 2499,
+        "discountPrice": 499,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "title": "UP Lekhpal Special Batch",
+        "description": [
+          "Live + recorded video lectures",
+          "Complete UP Lekhpal syllabus coverage",
+          "Basic to advanced level concept clarity",
+          "Exam-oriented teaching as per latest pattern"
+        ],
+        "liveClassesCount": 200,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "Basic to advanced level concept clarity",
+          "Expert faculty with govt exam experience",
+          "Beginner-friendly & repeater-friendly batch"
+        ],
+        "validity": "1 year",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-16T14:24:53.036Z",
+        "updatedAt": "2025-12-16T14:55:34.759Z",
+        "studentCount": 5,
+        "id": "69416bb56385517afa46f6fe",
+        "short_description": "Dedicated For UP Lekhpal",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765896887264-Lekhpal_Categary_poster_.png",
+        "mainCategory": {
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
+        },
+        "category": {
+          "categoryName": "ssc coaching",
+          "id": "683ef3a4bec860b42070f0c2"
+        },
+        "facultyDetails": {
+          "_id": 0,
+          "id": "6864f6802a698face4d45ecd",
+          "name": "Gagan Pratap Sir",
+          "designation": "Teacher",
+          "bio": "Gagan Pratap Sir – 7+ years",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/GP SIr icons .png",
+          "socialLinks": [
+            "https://youtu.be/acPjiWue9Uk?si=ERi-E2K-TzlxnzWr"
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=dutehmHv0E4",
+          "experience": "7+ Years ",
+          "reach": "50 Lakh+ Students",
+          "description": "Maths Expert for SSC, Railway & State Exams , Also known as the “Selection King”, Gagan Sir has guided and inspired lakhs of students across India. With his unique teaching style—concept clarity + shortcut tricks—he has given thousands of selections in SSC CGL, CHSL, CPO, MTS, GD, RRB NTPC, Group D, and State-level exams."
+        },
+        "demoVideos": null,
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "up-lekhpal-special-batch",
+        "discountPercentage": "80.03",
+        "tags": [
+          "200+ Classes",
+          "Already Started",
+          "Validity 1 year"
+        ],
+        "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 7,
         "price": 3999,
         "discountPrice": 499,
         "isLive": true,
@@ -1463,26 +1929,26 @@
           {
             "topic": "Reasoning",
             "time": "09:00AM - 10:00AM",
-            "_id": "6936c89bc4920665bdf8cd69"
+            "_id": "693922a76385517afa3f9d07"
           },
           {
             "topic": "Maths",
             "time": "11:00AM - 12:00PM",
-            "_id": "6936c89bc4920665bdf8cd6a"
+            "_id": "693922a76385517afa3f9d08"
           },
           {
             "topic": "Hindi",
             "time": "02:00PM - 03:00PM",
-            "_id": "6936c89bc4920665bdf8cd6b"
+            "_id": "693922a76385517afa3f9d09"
           },
           {
             "topic": "GS",
             "time": "04:00PM - 05:00PM",
-            "_id": "6936c89bc4920665bdf8cd6c"
+            "_id": "693922a76385517afa3f9d0a"
           }
         ],
         "createdAt": "2025-12-05T08:31:00.956Z",
-        "updatedAt": "2025-12-08T12:46:19.715Z",
+        "updatedAt": "2025-12-10T07:35:03.445Z",
         "studentCount": 5,
         "id": "69329844dd258fd3230f50d7",
         "short_description": "Dedicated for SSC GD 2025–26 from basics to advanced",
@@ -1522,94 +1988,64 @@
       {
         "status": "active",
         "priority": 7,
-        "price": 4999,
-        "discountPrice": 999,
+        "price": 1999,
+        "discountPrice": 199,
         "isLive": true,
         "isRecorded": false,
         "isFree": false,
-        "title": "Railway Foundation Batch",
+        "title": "UP होमगार्ड Batch",
         "description": [
-          "India’s First Complete Railway-Focused Preparation Program",
-          "Faculty: India’s No.1 Railway Teaching Team",
-          "Duration: 5–6 Months ",
-          "validity 2 years",
-          "Mode: Live + Notes + Tests",
-          "Price: Rs. 999 (Launch Offer)"
+          "Daily live classes",
+          "Zero level से advance तक पूरा syllabus cover",
+          "Topic-wise notes और downloadable PDFs",
+          "PYQs + Expected Questions की लगातार practice"
         ],
-        "liveClassesCount": 500,
+        "liveClassesCount": 200,
         "recordedClassesCount": 0,
         "courseInfo": [],
         "courseHighlights": [
-          "⏳ Batch Duration: 5–6 Months | Validity: 2 Years",
-          "📚 Mode: Live Classes + Notes + Test Series",
-          "🚀 Designed with a Result-Oriented Strategy"
+          "Daily live classes"
         ],
-        "validity": "2 years",
-        "isTimeTable": true,
-        "timeTable": [
-          {
-            "topic": "Reasoning",
-            "time": "08:00AM - 9:00AM",
-            "_id": "693709d1d3220ee0f50665f9"
-          },
-          {
-            "topic": "Biology",
-            "time": "11:00AM - 12:30PM",
-            "_id": "693709d1d3220ee0f50665fa"
-          },
-          {
-            "topic": "GS",
-            "time": "02:00PM - 03:00PM",
-            "_id": "693709d1d3220ee0f50665fb"
-          },
-          {
-            "topic": "Physics",
-            "time": "05:00PM - 06:00PM",
-            "_id": "693709d1d3220ee0f50665fc"
-          },
-          {
-            "topic": "Maths",
-            "time": "06:00PM - 7:00PM",
-            "_id": "693709d1d3220ee0f50665fd"
-          }
-        ],
-        "createdAt": "2025-11-21T11:08:06.055Z",
-        "updatedAt": "2025-12-08T17:24:33.239Z",
+        "validity": "1 years",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-11T11:16:17.395Z",
+        "updatedAt": "2025-12-11T13:35:07.673Z",
         "studentCount": 5,
-        "id": "69204816dd258fd323a45956",
-        "short_description": "RRB NTPC, Group D, ALP, JE, Technician Grade I & III, RPF Constable & SI, RRB Section Controller, RRB Paramedical (Non-Tech)",
-        "banner": "https://selectionwayserver.hranker.com/courses/banners/1763723573427-Railway_Foundation_Batch_App_Banner_11_oct.png",
+        "id": "693aa8016385517afa84329d",
+        "short_description": "Dedicated For UP होमगार्ड भर्ती 2026",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765452051272-UP_HomeGuard_Batch_App_Banner_11_oct.png",
         "mainCategory": {
-          "mainCategoryName": "Railway Exams",
-          "id": "683def9b2f4523ef6c8b188a"
+          "mainCategoryName": "All Competitive Exams",
+          "id": "683def9b2f4523ef6c8b1887"
         },
         "category": {
-          "categoryName": "Railway",
-          "id": "69204b9239642e9188a54015"
+          "categoryName": "ssc coaching",
+          "id": "683ef3a4bec860b42070f0c2"
         },
         "facultyDetails": {
           "_id": 0,
-          "id": "69204f76dd258fd323c0fc3f",
-          "name": "Railway Team",
-          "designation": "Gagan sir and team",
-          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Selectionway 1 (1).png",
+          "id": "69204edcdd258fd323be982e",
+          "name": "Jeet Rana sir",
+          "designation": "GS faculty",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Jeet .png",
           "socialLinks": [],
-          "experience": "7+ years",
+          "experience": "3+ years",
           "reach": "20+ lakhs student",
-          "description": "  Gagan sir and team"
+          "description": "⭐ Jeet Rana Sir – GS / GK Expert (Railway & SSC Specialist)\r\n\r\n“The Most Active Teacher in Railway Exams” | Pattern Decoder | Content Master\r\n\r\nJeet Rana Sir पूरे India में अपने accurate analysis, deep GS understanding, और Railway-specific content के लिए जाने जाते हैं।\r\nRailway exams में आने वाले copy–paste questions को पहले ही predict कर देने की क्षमता ने इन्हें students का favourite बना दिया है।\r\n\r\n⸻\r\n\r\n⭐ Experience & Achievements\r\n • 5+ Years Teaching Experience\r\n • Railway + SSC के हजारों selections\r\n • Most trusted GS educator for Railway NTPC, Group-D, ALP & JE\r\n • हर exam का trend, pattern और expected question decode करने में महारत\r\n • Previous year + current pattern दोनों को merge करके best content तैयार करते हैं\r\n • पूरे India में लाखों students के mentor"
         },
         "demoVideos": null,
         "faq": null,
         "isPaid": false,
         "isBlinking": false,
-        "slug": "railway-foundation-batch",
-        "discountPercentage": "80.02",
+        "slug": "up-होमगार्ड-batch",
+        "discountPercentage": "90.05",
         "tags": [
-          "500+ Classes",
+          "200+ Classes",
           "Already Started",
-          "Validity 2 years"
+          "Validity 1 years"
         ],
-        "mainCategoryName": "Railway Exams"
+        "mainCategoryName": "All Competitive Exams"
       },
       {
         "status": "active",
@@ -1636,10 +2072,16 @@
           "📝 Topic-wise Practice Sets + PYQs (UPSI Focused)"
         ],
         "validity": "1 year",
-        "isTimeTable": false,
-        "timeTable": [],
+        "isTimeTable": true,
+        "timeTable": [
+          {
+            "topic": "Timing",
+            "time": "10:00 AM to 11:00AM",
+            "_id": "693ca3ac6385517afab94edd"
+          }
+        ],
         "createdAt": "2025-12-06T09:23:36.506Z",
-        "updatedAt": "2025-12-08T12:46:43.037Z",
+        "updatedAt": "2025-12-12T23:22:20.653Z",
         "studentCount": 5,
         "id": "6933f618dd258fd3232fcf33",
         "short_description": "UPSI 2025 के लिए Polity और मूलविधि का सबसे मजबूत बैच!",
@@ -1969,12 +2411,12 @@
           "id": "68dcc62a43a337ee935e57b3",
           "name": "Aman Sir",
           "designation": "English Teacher",
-          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
+          "bio": "10+ Years Experience in teaching English for\r\ncompetitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven\r\nselections\r\nTrusted by lakhs of students across India",
           "imageUrl": "https://selectionwayserver.hranker.com/faculty/Aman Sir icons .png",
           "socialLinks": [],
           "experience": "10+years",
           "reach": "Lakhs of Students",
-          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
+          "description": " 10+ Years Experience in teaching English for competitive exams\r\nMentor behind multiple Top-100 rankers every year\r\nKnown for his simple teaching technique & proven selections\r\nTrusted by lakhs of students across India"
         },
         "demoVideos": null,
         "faq": null,
@@ -1988,12 +2430,79 @@
           "Validity 1 year"
         ],
         "mainCategoryName": "All Competitive Exams"
+      },
+      {
+        "status": "active",
+        "priority": 60,
+        "price": 2999,
+        "discountPrice": 999,
+        "isLive": true,
+        "isRecorded": false,
+        "isFree": false,
+        "title": "NTPC PSYCHO BATCH",
+        "description": [
+          "LIVE + REC. CLASSES",
+          "Content Based on RDSO",
+          "Latest Exam Pattern",
+          "Study Material(Pdf)",
+          "Doubt Session"
+        ],
+        "liveClassesCount": 50,
+        "recordedClassesCount": 0,
+        "courseInfo": [],
+        "courseHighlights": [
+          "LIVE + REC. CLASSES",
+          "Content Based on RDSO",
+          "Latest Exam Pattern",
+          "Study Material(Pdf) and Doubt Session"
+        ],
+        "validity": "1 year",
+        "isTimeTable": false,
+        "timeTable": [],
+        "createdAt": "2025-12-15T11:35:28.349Z",
+        "updatedAt": "2025-12-16T11:49:30.293Z",
+        "studentCount": 5,
+        "id": "693ff2801f7d472f7eeac163",
+        "short_description": "NTPC PSYCHO BATCH",
+        "banner": "https://selectionwayserver.hranker.com/courses/banners/1765807543021-Railway_psycho_Banner_.png",
+        "mainCategory": {
+          "mainCategoryName": "Railway Exams",
+          "id": "683def9b2f4523ef6c8b188a"
+        },
+        "category": {
+          "categoryName": "Railway",
+          "id": "69204b9239642e9188a54015"
+        },
+        "facultyDetails": {
+          "_id": 0,
+          "id": "69204e4ddd258fd323bc52cf",
+          "name": "Deepak sir",
+          "designation": "Reasoning Faculty",
+          "bio": "“Reasoning की मशीन” | India’s Most Loved Railway Reasoning Mentor\r\n\r\nDeepak Sir रेलवे और SSC reasoning के सबसे trusted नामों में से एक हैं।\r\nइन्होंने लाखों छात्रों को शुरुआत से लेकर final selection तक guide किया है, और अपने latest-pattern based, smart, exam-oriented teaching style के लिए पूरे India में जाने जाते हैं।\r\n\r\nउनकी खासियत है—\r\nसभी topics को zero से आसान तरीके से समझाना + exam में आने वाले exact pattern पर practice करवाना।",
+          "imageUrl": "https://selectionwayserver.hranker.com/faculty/Deepak .png",
+          "socialLinks": [],
+          "experience": "8+ years",
+          "reach": "50 Lakh+ Students",
+          "description": "⭐ Experience & Achievements\r\n • 7+ Years Teaching Experience\r\n • Railway Exams के 1000+ selections का proven record\r\n • “Reasoning को सबसे आसान बनाना” इनकी पहचान\r\n • Thousands of students call him “Selection Machine”\r\n • Exact exam matching content देना—copy-paste level तक"
+        },
+        "demoVideos": null,
+        "faq": null,
+        "isPaid": false,
+        "isBlinking": false,
+        "slug": "ntpc-psycho-batch",
+        "discountPercentage": "66.69",
+        "tags": [
+          "50+ Classes",
+          "Already Started",
+          "Validity 1 year"
+        ],
+        "mainCategoryName": "Railway Exams"
       }
     ],
     "recordedBatches": [
       {
         "status": "active",
-        "priority": 19,
+        "priority": 190,
         "price": 999,
         "discountPrice": 99,
         "isLive": false,
@@ -2016,7 +2525,7 @@
         "validity": "1 years",
         "timeTable": [],
         "createdAt": "2025-09-30T12:55:04.846Z",
-        "updatedAt": "2025-12-08T12:37:16.205Z",
+        "updatedAt": "2025-12-16T11:51:09.705Z",
         "isTimeTable": false,
         "studentCount": 5,
         "id": "68dbdf3a63a1698bf4194576",
