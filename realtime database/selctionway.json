@@ -1,325 +1,450 @@
- [
-    {
-      "batchId": "683def9c2f4523ef6c8b18c5",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471969470-image.png",
-      "createdAt": "2025-12-20T09:32:07.066Z",
-      "title": "Defence- all in one",
-      "updatedAt": "2025-12-24T18:34:52.589Z"
-    },
-    {
-      "batchId": "683def9c2f4523ef6c8b18b7",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471989254-cors.png",
-      "createdAt": "2025-12-20T09:32:06.213Z",
-      "title": "SSC all in one",
-      "updatedAt": "2025-12-24T18:34:51.093Z"
-    },
-    {
-      "batchId": "68a6be03a741c9fd7187fca3",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760472022990-imaged.png",
-      "createdAt": "2025-12-20T09:32:05.681Z",
-      "title": "Railway all in one - 2",
-      "updatedAt": "2025-12-24T18:34:49.672Z"
-    },
-    {
-      "batchId": "683def9c2f4523ef6c8b18bd",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471946067-imaged.png",
-      "createdAt": "2025-12-20T09:32:05.256Z",
-      "title": "Railways- all in one",
-      "updatedAt": "2025-12-24T18:34:48.260Z"
-    },
-    {
-      "batchId": "683def9c2f4523ef6c8b18ae",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760472038888-imaged.png",
-      "createdAt": "2025-12-20T09:32:04.555Z",
-      "title": "Railway all in one",
-      "updatedAt": "2025-12-24T18:34:46.530Z"
-    },
-    {
-      "batchId": "683def9c2f4523ef6c8b18cb",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471757956-image.png",
-      "createdAt": "2025-12-20T09:32:03.308Z",
-      "title": "Defence all in one",
-      "updatedAt": "2025-12-24T18:34:44.763Z"
-    },
-    {
-      "batchId": "684050f55db342bb13da8211",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471722724-cors.png",
-      "createdAt": "2025-12-20T09:32:02.351Z",
-      "title": "SSC Recorded Batch",
-      "updatedAt": "2025-12-24T18:34:42.990Z"
-    },
-    {
-      "batchId": "68bc5b80a721af475c9ac115",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471651145-1757313913587-hqdefault_(3).jpg",
-      "createdAt": "2025-12-20T09:32:01.696Z",
-      "title": "COMPLETE ADVANCE MATHS",
-      "updatedAt": "2025-12-24T18:34:41.521Z"
-    },
-    {
-      "batchId": "68bc5ba8a721af475c9ac19b",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471460820-1000066551_(1).jpeg",
-      "createdAt": "2025-12-20T09:32:00.981Z",
-      "title": "SSC MATHS PYQ SERIES",
-      "updatedAt": "2025-12-24T18:34:39.784Z"
-    },
-    {
-      "batchId": "68bc5bc8a721af475c9ac21f",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471423381-1757313832053-hqdefault_(1).jpg",
-      "createdAt": "2025-12-20T09:32:00.216Z",
-      "title": "RAILWAY ADVANCE MATHS",
-      "updatedAt": "2025-12-24T18:34:38.332Z"
-    },
-    {
-      "batchId": "68bc5c26a721af475c9ac2a5",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471391652-1000066549.jpeg",
-      "createdAt": "2025-12-20T09:31:59.300Z",
-      "title": "RAILWAY FREE BATCH",
-      "updatedAt": "2025-12-24T18:34:36.587Z"
-    },
-    {
-      "batchId": "68be7de9a721af475c9b04b4",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471352273-1758391605769-1757325458544-hqdefault_(4).jpg",
-      "createdAt": "2025-12-20T09:31:58.300Z",
-      "title": "सम्पूर्ण BATCH MATHS SPECIAL",
-      "updatedAt": "2025-12-24T18:34:34.832Z"
-    },
-    {
-      "batchId": "68ce5fe8bb3c8f24bb3d4f77",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450679425-1760426839758-IMG_4802.png",
-      "createdAt": "2025-12-20T09:31:56.921Z",
-      "title": "Maths Special-1",
-      "updatedAt": "2025-12-24T18:34:32.755Z"
-    },
-    {
-      "batchId": "68d6550a99a6043c5d2dbca1",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760470294013-1758876938156-ssc2024image.jpg",
-      "createdAt": "2025-12-20T09:31:55.307Z",
-      "title": "SSC 2024 Exams Best Questions Solution",
-      "updatedAt": "2025-12-24T18:34:30.944Z"
-    },
-    {
-      "batchId": "68d7a797209cc08d6e31f672",
-      "banner": "https://hranker-node.s3.ap-south-1.amazonaws.com/courses/banners/1758963607762-desktop-wallpaper-black-board-ppt-backgrounds-powerpoint-backgrounds-coloring-background-ppt-simple.jpg",
-      "createdAt": "2025-12-20T09:31:54.559Z",
-      "title": "maths recorded gagan pratap sir",
-      "updatedAt": "2025-12-24T18:34:29.510Z"
-    },
-    {
-      "batchId": "68dbd32801d050d5b62e45cc",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1762335998045-harish_sir_red_Science.png",
-      "createdAt": "2025-12-20T09:31:53.553Z",
-      "title": "Science Special foundation Batch",
-      "updatedAt": "2025-12-24T18:34:27.451Z"
-    },
-    {
-      "batchId": "68dbd51563a1698bf4194573",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
-      "createdAt": "2025-12-20T09:31:51.026Z",
-      "title": "English Special-1",
-      "updatedAt": "2025-12-24T18:34:25.078Z"
-    },
-    {
-      "batchId": "68dbdf3a63a1698bf4194576",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1762333624056-harish_sir_red.png",
-      "createdAt": "2025-12-20T09:31:46.425Z",
-      "title": "RRB Group-D Target batch",
-      "updatedAt": "2025-12-24T18:34:22.993Z"
-    },
-    {
-      "batchId": "68dbd69163a1698bf4194575",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
-      "createdAt": "2025-12-20T09:31:44.220Z",
-      "title": "GS Special-1",
-      "updatedAt": "2025-12-24T18:34:20.605Z"
-    },
-    {
-      "batchId": "68dbd66763a1698bf4194574",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
-      "createdAt": "2025-12-20T09:31:41.637Z",
-      "title": "Reasoning Special-1",
-      "updatedAt": "2025-12-24T18:34:18.390Z"
-    },
-    {
-      "batchId": "68dbd603f975d67976534e12",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760708317029-IMG_4791.png",
-      "createdAt": "2025-12-20T09:31:37.567Z",
-      "title": "Selection Batch-1",
-      "updatedAt": "2025-12-24T18:34:15.316Z"
-    },
-    {
-      "batchId": "68e27174dfde12332485c494",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
-      "createdAt": "2025-12-20T09:31:29.292Z",
-      "title": "SSC Mains Batch",
-      "updatedAt": "2025-12-24T18:34:11.941Z"
-    },
-    {
-      "batchId": "68e7b92dd191c00e5c8d713e",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
-      "createdAt": "2025-12-20T09:31:23.413Z",
-      "title": "SSC MAINS MATHS BATCH",
-      "updatedAt": "2025-12-24T18:34:09.698Z"
-    },
-    {
-      "batchId": "68e7b6e6aaf4383d1192dfb6",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
-      "createdAt": "2025-12-20T09:31:21.708Z",
-      "title": "SSC MAINS ENGLISH BATCH",
-      "updatedAt": "2025-12-24T18:34:07.288Z"
-    },
-    {
-      "batchId": "690afc8bf48d1caffd0c0319",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199250481-WhatsApp_Image_2025-12-08_at_6.33.08_PM.jpeg",
-      "createdAt": "2025-12-20T09:31:19.739Z",
-      "title": "GS Special-2",
-      "updatedAt": "2025-12-24T18:34:05.204Z"
-    },
-    {
-      "batchId": "690b0cdc6aeca24e9397ab6f",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199237740-WhatsApp_Image_2025-12-08_at_6.33.09_PM.jpeg",
-      "createdAt": "2025-12-20T09:31:17.503Z",
-      "title": "Selection Batch-2",
-      "updatedAt": "2025-12-24T18:34:02.453Z"
-    },
-    {
-      "batchId": "690b0e556aeca24e9398c340",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199217026-WhatsApp_Image_2025-12-08_at_6.33.11_PM.jpeg",
-      "createdAt": "2025-12-20T09:31:10.987Z",
-      "title": "Reasoning Special-2",
-      "updatedAt": "2025-12-24T18:34:00.252Z"
-    },
-    {
-      "batchId": "690b0ee719fedfd663790697",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199189747-WhatsApp_Image_2025-12-08_at_6.33.10_PM_(1).jpeg",
-      "createdAt": "2025-12-20T09:31:08.726Z",
-      "title": "English Special-2",
-      "updatedAt": "2025-12-24T18:33:57.896Z"
-    },
-    {
-      "batchId": "690b0fa65085387730114664",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199172618-WhatsApp_Image_2025-12-08_at_6.33.10_PM_(2).jpeg",
-      "createdAt": "2025-12-20T09:31:04.879Z",
-      "title": "Maths Special-2",
-      "updatedAt": "2025-12-24T18:33:55.840Z"
-    },
-    {
-      "batchId": "691d6de4dd258fd32356421a",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1763734711985-IMG_20251121_183028_370_(2).jpg",
-      "createdAt": "2025-12-20T09:31:03.293Z",
-      "title": "Railway Group-D Science VOD Batch",
-      "updatedAt": "2025-12-24T18:33:53.773Z"
-    },
-    {
-      "batchId": "69204816dd258fd323a45956",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1763723573427-Railway_Foundation_Batch_App_Banner_11_oct.png",
-      "createdAt": "2025-12-20T09:31:00.656Z",
-      "title": "Railway Foundation Batch",
-      "updatedAt": "2025-12-24T18:33:51.417Z"
-    },
-    {
-      "batchId": "69204beb39642e9188a548b9",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1763724389298-Science_Special_Batch_App_Banner_11_oct.png",
-      "createdAt": "2025-12-20T09:30:57.906Z",
-      "title": "Science Special 2",
-      "updatedAt": "2025-12-24T18:33:49.321Z"
-    },
-    {
-      "batchId": "69329844dd258fd3230f50d7",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1764923541882-SSC_GD_2026_Batch_App_Banner_DEC_.png",
-      "createdAt": "2025-12-20T09:30:56.116Z",
-      "title": "SSC GD Target Batch",
-      "updatedAt": "2025-12-24T18:33:47.292Z"
-    },
-    {
-      "batchId": "6933f35cdd258fd32320c55d",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765014780000-1000201741.png",
-      "createdAt": "2025-12-20T09:30:54.560Z",
-      "title": "UPSI 2025 दरोगा बैच",
-      "updatedAt": "2025-12-24T18:33:45.237Z"
-    },
-    {
-      "batchId": "6933f618dd258fd3232fcf33",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765013045618-poster_mool.jpg",
-      "createdAt": "2025-12-20T09:30:53.574Z",
-      "title": "UPSI 2025 POLITY +मूलविधि",
-      "updatedAt": "2025-12-24T18:33:43.746Z"
-    },
-    {
-      "batchId": "69367c0233d222e80e32ab9a",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351890565-GS_App_Banner_8_Dec__(2).png",
-      "createdAt": "2025-12-20T09:30:53.045Z",
-      "title": "GS Special-3",
-      "updatedAt": "2025-12-24T18:33:42.268Z"
-    },
-    {
-      "batchId": "69367e9933d222e80e32c6c9",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351840245-Maths_App_Banner_8_Dec__(2).png",
-      "createdAt": "2025-12-20T09:30:52.346Z",
-      "title": "Maths Special-3",
-      "updatedAt": "2025-12-24T18:33:40.826Z"
-    },
-    {
-      "batchId": "69367ea133d222e80e32c6ce",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765193085808-Selection_Batch_App_Banner_8_Dec_.png",
-      "createdAt": "2025-12-20T09:30:50.799Z",
-      "title": "Selection Batch-3",
-      "updatedAt": "2025-12-24T18:33:38.367Z"
-    },
-    {
-      "batchId": "69367ea733d222e80e32c6d9",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351433141-English_App_Banner_8_Dec__(2).png",
-      "createdAt": "2025-12-20T09:30:47.321Z",
-      "title": "English Special-3",
-      "updatedAt": "2025-12-24T18:33:35.870Z"
-    },
-    {
-      "batchId": "69367eb033d222e80e32c6de",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351419428-Reasoning_App_Banner_8_Dec__(2).png",
-      "createdAt": "2025-12-20T09:30:45.011Z",
-      "title": "Reasoning Special-3",
-      "updatedAt": "2025-12-24T18:33:34.349Z"
-    },
-    {
-      "batchId": "693aa8016385517afa84329d",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765452051272-UP_HomeGuard_Batch_App_Banner_11_oct.png",
-      "createdAt": "2025-12-20T09:30:44.581Z",
-      "title": "UP होमगार्ड Batch",
-      "updatedAt": "2025-12-24T18:33:32.866Z"
-    },
-    {
-      "batchId": "693ff2801f7d472f7eeac163",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765807543021-Railway_psycho_Banner_.png",
-      "createdAt": "2025-12-20T09:30:43.722Z",
-      "title": "NTPC PSYCHO BATCH",
-      "updatedAt": "2025-12-24T18:33:31.115Z"
-    },
-    {
-      "batchId": "69416bb56385517afa46f6fe",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1765896887264-Lekhpal_Categary_poster_.png",
-      "createdAt": "2025-12-20T09:30:43.289Z",
-      "title": "UP Lekhpal Special",
-      "updatedAt": "2025-12-24T18:33:29.691Z"
-    },
-    {
-      "batchId": "6943f10fcd0a679bc1207d93",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1766060376051-1763723573427-Railway_Foundation_Batch_App_Banner_11_oct.png",
-      "createdAt": "2025-12-20T09:30:42.844Z",
-      "title": "Railway Foundation Batch -2",
-      "updatedAt": "2025-12-24T18:33:27.568Z"
-    },
-    {
-      "batchId": "6943f165cd0a679bc120abf4",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1766063157214-science.png",
-      "createdAt": "2025-12-20T09:30:42.413Z",
-      "title": "Science Booster Batch",
-      "updatedAt": "2025-12-24T18:33:26.084Z"
-    },
-    {
-      "batchId": "694403528b3dd15b95906023",
-      "banner": "https://selectionwayserver.hranker.com/courses/banners/1766065229188-Railway_Reasoning_Special_banner_.png",
-      "createdAt": "2025-12-20T09:30:41.973Z",
-      "title": "Railway Reasoning Batch",
-      "updatedAt": "2025-12-24T18:33:24.296Z"
-    }
-  ]
-
+[
+  {
+    "batchId": "69904a6f466e8361a4fb8066",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771072225378-Maths_VOD_BAtch_App_Banner__2.jpg",
+    "createdAt": "2026-02-14T10:11:59.445Z",
+    "title": "Maths Special VOD Batch-2",
+    "updatedAt": "2026-02-23T08:01:07.974Z"
+  },
+  {
+    "batchId": "698487d5fdd21a8a2d1a5270",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770294764728-shubham_sir..png",
+    "createdAt": "2026-02-05T12:06:45.349Z",
+    "title": "GS संपूर्ण Batch",
+    "updatedAt": "2026-02-23T08:00:02.202Z"
+  },
+  {
+    "batchId": "698481ddfdd21a8a2d18ac80",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770293243520-Aman_Sir_b.jpg",
+    "createdAt": "2026-02-05T11:41:17.862Z",
+    "title": "English Special-5",
+    "updatedAt": "2026-02-23T10:03:09.908Z"
+  },
+  {
+    "batchId": "698481d9fdd21a8a2d18ac76",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770293264618-Gagan_Sir_b.jpg",
+    "createdAt": "2026-02-05T11:41:13.584Z",
+    "title": "Maths Special-5",
+    "updatedAt": "2026-02-12T14:00:43.644Z"
+  },
+  {
+    "batchId": "698481d5fdd21a8a2d18ac70",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770293286822-Varun_Sir_b.jpg",
+    "createdAt": "2026-02-05T11:41:09.054Z",
+    "title": "GS Special-5",
+    "updatedAt": "2026-02-12T14:00:55.261Z"
+  },
+  {
+    "batchId": "698481cefdd21a8a2d18ac6a",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770293314189-Balram_Sir_b.jpg",
+    "createdAt": "2026-02-05T11:41:02.927Z",
+    "title": "Reasoning Special-5",
+    "updatedAt": "2026-02-12T14:01:08.916Z"
+  },
+  {
+    "batchId": "698481c9fdd21a8a2d18ac5b",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770293628648-Selection_Batch_App_Banner_Feb__.jpg",
+    "createdAt": "2026-02-05T11:40:57.679Z",
+    "title": "Selection Batch-5",
+    "updatedAt": "2026-02-24T20:41:48.661Z"
+  },
+  {
+    "batchId": "697df3954ca8c7fbe8f501ee",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1769933750778-Group_D_Banner_for_app_0_0.jpg",
+    "createdAt": "2026-01-31T12:20:37.352Z",
+    "title": "RRB Group D Batch",
+    "updatedAt": "2026-02-23T08:02:12.930Z"
+  },
+  {
+    "batchId": "69622fc8027f25d29ebca4f6",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1768051324850-1000226155.jpg",
+    "createdAt": "2026-01-10T10:54:00.595Z",
+    "title": "तथास्तु BATCH 2026",
+    "updatedAt": "2026-02-17T07:27:38.442Z"
+  },
+  {
+    "batchId": "695b8c2d2feca20f81c25e5b",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1767616660989-WhatsApp_Image_2026-01-05_at_18.05.40_(1).jpeg",
+    "createdAt": "2026-01-05T10:02:21.108Z",
+    "title": "Selection Batch-4",
+    "updatedAt": "2026-02-05T12:38:19.212Z"
+  },
+  {
+    "batchId": "695b8c282feca20f81c25e55",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1767616723580-WhatsApp_Image_2026-01-05_at_18.05.40.jpeg",
+    "createdAt": "2026-01-05T10:02:16.317Z",
+    "title": "Reasoning Special-4",
+    "updatedAt": "2026-02-05T12:38:19.874Z"
+  },
+  {
+    "batchId": "695b8c232feca20f81c25e4f",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1767616706696-WhatsApp_Image_2026-01-05_at_18.05.40_(4).jpeg",
+    "createdAt": "2026-01-05T10:02:11.625Z",
+    "title": "English Special-4",
+    "updatedAt": "2026-02-05T12:38:16.771Z"
+  },
+  {
+    "batchId": "695b8c1e2feca20f81c25e48",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770720873446-GS_App_Banner_jan_.jpg",
+    "createdAt": "2026-01-05T10:02:06.630Z",
+    "title": "GS Special-4",
+    "updatedAt": "2026-02-10T10:54:34.155Z"
+  },
+  {
+    "batchId": "695b8c182feca20f81c25e42",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086231880-Maths_App_Banner_jan_png.jpg",
+    "createdAt": "2026-01-05T10:02:00.352Z",
+    "title": "Maths Special-4",
+    "updatedAt": "2026-02-14T16:23:52.650Z"
+  },
+  {
+    "batchId": "69550afab54cadeb6105fa51",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1767184563813-dfgh.jpeg",
+    "createdAt": "2025-12-31T11:37:30.054Z",
+    "title": "उप्र कांस्टेबल सिपाही BATCH",
+    "updatedAt": "2026-02-17T07:28:18.147Z"
+  },
+  {
+    "batchId": "6946ab747610406230d5e1b8",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766331686634-1000209920.png",
+    "createdAt": "2025-12-20T13:58:12.346Z",
+    "title": "Eduquity Revision Batch",
+    "updatedAt": "2026-01-27T07:16:35.418Z"
+  },
+  {
+    "batchId": "694403528b3dd15b95906023",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766065229188-Railway_Reasoning_Special_banner_.png",
+    "createdAt": "2025-12-18T13:36:18.673Z",
+    "title": "Railway Reasoning Batch",
+    "updatedAt": "2026-02-16T09:36:25.675Z"
+  },
+  {
+    "batchId": "6943f165cd0a679bc120abf4",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766063157214-science.png",
+    "createdAt": "2025-12-18T12:19:49.136Z",
+    "title": "Science Booster Batch",
+    "updatedAt": "2026-01-27T07:12:07.505Z"
+  },
+  {
+    "batchId": "6943f10fcd0a679bc1207d93",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766060376051-1763723573427-Railway_Foundation_Batch_App_Banner_11_oct.png",
+    "createdAt": "2025-12-18T12:18:24.003Z",
+    "title": "Railway Foundation Batch -2",
+    "updatedAt": "2026-02-24T20:42:11.101Z"
+  },
+  {
+    "batchId": "69416bb56385517afa46f6fe",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765896887264-Lekhpal_Categary_poster_.png",
+    "createdAt": "2025-12-16T14:24:53.036Z",
+    "title": "UP Lekhpal Special",
+    "updatedAt": "2026-01-21T11:50:34.437Z"
+  },
+  {
+    "batchId": "693ff2801f7d472f7eeac163",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765807543021-Railway_psycho_Banner_.png",
+    "createdAt": "2025-12-15T11:35:28.349Z",
+    "title": "NTPC PSYCHO BATCH",
+    "updatedAt": "2026-01-21T11:50:36.002Z"
+  },
+  {
+    "batchId": "693aa8016385517afa84329d",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765452051272-UP_HomeGuard_Batch_App_Banner_11_oct.png",
+    "createdAt": "2025-12-11T11:16:17.395Z",
+    "title": "UP होमगार्ड Batch",
+    "updatedAt": "2026-02-17T07:28:34.604Z"
+  },
+  {
+    "batchId": "69367eb033d222e80e32c6de",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351419428-Reasoning_App_Banner_8_Dec__(2).png",
+    "createdAt": "2025-12-08T07:30:56.324Z",
+    "title": "Reasoning Special-3",
+    "updatedAt": "2026-01-21T11:50:36.953Z"
+  },
+  {
+    "batchId": "69367ea733d222e80e32c6d9",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765351433141-English_App_Banner_8_Dec__(2).png",
+    "createdAt": "2025-12-08T07:30:47.154Z",
+    "title": "English Special-3",
+    "updatedAt": "2026-01-21T11:50:36.296Z"
+  },
+  {
+    "batchId": "69367ea133d222e80e32c6ce",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765193085808-Selection_Batch_App_Banner_8_Dec_.png",
+    "createdAt": "2025-12-08T07:30:41.165Z",
+    "title": "Selection Batch-3",
+    "updatedAt": "2026-01-29T12:53:25.054Z"
+  },
+  {
+    "batchId": "69367e9933d222e80e32c6c9",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086252824-Maths_App_Banner_8_Dec_.jpg",
+    "createdAt": "2025-12-08T07:30:33.139Z",
+    "title": "Maths Special-3",
+    "updatedAt": "2026-02-14T16:24:13.646Z"
+  },
+  {
+    "batchId": "69367c0233d222e80e32ab9a",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086213858-GS_App_Banner_8_Dec__(2).jpg",
+    "createdAt": "2025-12-08T07:19:30.987Z",
+    "title": "GS Special-3",
+    "updatedAt": "2026-02-14T16:23:34.518Z"
+  },
+  {
+    "batchId": "6933f618dd258fd3232fcf33",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765013045618-poster_mool.jpg",
+    "createdAt": "2025-12-06T09:23:36.506Z",
+    "title": "UPSI 2025 POLITY +मूलविधि",
+    "updatedAt": "2026-02-17T07:27:58.485Z"
+  },
+  {
+    "batchId": "6933f35cdd258fd32320c55d",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770370974585-UPSI_2026_Batch_App_Banner_11_oct_(2).jpg",
+    "createdAt": "2025-12-06T09:11:56.820Z",
+    "title": "UPSI 2025 दरोगा बैच",
+    "updatedAt": "2026-02-17T07:28:51.339Z"
+  },
+  {
+    "batchId": "69329844dd258fd3230f50d7",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086194869-SSC_GD_2026_Batch_App_Banner_DEC_.jpg",
+    "createdAt": "2025-12-05T08:31:00.956Z",
+    "title": "SSC GD Target Batch",
+    "updatedAt": "2026-02-23T10:36:02.212Z"
+  },
+  {
+    "batchId": "69204beb39642e9188a548b9",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1763724389298-Science_Special_Batch_App_Banner_11_oct.png",
+    "createdAt": "2025-11-21T11:24:27.690Z",
+    "title": "Science Special 2",
+    "updatedAt": "2026-01-27T07:13:47.152Z"
+  },
+  {
+    "batchId": "69204816dd258fd323a45956",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1770629322740-Railway_Foundation_Batch_App_Banner_11_oct.jpg",
+    "createdAt": "2025-11-21T11:08:06.055Z",
+    "title": "Railway Foundation Batch",
+    "updatedAt": "2026-02-09T13:36:40.797Z"
+  },
+  {
+    "batchId": "691d6de4dd258fd32356421a",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1763734711985-IMG_20251121_183028_370_(2).jpg",
+    "createdAt": "2025-11-19T07:12:36.520Z",
+    "title": "Railway Group-D Science VOD Batch",
+    "updatedAt": "2026-01-21T11:50:36.890Z"
+  },
+  {
+    "batchId": "69150be0932c0deb70330767",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766734589950-vod_banner.jpeg",
+    "createdAt": "2025-11-12T22:36:16.705Z",
+    "title": "Maths Special VOD Batch",
+    "updatedAt": "2026-02-16T09:37:25.020Z"
+  },
+  {
+    "batchId": "690b0fa65085387730114664",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086273716-gagan_sir_mains_level_red.jpg",
+    "createdAt": "2025-11-05T08:49:42.090Z",
+    "title": "Maths Special-2",
+    "updatedAt": "2026-02-14T16:24:34.496Z"
+  },
+  {
+    "batchId": "690b0ee719fedfd663790697",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199189747-WhatsApp_Image_2025-12-08_at_6.33.10_PM_(1).jpeg",
+    "createdAt": "2025-11-05T08:46:31.549Z",
+    "title": "English Special-2",
+    "updatedAt": "2026-01-21T11:50:34.329Z"
+  },
+  {
+    "batchId": "690b0e556aeca24e9398c340",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199217026-WhatsApp_Image_2025-12-08_at_6.33.11_PM.jpeg",
+    "createdAt": "2025-11-05T08:44:05.543Z",
+    "title": "Reasoning Special-2",
+    "updatedAt": "2026-01-21T11:50:34.690Z"
+  },
+  {
+    "batchId": "690b0cdc6aeca24e9397ab6f",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199237740-WhatsApp_Image_2025-12-08_at_6.33.09_PM.jpeg",
+    "createdAt": "2025-11-05T08:37:48.871Z",
+    "title": "Selection Batch-2",
+    "updatedAt": "2026-01-29T12:53:49.183Z"
+  },
+  {
+    "batchId": "690afc8bf48d1caffd0c0319",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1765199250481-WhatsApp_Image_2025-12-08_at_6.33.08_PM.jpeg",
+    "createdAt": "2025-11-05T07:28:11.673Z",
+    "title": "GS Special-2",
+    "updatedAt": "2026-01-29T12:59:51.260Z"
+  },
+  {
+    "batchId": "68ef76338b84905b84eebde7",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1766897927376-aman_sir_main_level_red.jpg",
+    "createdAt": "2025-10-15T10:23:47.571Z",
+    "title": "Vocab Mastery VOD Batch",
+    "updatedAt": "2026-01-27T07:11:07.764Z"
+  },
+  {
+    "batchId": "68e7b6e6aaf4383d1192dfb6",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450276577-1760426657317-IMG_4799.png",
+    "createdAt": "2025-10-09T13:21:42.885Z",
+    "title": "SSC MAINS ENGLISH BATCH",
+    "updatedAt": "2026-02-17T07:25:56.859Z"
+  },
+  {
+    "batchId": "68e7b92dd191c00e5c8d713e",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450156815-1760426810209-IMG_4798.png",
+    "createdAt": "2025-10-09T13:21:42.885Z",
+    "title": "SSC MAINS MATHS BATCH",
+    "updatedAt": "2026-02-17T07:26:08.168Z"
+  },
+  {
+    "batchId": "68e27174dfde12332485c494",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450361199-1760426421325-IMG_4796.png",
+    "createdAt": "2025-10-05T13:24:04.052Z",
+    "title": "SSC Mains Batch",
+    "updatedAt": "2026-02-17T07:26:23.662Z"
+  },
+  {
+    "batchId": "68dbd603f975d67976534e12",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771054468170-IMG_4791_2.png",
+    "createdAt": "2025-09-30T13:07:15.555Z",
+    "title": "Selection Batch-1",
+    "updatedAt": "2026-02-14T07:34:29.068Z"
+  },
+  {
+    "batchId": "68dbdf3a63a1698bf4194576",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1762333624056-harish_sir_red.png",
+    "createdAt": "2025-09-30T12:55:04.846Z",
+    "title": "RRB Group-D Target batch",
+    "updatedAt": "2026-02-17T07:26:50.243Z"
+  },
+  {
+    "batchId": "68dbd66763a1698bf4194574",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450562395-1760427060701-IMG_4804.png",
+    "createdAt": "2025-09-30T12:55:04.846Z",
+    "title": "Reasoning Special-1",
+    "updatedAt": "2026-01-21T11:50:36.600Z"
+  },
+  {
+    "batchId": "68dbd69163a1698bf4194575",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450520522-1760427023576-IMG_4803.png",
+    "createdAt": "2025-09-30T12:55:04.846Z",
+    "title": "GS Special-1",
+    "updatedAt": "2026-01-29T13:00:18.702Z"
+  },
+  {
+    "batchId": "68dbd51563a1698bf4194573",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760450597110-1760426744178-IMG_4801.png",
+    "createdAt": "2025-09-30T12:55:04.846Z",
+    "title": "English Special-1",
+    "updatedAt": "2026-01-21T11:50:34.179Z"
+  },
+  {
+    "batchId": "68dbd32801d050d5b62e45cc",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1762335998045-harish_sir_red_Science.png",
+    "createdAt": "2025-09-30T12:55:04.846Z",
+    "title": "Science Special foundation Batch",
+    "updatedAt": "2026-01-21T11:50:34.095Z"
+  },
+  {
+    "batchId": "68d7a797209cc08d6e31f672",
+    "banner": "https://hranker-node.s3.ap-south-1.amazonaws.com/courses/banners/1758963607762-desktop-wallpaper-black-board-ppt-backgrounds-powerpoint-backgrounds-coloring-background-ppt-simple.jpg",
+    "createdAt": "2025-09-27T09:00:07.845Z",
+    "title": "maths recorded gagan pratap sir",
+    "updatedAt": "2025-09-27T09:08:12.430Z"
+  },
+  {
+    "batchId": "68d6550a99a6043c5d2dbca1",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760470294013-1758876938156-ssc2024image.jpg",
+    "createdAt": "2025-09-26T08:55:38.252Z",
+    "title": "SSC 2024 Exams Best Questions Solution",
+    "updatedAt": "2026-01-21T11:50:35.739Z"
+  },
+  {
+    "batchId": "68ce5fe8bb3c8f24bb3d4f77",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1771086356616-gagan_sir_mains_level_red.jpg",
+    "createdAt": "2025-09-20T08:03:52.970Z",
+    "title": "Maths Special-1",
+    "updatedAt": "2026-02-14T16:25:57.190Z"
+  },
+  {
+    "batchId": "68be7de9a721af475c9b04b4",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471352273-1758391605769-1757325458544-hqdefault_(4).jpg",
+    "createdAt": "2025-09-08T06:55:37.089Z",
+    "title": "सम्पूर्ण BATCH MATHS SPECIAL",
+    "updatedAt": "2026-01-21T11:50:36.370Z"
+  },
+  {
+    "batchId": "68bc5c26a721af475c9ac2a5",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471391652-1000066549.jpeg",
+    "createdAt": "2025-09-06T16:07:02.001Z",
+    "title": "RAILWAY FREE BATCH",
+    "updatedAt": "2026-01-21T11:50:35.511Z"
+  },
+  {
+    "batchId": "68bc5bc8a721af475c9ac21f",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471423381-1757313832053-hqdefault_(1).jpg",
+    "createdAt": "2025-09-06T16:05:28.277Z",
+    "title": "RAILWAY ADVANCE MATHS",
+    "updatedAt": "2026-01-21T11:50:35.442Z"
+  },
+  {
+    "batchId": "68bc5ba8a721af475c9ac19b",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471460820-1000066551_(1).jpeg",
+    "createdAt": "2025-09-06T16:04:56.046Z",
+    "title": "SSC MATHS PYQ SERIES",
+    "updatedAt": "2026-01-21T11:50:34.609Z"
+  },
+  {
+    "batchId": "68bc5b80a721af475c9ac115",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471651145-1757313913587-hqdefault_(3).jpg",
+    "createdAt": "2025-09-06T16:04:17.002Z",
+    "title": "COMPLETE ADVANCE MATHS",
+    "updatedAt": "2026-01-21T11:50:36.171Z"
+  },
+  {
+    "batchId": "684050f55db342bb13da8211",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471722724-cors.png",
+    "createdAt": "2025-06-04T13:58:13.337Z",
+    "title": "SSC Recorded Batch",
+    "updatedAt": "2026-01-21T11:50:33.507Z"
+  },
+  {
+    "batchId": "683def9c2f4523ef6c8b18cb",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471757956-image.png",
+    "createdAt": "2025-06-02T18:38:20.247Z",
+    "title": "Defence all in one",
+    "updatedAt": "2026-01-21T11:50:35.365Z"
+  },
+  {
+    "batchId": "683def9c2f4523ef6c8b18ae",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760472038888-imaged.png",
+    "createdAt": "2025-06-02T18:38:20.246Z",
+    "title": "Railway all in one",
+    "updatedAt": "2026-01-21T11:50:36.844Z"
+  },
+  {
+    "batchId": "68a6be03a741c9fd7187fca3",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760472022990-imaged.png",
+    "createdAt": "2025-06-02T18:38:20.246Z",
+    "title": "Railway all in one - 2",
+    "updatedAt": "2026-01-21T11:50:36.516Z"
+  },
+  {
+    "batchId": "683def9c2f4523ef6c8b18bd",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471946067-imaged.png",
+    "createdAt": "2025-06-02T18:38:20.246Z",
+    "title": "Railways- all in one",
+    "updatedAt": "2026-01-21T11:50:36.425Z"
+  },
+  {
+    "batchId": "683def9c2f4523ef6c8b18b7",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471989254-cors.png",
+    "createdAt": "2025-06-02T18:38:20.246Z",
+    "title": "SSC all in one",
+    "updatedAt": "2026-01-21T11:50:36.096Z"
+  },
+  {
+    "batchId": "683def9c2f4523ef6c8b18c5",
+    "banner": "https://selectionwayserver.hranker.com/courses/banners/1760471969470-image.png",
+    "createdAt": "2025-06-02T18:38:20.246Z",
+    "title": "Defence- all in one",
+    "updatedAt": "2026-01-21T11:50:35.665Z"
+  }
+]
