@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "course_id": "C001",
+      "name": "Android Development",
+      "thumbnail": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
+      "real_price": "4999",
+      "discount_price": "999"
+    },
+    {
+      "course_id": "C002",
+      "name": "Web Development",
+      "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "real_price": "3999",
+      "discount_price": "799"
+    },
+    {
+      "course_id": "C003",
+      "name": "UI UX Design",
+      "thumbnail": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+      "real_price": "3500",
+      "discount_price": "699"
+    },
+    {
+      "course_id": "C004",
+      "name": "Java Programming",
+      "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "real_price": "3000",
+      "discount_price": "599"
+    },
+    {
+      "course_id": "C005",
+      "name": "Python Programming",
+      "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+      "real_price": "4200",
+      "discount_price": "899"
+    },
+    {
+      "course_id": "C006",
+      "name": "Flutter App Development",
+      "thumbnail": "https://images.unsplash.com/photo-1581276879432-15a19d654956",
+      "real_price": "4800",
+      "discount_price": "999"
+    },
+    {
+      "course_id": "C007",
+      "name": "Data Science",
+      "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "real_price": "5500",
+      "discount_price": "1299"
+    },
+    {
+      "course_id": "C008",
+      "name": "Machine Learning",
+      "thumbnail": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+      "real_price": "6000",
+      "discount_price": "1499"
+    },
+    {
+      "course_id": "C009",
+      "name": "Cyber Security",
+      "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "real_price": "5000",
+      "discount_price": "1099"
+    },
+    {
+      "course_id": "C010",
+      "name": "Digital Marketing",
+      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "real_price": "3200",
+      "discount_price": "699"
+    }
+  ]
+}
