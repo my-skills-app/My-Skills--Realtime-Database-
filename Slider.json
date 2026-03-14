@@ -1,17 +1,17 @@
 {
   "slider": [
     {
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "image": "https://i.ibb.co/FkqzTTCJ/Untitled-design-1.png",
       "title": "Welcome Banner",
       "link": "https://example.com/page1"
     },
     {
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "image": "https://i.ibb.co/FkqzTTCJ/Untitled-design-1.png",
       "title": "New Course",
       "link": "https://example.com/page2"
     },
     {
-      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "image": "https://i.ibb.co/FkqzTTCJ/Untitled-design-1.png",
       "title": "Special Offer",
       "link": "https://example.com/page3"
     }
