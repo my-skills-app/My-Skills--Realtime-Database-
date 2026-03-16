@@ -1,0 +1,81 @@
+Try this 
+
+
+Search 🔍 regex 
+
+invoke-virtual \{(?:[v|p]\d+)\}, Landroid/net/NetworkInfo.*isConnectedOrConnecting\(\)Z\s*move-result (.*)
+
+Replace Results 
+
+const $1, 0x0
+
+Search 🔎 
+
+((?:invoke-virtual \{.*\}, )(?:Landroid/net/NetworkCapabilities;->hasTransport\(I\)Z\s+)|(?:Lcom.*HelperUtils;->isVpnConnectionAvailable\(\)Z\n+\s+))move-result ([pv]\d+)
+
+Replace
+
+$1const/4 $2, 0x0
+
+THIS ARE BASIC METHOD FOR VPN AND PROXY BYPASS BY MR X 
+
+IF YOU'RE DEVICE ROOT THERE IS ANOTHER METHOD 
+
+👋🇧🇩
+
+
+
+alianwar8851@gmail.com
+Password 
+RUDRAXPRO668600
+
+
+
+
+Bypass VPN Detection With mt manager [Dex File Edit]
+
+1)
+Search;
+(const/4 [pv]\d+, 0x4\n\n(\s{4}\.line \d+\n)?\s{4}invoke-virtual \{[pv]\d+, [pv]\d+\}, Landroid/net/NetworkCapabilities;->hasTransport\(I\)Z\n\n(\s{4}\.line \d+\n)?\s{4})move-result ([pv]\d+)
+
+Replace;
+$1const/4 $4, 0x0
+
+
+2)
+Search;
+(const/4 .*, 0x4[^>]*invoke-virtual .*, Landroid/net/NetworkCapabilities;->hasTransport\(I\)Z[^>]*)move-result (.*)
+
+Replace;
+$1const/4 $2, 0x0
+
+3)
+Search;
+(const-string .*, "(tun|tunl0|tun0|utun0|utun1|utun2|utun3|utun4|pptp|ppp|pp0|ppp0|p2p0|ccmni0|ipsec)[^>]*.*, L.*contains(.*)Z[^>]*)move-result (.*)
+
+Replace;
+$1const/4 $4, 0x0
+
+4)
+Search;
+(const-string .*, "(tun|tunl0|tun0|utun0|utun1|utun2|utun3|utun4|pptp|ppp|pp0|ppp0|p2p0|ccmni0|ipsec)"[^>]*.*, L.*(.*)Z[^>]*)move-result (.*)
+
+Replace;
+$1const/4 $4, 0x0
+
+5)
+Search;
+(invoke-virtual .*, Ljava/net/NetworkInterface;->isUp\(\)Z[^>]*)move-result (.*)
+
+Replace;
+$1const/4 $2, 0x0
+
+
+🔥→ NetworkCapabilities (hasTransport)←🔥
+
+→How to work←
+Click Here
+
+Note: Not work All apps
+
+@reversalhu
